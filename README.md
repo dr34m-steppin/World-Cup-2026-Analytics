@@ -1,6 +1,6 @@
 # World Cup 2026 Analytics
 
-A football analytics site for the 2026 World Cup, inspired by the clean intelligence surfaces of STATSWING and impact-model leaderboard products like xGRAPM.
+A football analytics site for the 2026 World Cup, focused on tournament predictions, player impact, team analysis, and match intelligence.
 
 ## What Is Included
 
@@ -46,4 +46,3 @@ https://github.com/dr34m-steppin/World-Cup-2026-Analytics
 ```
 
 Then enable GitHub Pages from the repository settings.
-
