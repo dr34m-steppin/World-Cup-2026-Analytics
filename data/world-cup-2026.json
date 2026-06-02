@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "last_updated": "2026-06-02",
+    "source": "sample model data; replace through scripts/fotmob_sync.py",
+    "calibration_confidence": 0.72
+  },
+  "teams": [
+    {
+      "country": "Brazil",
+      "rating": 2114,
+      "title_probability": 0.163,
+      "final_probability": 0.302,
+      "semi_probability": 0.473,
+      "profile": "Elite ball progression and transition threat. The model likes Brazil most when the front line receives early against unsettled blocks.",
+      "tags": [
+        "transition",
+        "wide creation",
+        "press resistance"
+      ]
+    },
+    {
+      "country": "France",
+      "rating": 2098,
+      "title_probability": 0.151,
+      "final_probability": 0.278,
+      "semi_probability": 0.437,
+      "profile": "High ceiling squad with strong duel profiles and tournament-tested shot creation. Defensive spacing is the key swing factor.",
+      "tags": [
+        "duels",
+        "shot volume",
+        "depth"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "rating": 2072,
+      "title_probability": 0.131,
+      "final_probability": 0.242,
+      "semi_probability": 0.38,
+      "profile": "Control-heavy team with strong rest-defense and late-game management. Their path improves when match tempo stays low.",
+      "tags": [
+        "control",
+        "rest-defense",
+        "set pieces"
+      ]
+    },
+    {
+      "country": "England",
+      "rating": 2059,
+      "title_probability": 0.122,
+      "final_probability": 0.225,
+      "semi_probability": 0.352,
+      "profile": "Deep attacking group with excellent penalty-box occupation. Chance quality is strong when midfield progression is clean.",
+      "tags": [
+        "box threat",
+        "depth",
+        "dead balls"
+      ]
+    },
+    {
+      "country": "Spain",
+      "rating": 2042,
+      "title_probability": 0.11,
+      "final_probability": 0.203,
+      "semi_probability": 0.318,
+      "profile": "Possession value and counterpressing keep their floor high. The model watches direct chance prevention against fast opponents.",
+      "tags": [
+        "counterpress",
+        "possession",
+        "territory"
+      ]
+    },
+    {
+      "country": "Germany",
+      "rating": 2015,
+      "title_probability": 0.092,
+      "final_probability": 0.171,
+      "semi_probability": 0.267,
+      "profile": "Strong territory team with improving central combinations. Defensive transition efficiency determines the ceiling.",
+      "tags": [
+        "territory",
+        "central creation",
+        "tempo"
+      ]
+    },
+    {
+      "country": "Portugal",
+      "rating": 2007,
+      "title_probability": 0.087,
+      "final_probability": 0.161,
+      "semi_probability": 0.253,
+      "profile": "Technically rich attack with multiple ball-winners behind it. Shot selection and role balance remain the main model questions.",
+      "tags": [
+        "technical quality",
+        "ball winning",
+        "chance quality"
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "rating": 1989,
+      "title_probability": 0.077,
+      "final_probability": 0.142,
+      "semi_probability": 0.222,
+      "profile": "Reliable defensive structure and aerial value. Upside depends on converting controlled possession into central shots.",
+      "tags": [
+        "structure",
+        "aerial value",
+        "defense"
+      ]
+    },
+    {
+      "country": "Uruguay",
+      "rating": 1974,
+      "title_probability": 0.068,
+      "final_probability": 0.126,
+      "semi_probability": 0.198,
+      "profile": "Aggressive pressing and verticality create upset equity. Card risk and game-state volatility add variance.",
+      "tags": [
+        "pressing",
+        "verticality",
+        "variance"
+      ]
+    }
+  ],
+  "players": [
+    {
+      "name": "Kylian Mbappe",
+      "country": "France",
+      "role": "FWD",
+      "impact_score": 2.71,
+      "attack": 2.64,
+      "defense": 0.07,
+      "availability": 0.91
+    },
+    {
+      "name": "Jude Bellingham",
+      "country": "England",
+      "role": "MID",
+      "impact_score": 2.38,
+      "attack": 1.71,
+      "defense": 0.67,
+      "availability": 0.88
+    },
+    {
+      "name": "Vinicius Junior",
+      "country": "Brazil",
+      "role": "FWD",
+      "impact_score": 2.31,
+      "attack": 2.42,
+      "defense": -0.11,
+      "availability": 0.86
+    },
+    {
+      "name": "Rodri",
+      "country": "Spain",
+      "role": "MID",
+      "impact_score": 2.06,
+      "attack": 1.11,
+      "defense": 0.95,
+      "availability": 0.82
+    },
+    {
+      "name": "Federico Valverde",
+      "country": "Uruguay",
+      "role": "MID",
+      "impact_score": 1.84,
+      "attack": 1.02,
+      "defense": 0.82,
+      "availability": 0.9
+    },
+    {
+      "name": "Virgil van Dijk",
+      "country": "Netherlands",
+      "role": "DEF",
+      "impact_score": 1.63,
+      "attack": 0.31,
+      "defense": 1.32,
+      "availability": 0.89
+    },
+    {
+      "name": "Alisson",
+      "country": "Brazil",
+      "role": "GK",
+      "impact_score": 1.31,
+      "attack": 0.08,
+      "defense": 1.23,
+      "availability": 0.87
+    },
+    {
+      "name": "Bruno Fernandes",
+      "country": "Portugal",
+      "role": "MID",
+      "impact_score": 1.29,
+      "attack": 1.46,
+      "defense": -0.17,
+      "availability": 0.88
+    }
+  ],
+  "matches": [
+    {
+      "stage": "Group stage",
+      "kickoff_local": "TBD",
+      "home": "Brazil",
+      "away": "Netherlands",
+      "home_win": 0.474,
+      "draw": 0.295,
+      "away_win": 0.231,
+      "analysis": "Brazil own the higher attacking ceiling, but the Netherlands reduce open-play chaos well. First goal probability strongly changes the live forecast."
+    },
+    {
+      "stage": "Group stage",
+      "kickoff_local": "TBD",
+      "home": "France",
+      "away": "Uruguay",
+      "home_win": 0.473,
+      "draw": 0.296,
+      "away_win": 0.232,
+      "analysis": "France project as favorites on shot quality, while Uruguay's press creates the main upset path through turnovers in the middle third."
+    },
+    {
+      "stage": "Knockout projection",
+      "kickoff_local": "Model simulation",
+      "home": "Argentina",
+      "away": "England",
+      "home_win": 0.349,
+      "draw": 0.326,
+      "away_win": 0.324,
+      "analysis": "A near coin-flip after regulation. Argentina gain control value; England gain box threat and set-piece leverage."
+    }
+  ],
+  "bracket_rounds": [
+    {
+      "name": "Projected Quarterfinals",
+      "matchups": [
+        {
+          "home": "Brazil",
+          "away": "Netherlands",
+          "home_win": 0.61,
+          "away_win": 0.39
+        },
+        {
+          "home": "France",
+          "away": "Uruguay",
+          "home_win": 0.64,
+          "away_win": 0.36
+        }
+      ]
+    },
+    {
+      "name": "Projected Semifinals",
+      "matchups": [
+        {
+          "home": "Brazil",
+          "away": "Argentina",
+          "home_win": 0.54,
+          "away_win": 0.46
+        },
+        {
+          "home": "France",
+          "away": "England",
+          "home_win": 0.52,
+          "away_win": 0.48
+        }
+      ]
+    },
+    {
+      "name": "Projected Final",
+      "matchups": [
+        {
+          "home": "Brazil",
+          "away": "France",
+          "home_win": 0.51,
+          "away_win": 0.49
+        }
+      ]
+    }
+  ]
+}

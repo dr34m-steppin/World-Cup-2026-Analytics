@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>World Cup 2026 Analytics</title>
+    <meta
+      name="description"
+      content="World Cup 2026 prediction model, matchup probabilities, player impact leaderboard, and match analysis."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href="#top" aria-label="World Cup 2026 Analytics home">
+          <span class="brand-mark">26</span>
+          <span>World Cup Analytics</span>
+        </a>
+        <div class="nav-links">
+          <a href="#predictions">Predictions</a>
+          <a href="#leaderboard">Impact</a>
+          <a href="#matches">Matches</a>
+          <a href="#teams">Teams</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">FIFA World Cup 2026 model room</p>
+          <h1>Predictions, player impact, and post-match intelligence in one living dashboard.</h1>
+          <p>
+            A public analytics surface for tournament probabilities, matchup forecasts,
+            player value, and match-by-match analysis. Data refreshes are designed to run
+            after every completed fixture.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#predictions">View model</a>
+            <a class="button secondary" href="#leaderboard">Player impact</a>
+          </div>
+        </div>
+        <div class="hero-panel" aria-label="Model snapshot">
+          <div class="panel-header">
+            <span>Live Model Snapshot</span>
+            <span id="lastUpdated">Loading...</span>
+          </div>
+          <div class="probability-stack" id="heroProbabilities"></div>
+        </div>
+      </section>
+
+      <section class="metrics-band" aria-label="Model summary">
+        <div>
+          <span class="metric-value" id="trackedMatches">0</span>
+          <span class="metric-label">matches tracked</span>
+        </div>
+        <div>
+          <span class="metric-value" id="trackedTeams">0</span>
+          <span class="metric-label">teams modeled</span>
+        </div>
+        <div>
+          <span class="metric-value" id="trackedPlayers">0</span>
+          <span class="metric-label">players graded</span>
+        </div>
+        <div>
+          <span class="metric-value" id="modelConfidence">0%</span>
+          <span class="metric-label">calibration confidence</span>
+        </div>
+      </section>
+
+      <section class="section" id="predictions">
+        <div class="section-heading">
+          <p class="eyebrow">Tournament forecast</p>
+          <h2>Title probabilities and bracket path</h2>
+        </div>
+        <div class="prediction-layout">
+          <div class="table-shell">
+            <table>
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Country</th>
+                  <th>Rating</th>
+                  <th>Win</th>
+                  <th>Final</th>
+                  <th>Semi</th>
+                </tr>
+              </thead>
+              <tbody id="predictionTable"></tbody>
+            </table>
+          </div>
+          <div class="bracket" id="bracket"></div>
+        </div>
+      </section>
+
+      <section class="section" id="leaderboard">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Player impact model</p>
+            <h2>Impact leaderboard</h2>
+          </div>
+          <label class="filter-label">
+            Role
+            <select id="roleFilter">
+              <option value="all">All roles</option>
+              <option value="GK">Goalkeepers</option>
+              <option value="DEF">Defenders</option>
+              <option value="MID">Midfielders</option>
+              <option value="FWD">Forwards</option>
+            </select>
+          </label>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Player</th>
+                <th>Country</th>
+                <th>Role</th>
+                <th>Impact</th>
+                <th>Attack</th>
+                <th>Defense</th>
+                <th>Availability</th>
+              </tr>
+            </thead>
+            <tbody id="leaderboardTable"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="section" id="matches">
+        <div class="section-heading">
+          <p class="eyebrow">Match center</p>
+          <h2>Upcoming predictions and analysis</h2>
+        </div>
+        <div class="match-grid" id="matchGrid"></div>
+      </section>
+
+      <section class="section" id="teams">
+        <div class="section-heading">
+          <p class="eyebrow">Scouting room</p>
+          <h2>Team profiles</h2>
+        </div>
+        <div class="team-grid" id="teamGrid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Built as an independent football analytics project. Data layer supports approved APIs,
+        scheduled refreshes, and transparent model outputs.
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
+

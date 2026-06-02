@@ -1,0 +1,33 @@
+name: Update World Cup Data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh source data
+        env:
+          FOOTBALL_DATA_API_URL: ${{ secrets.FOOTBALL_DATA_API_URL }}
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+          ALLOW_UNOFFICIAL_FOTMOB: ${{ secrets.ALLOW_UNOFFICIAL_FOTMOB }}
+          FOTMOB_WORLD_CUP_LEAGUE_ID: ${{ secrets.FOTMOB_WORLD_CUP_LEAGUE_ID }}
+        run: python scripts/fotmob_sync.py
+      - name: Recompute model
+        run: python scripts/model.py
+      - name: Commit data changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update World Cup model data"
+          file_pattern: data/world-cup-2026.json
+
