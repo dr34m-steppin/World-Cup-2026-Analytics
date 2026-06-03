@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-02",
+    "last_updated": "2026-06-03",
     "source": "sample model data; replace through scripts/fotmob_sync.py",
     "calibration_confidence": 0.72
   },
