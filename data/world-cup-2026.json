@@ -1,16 +1,21 @@
 {
   "meta": {
     "last_updated": "2026-06-04",
-    "source": "sample model data; replace through scripts/fotmob_sync.py",
-    "calibration_confidence": 0.72
+    "source": "team list from FIFA confirmed 48-team field; player impact sample pending FotMob ingest",
+    "team_list_source": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/world-cup-2026-who-has-qualified",
+    "squad_source_note": "FIFA published final 48 squad lists on 2026-06-01. FotMob player-level ingestion still requires approved API access or verified player IDs.",
+    "calibration_confidence": 0.72,
+    "expected_teams": 48,
+    "expected_player_pool": 1248
   },
   "teams": [
     {
       "country": "Brazil",
+      "confederation": "CONMEBOL",
       "rating": 2114,
-      "title_probability": 0.163,
-      "final_probability": 0.302,
-      "semi_probability": 0.473,
+      "title_probability": 0.102,
+      "final_probability": 0.188,
+      "semi_probability": 0.295,
       "profile": "Elite ball progression and transition threat. The model likes Brazil most when the front line receives early against unsettled blocks.",
       "tags": [
         "transition",
@@ -20,10 +25,11 @@
     },
     {
       "country": "France",
+      "confederation": "UEFA",
       "rating": 2098,
-      "title_probability": 0.151,
-      "final_probability": 0.278,
-      "semi_probability": 0.437,
+      "title_probability": 0.094,
+      "final_probability": 0.174,
+      "semi_probability": 0.272,
       "profile": "High ceiling squad with strong duel profiles and tournament-tested shot creation. Defensive spacing is the key swing factor.",
       "tags": [
         "duels",
@@ -33,10 +39,11 @@
     },
     {
       "country": "Argentina",
+      "confederation": "CONMEBOL",
       "rating": 2072,
-      "title_probability": 0.131,
-      "final_probability": 0.242,
-      "semi_probability": 0.38,
+      "title_probability": 0.082,
+      "final_probability": 0.151,
+      "semi_probability": 0.237,
       "profile": "Control-heavy team with strong rest-defense and late-game management. Their path improves when match tempo stays low.",
       "tags": [
         "control",
@@ -46,10 +53,11 @@
     },
     {
       "country": "England",
+      "confederation": "UEFA",
       "rating": 2059,
-      "title_probability": 0.122,
-      "final_probability": 0.225,
-      "semi_probability": 0.352,
+      "title_probability": 0.076,
+      "final_probability": 0.14,
+      "semi_probability": 0.22,
       "profile": "Deep attacking group with excellent penalty-box occupation. Chance quality is strong when midfield progression is clean.",
       "tags": [
         "box threat",
@@ -59,10 +67,11 @@
     },
     {
       "country": "Spain",
+      "confederation": "UEFA",
       "rating": 2042,
-      "title_probability": 0.11,
-      "final_probability": 0.203,
-      "semi_probability": 0.318,
+      "title_probability": 0.068,
+      "final_probability": 0.127,
+      "semi_probability": 0.198,
       "profile": "Possession value and counterpressing keep their floor high. The model watches direct chance prevention against fast opponents.",
       "tags": [
         "counterpress",
@@ -72,10 +81,11 @@
     },
     {
       "country": "Germany",
+      "confederation": "UEFA",
       "rating": 2015,
-      "title_probability": 0.092,
-      "final_probability": 0.171,
-      "semi_probability": 0.267,
+      "title_probability": 0.057,
+      "final_probability": 0.106,
+      "semi_probability": 0.167,
       "profile": "Strong territory team with improving central combinations. Defensive transition efficiency determines the ceiling.",
       "tags": [
         "territory",
@@ -85,10 +95,11 @@
     },
     {
       "country": "Portugal",
+      "confederation": "UEFA",
       "rating": 2007,
-      "title_probability": 0.087,
-      "final_probability": 0.161,
-      "semi_probability": 0.253,
+      "title_probability": 0.054,
+      "final_probability": 0.101,
+      "semi_probability": 0.158,
       "profile": "Technically rich attack with multiple ball-winners behind it. Shot selection and role balance remain the main model questions.",
       "tags": [
         "technical quality",
@@ -98,10 +109,11 @@
     },
     {
       "country": "Netherlands",
+      "confederation": "UEFA",
       "rating": 1989,
-      "title_probability": 0.077,
-      "final_probability": 0.142,
-      "semi_probability": 0.222,
+      "title_probability": 0.048,
+      "final_probability": 0.088,
+      "semi_probability": 0.138,
       "profile": "Reliable defensive structure and aerial value. Upside depends on converting controlled possession into central shots.",
       "tags": [
         "structure",
@@ -111,15 +123,562 @@
     },
     {
       "country": "Uruguay",
+      "confederation": "CONMEBOL",
       "rating": 1974,
-      "title_probability": 0.068,
-      "final_probability": 0.126,
-      "semi_probability": 0.198,
+      "title_probability": 0.042,
+      "final_probability": 0.079,
+      "semi_probability": 0.123,
       "profile": "Aggressive pressing and verticality create upset equity. Card risk and game-state volatility add variance.",
       "tags": [
         "pressing",
         "verticality",
         "variance"
+      ]
+    },
+    {
+      "country": "Belgium",
+      "confederation": "UEFA",
+      "rating": 1968,
+      "title_probability": 0.04,
+      "final_probability": 0.075,
+      "semi_probability": 0.117,
+      "profile": "Attacking quality remains high, especially between the lines. The model is cautious about defensive recovery runs against elite pace.",
+      "tags": [
+        "creation",
+        "experience",
+        "spacing"
+      ]
+    },
+    {
+      "country": "Colombia",
+      "confederation": "CONMEBOL",
+      "rating": 1956,
+      "title_probability": 0.037,
+      "final_probability": 0.068,
+      "semi_probability": 0.106,
+      "profile": "Good ball-carrying and wide chance creation give Colombia real knockout equity. Set-piece defense is a key watch point.",
+      "tags": [
+        "ball carrying",
+        "wide play",
+        "set pieces"
+      ]
+    },
+    {
+      "country": "Morocco",
+      "confederation": "CAF",
+      "rating": 1946,
+      "title_probability": 0.033,
+      "final_probability": 0.062,
+      "semi_probability": 0.097,
+      "profile": "Compact defensive phases and high-end transition runners make Morocco difficult to separate from in knockout matches.",
+      "tags": [
+        "compactness",
+        "transition",
+        "duels"
+      ]
+    },
+    {
+      "country": "Croatia",
+      "confederation": "UEFA",
+      "rating": 1932,
+      "title_probability": 0.029,
+      "final_probability": 0.054,
+      "semi_probability": 0.085,
+      "profile": "Midfield control and tournament experience keep the floor stable. Chance volume will decide whether the ceiling is still elite.",
+      "tags": [
+        "midfield",
+        "experience",
+        "control"
+      ]
+    },
+    {
+      "country": "Switzerland",
+      "confederation": "UEFA",
+      "rating": 1918,
+      "title_probability": 0.025,
+      "final_probability": 0.047,
+      "semi_probability": 0.073,
+      "profile": "Organized, mature, and comfortable in lower-event games. Switzerland project well when protecting narrow leads.",
+      "tags": [
+        "organization",
+        "game state",
+        "defense"
+      ]
+    },
+    {
+      "country": "USA",
+      "confederation": "CONCACAF",
+      "rating": 1906,
+      "title_probability": 0.022,
+      "final_probability": 0.041,
+      "semi_probability": 0.064,
+      "profile": "Athletic midfield pressure and home-region conditions give the USA useful upside. Final-third efficiency is the swing factor.",
+      "tags": [
+        "athleticism",
+        "pressing",
+        "home edge"
+      ]
+    },
+    {
+      "country": "Mexico",
+      "confederation": "CONCACAF",
+      "rating": 1898,
+      "title_probability": 0.02,
+      "final_probability": 0.037,
+      "semi_probability": 0.058,
+      "profile": "Mexico have host-region advantages and good midfield bite. The model wants more penalty-box shot quality against compact teams.",
+      "tags": [
+        "host edge",
+        "midfield",
+        "territory"
+      ]
+    },
+    {
+      "country": "Japan",
+      "confederation": "AFC",
+      "rating": 1892,
+      "title_probability": 0.019,
+      "final_probability": 0.035,
+      "semi_probability": 0.054,
+      "profile": "Clean technical tempo and coordinated pressure keep Japan dangerous against bigger names. Their transition defense rates well.",
+      "tags": [
+        "tempo",
+        "pressing",
+        "technical"
+      ]
+    },
+    {
+      "country": "Senegal",
+      "confederation": "CAF",
+      "rating": 1886,
+      "title_probability": 0.017,
+      "final_probability": 0.032,
+      "semi_probability": 0.05,
+      "profile": "Physical, direct, and dangerous when recovering the ball high. Senegal's upside is strongest in open, duel-heavy matches.",
+      "tags": [
+        "duels",
+        "directness",
+        "pressing"
+      ]
+    },
+    {
+      "country": "Ecuador",
+      "confederation": "CONMEBOL",
+      "rating": 1880,
+      "title_probability": 0.016,
+      "final_probability": 0.03,
+      "semi_probability": 0.046,
+      "profile": "Young, intense, and defensively assertive. Ecuador's model case improves when the midfield turns pressure into fast shots.",
+      "tags": [
+        "intensity",
+        "youth",
+        "defense"
+      ]
+    },
+    {
+      "country": "Austria",
+      "confederation": "UEFA",
+      "rating": 1875,
+      "title_probability": 0.015,
+      "final_probability": 0.027,
+      "semi_probability": 0.043,
+      "profile": "Austria bring structured pressing and sharp vertical attacks. The question is whether they can sustain chance quality deep into games.",
+      "tags": [
+        "pressing",
+        "verticality",
+        "structure"
+      ]
+    },
+    {
+      "country": "Norway",
+      "confederation": "UEFA",
+      "rating": 1870,
+      "title_probability": 0.014,
+      "final_probability": 0.026,
+      "semi_probability": 0.04,
+      "profile": "Norway's star power gives them a dangerous attacking tail. Defensive block discipline shapes their knockout odds.",
+      "tags": [
+        "star power",
+        "finishing",
+        "direct play"
+      ]
+    },
+    {
+      "country": "Turkiye",
+      "confederation": "UEFA",
+      "rating": 1864,
+      "title_probability": 0.013,
+      "final_probability": 0.023,
+      "semi_probability": 0.037,
+      "profile": "High-energy midfield play and brave possession make Turkiye volatile in a useful way. Defensive spacing is the downside risk.",
+      "tags": [
+        "energy",
+        "possession",
+        "variance"
+      ]
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "confederation": "CAF",
+      "rating": 1859,
+      "title_probability": 0.012,
+      "final_probability": 0.021,
+      "semi_probability": 0.034,
+      "profile": "Strong runners and set-piece presence create upset paths. The model likes their physical edge in late-game states.",
+      "tags": [
+        "power",
+        "set pieces",
+        "late pressure"
+      ]
+    },
+    {
+      "country": "Korea Republic",
+      "confederation": "AFC",
+      "rating": 1854,
+      "title_probability": 0.011,
+      "final_probability": 0.02,
+      "semi_probability": 0.031,
+      "profile": "Korea Republic combine disciplined shape with fast attacking outlets. Wide defensive matchups are the key variable.",
+      "tags": [
+        "discipline",
+        "speed",
+        "wide play"
+      ]
+    },
+    {
+      "country": "Australia",
+      "confederation": "AFC",
+      "rating": 1838,
+      "title_probability": 0.008,
+      "final_probability": 0.015,
+      "semi_probability": 0.023,
+      "profile": "Australia project as difficult to bully physically and useful on restarts. Open-play creation decides the ceiling.",
+      "tags": [
+        "physicality",
+        "set pieces",
+        "resilience"
+      ]
+    },
+    {
+      "country": "Canada",
+      "confederation": "CONCACAF",
+      "rating": 1834,
+      "title_probability": 0.007,
+      "final_probability": 0.013,
+      "semi_probability": 0.021,
+      "profile": "Canada's speed in wide areas gives them clear transition upside. Central defensive control is the model watch point.",
+      "tags": [
+        "speed",
+        "transition",
+        "host edge"
+      ]
+    },
+    {
+      "country": "Sweden",
+      "confederation": "UEFA",
+      "rating": 1830,
+      "title_probability": 0.007,
+      "final_probability": 0.012,
+      "semi_probability": 0.019,
+      "profile": "Sweden profile as organized and aerially strong, with useful direct attacking routes when games become stretched.",
+      "tags": [
+        "aerial value",
+        "organization",
+        "direct play"
+      ]
+    },
+    {
+      "country": "Scotland",
+      "confederation": "UEFA",
+      "rating": 1824,
+      "title_probability": 0.006,
+      "final_probability": 0.011,
+      "semi_probability": 0.017,
+      "profile": "Scotland's intensity and wide service create pressure waves. The model needs more consistent shot quality to move them higher.",
+      "tags": [
+        "intensity",
+        "wide service",
+        "duels"
+      ]
+    },
+    {
+      "country": "Czechia",
+      "confederation": "UEFA",
+      "rating": 1818,
+      "title_probability": 0.005,
+      "final_probability": 0.009,
+      "semi_probability": 0.014,
+      "profile": "Czechia offer size, structure, and set-piece threat. Their upset probability rises in low-scoring knockout scripts.",
+      "tags": [
+        "set pieces",
+        "structure",
+        "aerial value"
+      ]
+    },
+    {
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "rating": 1813,
+      "title_probability": 0.004,
+      "final_probability": 0.008,
+      "semi_probability": 0.013,
+      "profile": "Paraguay's defensive aggression and restart value keep them live. Sustained possession against top teams is the concern.",
+      "tags": [
+        "aggression",
+        "restarts",
+        "defense"
+      ]
+    },
+    {
+      "country": "Egypt",
+      "confederation": "CAF",
+      "rating": 1808,
+      "title_probability": 0.004,
+      "final_probability": 0.007,
+      "semi_probability": 0.011,
+      "profile": "Egypt combine veteran attacking quality with compact defensive phases. Chance prevention after turnovers is critical.",
+      "tags": [
+        "experience",
+        "compactness",
+        "attack"
+      ]
+    },
+    {
+      "country": "Ghana",
+      "confederation": "CAF",
+      "rating": 1802,
+      "title_probability": 0.003,
+      "final_probability": 0.006,
+      "semi_probability": 0.009,
+      "profile": "Ghana have ball-carrying and athletic midfield tools. Their model path depends on reducing defensive volatility.",
+      "tags": [
+        "athleticism",
+        "ball carrying",
+        "variance"
+      ]
+    },
+    {
+      "country": "Saudi Arabia",
+      "confederation": "AFC",
+      "rating": 1798,
+      "title_probability": 0.003,
+      "final_probability": 0.005,
+      "semi_probability": 0.008,
+      "profile": "Saudi Arabia's coordinated pressing and tournament experience create tricky group-stage matchups.",
+      "tags": [
+        "pressing",
+        "experience",
+        "tempo"
+      ]
+    },
+    {
+      "country": "IR Iran",
+      "confederation": "AFC",
+      "rating": 1794,
+      "title_probability": 0.002,
+      "final_probability": 0.004,
+      "semi_probability": 0.007,
+      "profile": "IR Iran are strong in compact phases and difficult to break down. Their attacking efficiency is highly game-state sensitive.",
+      "tags": [
+        "compactness",
+        "discipline",
+        "efficiency"
+      ]
+    },
+    {
+      "country": "Qatar",
+      "confederation": "AFC",
+      "rating": 1788,
+      "title_probability": 0.002,
+      "final_probability": 0.003,
+      "semi_probability": 0.005,
+      "profile": "Qatar project best in controlled-possession matches. Defensive recovery pace is the main issue against elite transition teams.",
+      "tags": [
+        "possession",
+        "control",
+        "recovery"
+      ]
+    },
+    {
+      "country": "South Africa",
+      "confederation": "CAF",
+      "rating": 1782,
+      "title_probability": 0.001,
+      "final_probability": 0.002,
+      "semi_probability": 0.004,
+      "profile": "South Africa bring organized pressing and useful midfield running. Shot generation against settled blocks is the model concern.",
+      "tags": [
+        "pressing",
+        "running",
+        "structure"
+      ]
+    },
+    {
+      "country": "Tunisia",
+      "confederation": "CAF",
+      "rating": 1776,
+      "title_probability": 0.001,
+      "final_probability": 0.002,
+      "semi_probability": 0.003,
+      "profile": "Tunisia's defensive discipline makes them awkward in low-event matches. Progression through midfield is the swing factor.",
+      "tags": [
+        "discipline",
+        "defense",
+        "low event"
+      ]
+    },
+    {
+      "country": "Algeria",
+      "confederation": "CAF",
+      "rating": 1772,
+      "title_probability": 0.001,
+      "final_probability": 0.001,
+      "semi_probability": 0.002,
+      "profile": "Algeria have technical midfielders and strong attacking flashes. The model needs cleaner defensive control.",
+      "tags": [
+        "technical",
+        "attack",
+        "control"
+      ]
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "confederation": "UEFA",
+      "rating": 1766,
+      "title_probability": 0.0,
+      "final_probability": 0.001,
+      "semi_probability": 0.001,
+      "profile": "Bosnia and Herzegovina bring experienced profiles and set-piece danger. Their ceiling depends on transition defense.",
+      "tags": [
+        "experience",
+        "set pieces",
+        "transition"
+      ]
+    },
+    {
+      "country": "Uzbekistan",
+      "confederation": "AFC",
+      "rating": 1760,
+      "title_probability": 0.0,
+      "final_probability": 0.0,
+      "semi_probability": 0.0,
+      "profile": "Uzbekistan's organization and improving ball progression make them a credible first-tournament problem.",
+      "tags": [
+        "organization",
+        "progression",
+        "discipline"
+      ]
+    },
+    {
+      "country": "Iraq",
+      "confederation": "AFC",
+      "rating": 1754,
+      "title_probability": 0.0,
+      "final_probability": 0.0,
+      "semi_probability": 0.0,
+      "profile": "Iraq's long qualifying path points to resilience and game management. Chance creation volume is the key model limit.",
+      "tags": [
+        "resilience",
+        "management",
+        "compactness"
+      ]
+    },
+    {
+      "country": "Jordan",
+      "confederation": "AFC",
+      "rating": 1748,
+      "title_probability": 0.0,
+      "final_probability": 0.0,
+      "semi_probability": 0.0,
+      "profile": "Jordan enter with momentum and direct attacking routes. Defensive box protection shapes their upset probability.",
+      "tags": [
+        "momentum",
+        "direct play",
+        "box defense"
+      ]
+    },
+    {
+      "country": "New Zealand",
+      "confederation": "OFC",
+      "rating": 1742,
+      "title_probability": 0.0,
+      "final_probability": 0.0,
+      "semi_probability": 0.0,
+      "profile": "New Zealand rate well in aerial and set-piece phases. Open-play chance creation is the main hurdle.",
+      "tags": [
+        "aerial value",
+        "set pieces",
+        "resilience"
+      ]
+    },
+    {
+      "country": "Panama",
+      "confederation": "CONCACAF",
+      "rating": 1736,
+      "title_probability": 0.0,
+      "final_probability": 0.0,
+      "semi_probability": 0.0,
+      "profile": "Panama are organized and comfortable in physical matches. Their model path needs efficient finishing.",
+      "tags": [
+        "organization",
+        "physicality",
+        "finishing"
+      ]
+    },
+    {
+      "country": "Congo DR",
+      "confederation": "CAF",
+      "rating": 1730,
+      "title_probability": 0.0,
+      "final_probability": 0.0,
+      "semi_probability": 0.0,
+      "profile": "Congo DR carry athletic upside and transition danger. The model flags defensive spacing between lines.",
+      "tags": [
+        "athleticism",
+        "transition",
+        "spacing"
+      ]
+    },
+    {
+      "country": "Cabo Verde",
+      "confederation": "CAF",
+      "rating": 1724,
+      "title_probability": 0.0,
+      "final_probability": 0.0,
+      "semi_probability": 0.0,
+      "profile": "Cabo Verde project as compact and difficult to rush. Shot volume against higher-rated opponents is the key challenge.",
+      "tags": [
+        "compactness",
+        "discipline",
+        "shot volume"
+      ]
+    },
+    {
+      "country": "Haiti",
+      "confederation": "CONCACAF",
+      "rating": 1718,
+      "title_probability": 0.0,
+      "final_probability": 0.0,
+      "semi_probability": 0.0,
+      "profile": "Haiti's best path comes through speed, transition moments, and disciplined defending during long spells without the ball.",
+      "tags": [
+        "speed",
+        "transition",
+        "discipline"
+      ]
+    },
+    {
+      "country": "Curacao",
+      "confederation": "CONCACAF",
+      "rating": 1712,
+      "title_probability": 0.0,
+      "final_probability": 0.0,
+      "semi_probability": 0.0,
+      "profile": "Curacao arrive with historic momentum and useful technical profiles. The model treats them as high-variance underdogs.",
+      "tags": [
+        "momentum",
+        "technical",
+        "underdog"
       ]
     }
   ],
@@ -131,7 +690,8 @@
       "impact_score": 2.71,
       "attack": 2.64,
       "defense": 0.07,
-      "availability": 0.91
+      "availability": 0.91,
+      "source_status": "sample"
     },
     {
       "name": "Jude Bellingham",
@@ -140,7 +700,8 @@
       "impact_score": 2.38,
       "attack": 1.71,
       "defense": 0.67,
-      "availability": 0.88
+      "availability": 0.88,
+      "source_status": "sample"
     },
     {
       "name": "Vinicius Junior",
@@ -149,7 +710,8 @@
       "impact_score": 2.31,
       "attack": 2.42,
       "defense": -0.11,
-      "availability": 0.86
+      "availability": 0.86,
+      "source_status": "sample"
     },
     {
       "name": "Rodri",
@@ -158,7 +720,8 @@
       "impact_score": 2.06,
       "attack": 1.11,
       "defense": 0.95,
-      "availability": 0.82
+      "availability": 0.82,
+      "source_status": "sample"
     },
     {
       "name": "Federico Valverde",
@@ -167,7 +730,8 @@
       "impact_score": 1.84,
       "attack": 1.02,
       "defense": 0.82,
-      "availability": 0.9
+      "availability": 0.9,
+      "source_status": "sample"
     },
     {
       "name": "Virgil van Dijk",
@@ -176,7 +740,8 @@
       "impact_score": 1.63,
       "attack": 0.31,
       "defense": 1.32,
-      "availability": 0.89
+      "availability": 0.89,
+      "source_status": "sample"
     },
     {
       "name": "Alisson",
@@ -185,7 +750,8 @@
       "impact_score": 1.31,
       "attack": 0.08,
       "defense": 1.23,
-      "availability": 0.87
+      "availability": 0.87,
+      "source_status": "sample"
     },
     {
       "name": "Bruno Fernandes",
@@ -194,7 +760,8 @@
       "impact_score": 1.29,
       "attack": 1.46,
       "defense": -0.17,
-      "availability": 0.88
+      "availability": 0.88,
+      "source_status": "sample"
     }
   ],
   "matches": [

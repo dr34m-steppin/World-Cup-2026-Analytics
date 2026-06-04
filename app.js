@@ -17,7 +17,9 @@ function renderHero(data) {
   document.querySelector("#lastUpdated").textContent = data.meta.last_updated;
   document.querySelector("#trackedMatches").textContent = data.matches.length;
   document.querySelector("#trackedTeams").textContent = data.teams.length;
-  document.querySelector("#trackedPlayers").textContent = data.players.length;
+  document.querySelector("#trackedPlayers").textContent = data.meta.expected_player_pool
+    ? `${data.players.length}/${data.meta.expected_player_pool}`
+    : data.players.length;
   document.querySelector("#modelConfidence").textContent = percent(data.meta.calibration_confidence);
 
   const topTeams = [...data.teams].sort(byProbability).slice(0, 5);
@@ -96,6 +98,7 @@ function renderLeaderboard(data) {
             <td>${player.attack.toFixed(2)}</td>
             <td>${player.defense.toFixed(2)}</td>
             <td>${percent(player.availability)}</td>
+            <td>${player.source_status || "live"}</td>
           </tr>
         `,
       )
@@ -111,7 +114,7 @@ function renderMatches(data) {
     .map(
       (match) => `
         <article class="match-card">
-          <p class="card-kicker">${match.stage} · ${match.kickoff_local}</p>
+          <p class="card-kicker">${match.stage} - ${match.kickoff_local}</p>
           <h3>${match.home} vs ${match.away}</h3>
           <div class="match-row">
             <span>${match.home}</span>
@@ -135,11 +138,10 @@ function renderMatches(data) {
 function renderTeams(data) {
   document.querySelector("#teamGrid").innerHTML = [...data.teams]
     .sort(byProbability)
-    .slice(0, 9)
     .map(
       (team) => `
         <article class="team-card">
-          <p class="card-kicker">Rating ${team.rating} · ${percent(team.title_probability)} title chance</p>
+          <p class="card-kicker">${team.confederation || "World Cup"} - Rating ${team.rating} - ${percent(team.title_probability)} title chance</p>
           <h3>${team.country}</h3>
           <p class="card-body">${team.profile}</p>
           <div class="team-tags">
@@ -165,4 +167,3 @@ loadData()
       `<div class="error-banner">Data failed to load: ${error.message}</div>`,
     );
   });
-
