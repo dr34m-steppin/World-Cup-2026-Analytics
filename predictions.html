@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Predictions | World Cup 2026 Analytics</title>
+    <meta name="description" content="World Cup 2026 title probabilities and bracket path." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="predictions">
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href="index.html" aria-label="World Cup 2026 Analytics home">
+          <span class="brand-mark">26</span>
+          <span>World Cup Analytics</span>
+        </a>
+        <div class="nav-links">
+          <a href="predictions.html" data-nav="predictions">Predictions</a>
+          <a href="impact.html" data-nav="impact">Impact</a>
+          <a href="matches.html" data-nav="matches">Matches</a>
+          <a href="teams.html" data-nav="teams">Teams</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="page-hero">
+        <p class="eyebrow">Tournament forecast</p>
+        <h1>Title probabilities and bracket path</h1>
+        <p>Every qualified team ranked by rating, title chance, final chance, and semifinal chance.</p>
+      </section>
+
+      <section class="section page-section">
+        <div class="prediction-layout">
+          <div class="table-shell">
+            <table>
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Country</th>
+                  <th>Rating</th>
+                  <th>Win</th>
+                  <th>Final</th>
+                  <th>Semi</th>
+                </tr>
+              </thead>
+              <tbody id="predictionTable"></tbody>
+            </table>
+          </div>
+          <div class="bracket" id="bracket"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Built as an independent football analytics project.</p>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
+

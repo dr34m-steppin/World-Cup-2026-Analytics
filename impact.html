@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Player Impact | World Cup 2026 Analytics</title>
+    <meta name="description" content="World Cup 2026 player impact leaderboard." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="impact">
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href="index.html" aria-label="World Cup 2026 Analytics home">
+          <span class="brand-mark">26</span>
+          <span>World Cup Analytics</span>
+        </a>
+        <div class="nav-links">
+          <a href="predictions.html" data-nav="predictions">Predictions</a>
+          <a href="impact.html" data-nav="impact">Impact</a>
+          <a href="matches.html" data-nav="matches">Matches</a>
+          <a href="teams.html" data-nav="teams">Teams</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="page-hero">
+        <p class="eyebrow">Player impact model</p>
+        <h1>Impact leaderboard</h1>
+        <p>Targeting a 410-player World Cup regulars pool, ranked from FotMob-derived attack, defense, availability, and club-minute signals.</p>
+      </section>
+
+      <section class="section page-section">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Leaderboard</p>
+            <h2>Players</h2>
+          </div>
+          <label class="filter-label">
+            Role
+            <select id="roleFilter">
+              <option value="all">All roles</option>
+              <option value="GK">Goalkeepers</option>
+              <option value="DEF">Defenders</option>
+              <option value="MID">Midfielders</option>
+              <option value="FWD">Forwards</option>
+            </select>
+          </label>
+        </div>
+        <div class="table-shell">
+          <table>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Player</th>
+                <th>Country</th>
+                <th>Club</th>
+                <th>Role</th>
+                <th>Impact</th>
+                <th>Attack</th>
+                <th>Defense</th>
+                <th>Club mins</th>
+                <th>Regularity</th>
+                <th>Availability</th>
+                <th>Source</th>
+              </tr>
+            </thead>
+            <tbody id="leaderboardTable"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Built as an independent football analytics project.</p>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>

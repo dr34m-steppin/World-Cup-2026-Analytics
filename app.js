@@ -5,6 +5,13 @@ const percent = (value) => `${Math.round(value * 1000) / 10}%`;
 const byProbability = (a, b) => b.title_probability - a.title_probability;
 const byImpact = (a, b) => b.impact_score - a.impact_score;
 
+function setActiveNav() {
+  const page = document.body.dataset.page;
+  document.querySelectorAll("[data-nav]").forEach((link) => {
+    link.classList.toggle("active", link.dataset.nav === page);
+  });
+}
+
 async function loadData() {
   const response = await fetch(DATA_URL);
   if (!response.ok) {
@@ -14,6 +21,8 @@ async function loadData() {
 }
 
 function renderHero(data) {
+  if (!document.querySelector("#heroProbabilities")) return;
+
   document.querySelector("#lastUpdated").textContent = data.meta.last_updated;
   document.querySelector("#trackedMatches").textContent = data.matches.length;
   document.querySelector("#trackedTeams").textContent = data.teams.length;
@@ -39,6 +48,8 @@ function renderHero(data) {
 }
 
 function renderPredictions(data) {
+  if (!document.querySelector("#predictionTable")) return;
+
   const rows = [...data.teams].sort(byProbability);
   document.querySelector("#predictionTable").innerHTML = rows
     .map(
@@ -79,6 +90,7 @@ function renderPredictions(data) {
 function renderLeaderboard(data) {
   const roleFilter = document.querySelector("#roleFilter");
   const table = document.querySelector("#leaderboardTable");
+  if (!roleFilter || !table) return;
 
   const draw = () => {
     const role = roleFilter.value;
@@ -93,10 +105,13 @@ function renderLeaderboard(data) {
             <td>${index + 1}</td>
             <td><strong>${player.name}</strong></td>
             <td>${player.country}</td>
+            <td>${player.club || "pending"}</td>
             <td>${player.role}</td>
             <td><span class="pill">${player.impact_score.toFixed(2)}</span></td>
             <td>${player.attack.toFixed(2)}</td>
             <td>${player.defense.toFixed(2)}</td>
+            <td>${player.club_minutes || 0}</td>
+            <td>${percent(player.regularity || 0)}</td>
             <td>${percent(player.availability)}</td>
             <td>${player.source_status || "live"}</td>
           </tr>
@@ -110,6 +125,8 @@ function renderLeaderboard(data) {
 }
 
 function renderMatches(data) {
+  if (!document.querySelector("#matchGrid")) return;
+
   document.querySelector("#matchGrid").innerHTML = data.matches
     .map(
       (match) => `
@@ -136,6 +153,8 @@ function renderMatches(data) {
 }
 
 function renderTeams(data) {
+  if (!document.querySelector("#teamGrid")) return;
+
   document.querySelector("#teamGrid").innerHTML = [...data.teams]
     .sort(byProbability)
     .map(
@@ -152,6 +171,8 @@ function renderTeams(data) {
     )
     .join("");
 }
+
+setActiveNav();
 
 loadData()
   .then((data) => {

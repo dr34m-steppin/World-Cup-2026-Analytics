@@ -1,0 +1,1245 @@
+name,country,role,club,club_minutes,club_apps,goals,assists,xg,xa,shots_created,tackles_interceptions,clearances_blocks,aerials_won,clean_sheets,gk_saves,availability,fotmob_rating,fotmob_player_id
+Jaouen Hadjam,Algeria,DEF,Young Boys,1236,20,2,4,,,,,,,,,0.8,7.356,1178324
+Samir Chergui,Algeria,DEF,Paris FC,1155,15,1,0,,,,,,,,,0.65,6.6,1039219
+Mohamed Tougai,Algeria,DEF,Espérance,0,0,0,0,,,,,,,,,0.0,,1131925
+Luca Zidane,Algeria,GK,Granada,2339,26,0,0,,,,,,,,,1.0,6.9,770880
+Melvin Mastil,Algeria,GK,Stade Nyonnais,2880,32,0,0,,,,,,,,,1.0,7.0,1285492
+Zineddine Belaïd,Algeria,DEF,JS Kabylie,0,0,0,0,,,,,,,,,0.0,,1118823
+Rayan Aït-Nouri,Algeria,DEF,Manchester City,976,17,0,2,,,,,,,,,0.68,7.17,933845
+Aïssa Mandi,Algeria,DEF,Lille,2427,29,1,0,,,,,,,,,1.0,7.21,210683
+Ramy Bensebaini,Algeria,DEF,Borussia Dortmund,1529,21,5,2,,,,,,,,,0.84,7.49,559065
+Oussama Benbot,Algeria,GK,USM Alger,0,0,0,0,,,,,,,,,0.0,,1116034
+Farès Chaïbi,Algeria,MID,Eintracht Frankfurt,1797,28,2,9,,,,,,,,,1.0,7.08,1345875
+Achref Abada,Algeria,DEF,USM Alger,0,0,0,0,,,,,,,,,0.0,,1362385
+Ramiz Zerrouki,Algeria,MID,FC Twente,2667,32,3,1,,,,,,,,,1.0,7.28,1074967
+Houssem Aouar,Algeria,MID,Al Ittihad,1902,23,8,3,,,,,,,,,1.0,7.28,776299
+Ibrahim Maza,Algeria,MID,Bayer Leverkusen,1852,28,3,4,,,,,,,,,1.0,7.24,1457626
+Riyad Mahrez,Algeria,FWD,Al Ahli,2311,27,4,8,,,,,,,,,1.0,7.55,278343
+Nabil Bentaleb,Algeria,DEF,Lille,1278,26,2,2,,,,,,,,,1.0,6.83,500520
+Hicham Boudaoui,Algeria,MID,Nice,1694,25,1,2,,,,,,,,,1.0,6.77,1033099
+Rafik Belghali,Algeria,DEF,Hellas Verona,1926,26,2,0,,,,,,,,,1.0,6.74,1231029
+Yacine Titraoui,Algeria,MID,Sporting Charleroi,2904,35,5,1,,,,,,,,,1.0,7.2540000000000004,1288907
+Adil Boulbina,Algeria,FWD,Al-Duhail SC,1369,19,5,5,,,,,,,,,0.8,7.14,1298669
+Mohamed Amoura,Algeria,MID,Wolfsburg,1927,30,8,3,,,,,,,,,1.0,6.89,1134206
+Farès Ghedjemis,Algeria,FWD,Frosinone,3023,37,15,3,,,,,,,,,1.0,7.34,1523327
+Gerónimo Rulli,Argentina,GK,Marseille,2610,29,0,0,,,,,,,,,1.0,7.17,245555
+Emiliano Martínez,Argentina,GK,Aston Villa,2835,32,0,0,,,,,,,,,1.0,7.07,268375
+Juan Musso,Argentina,GK,Atletico Madrid,720,8,0,0,,,,,,,,,0.32,6.81,389050
+Nicolás Tagliafico,Argentina,DEF,Lyon,1310,20,0,3,,,,,,,,,0.8,6.83,195750
+Amine Gouiri,Algeria,MID,Marseille,1328,22,8,3,,,,,,,,,0.88,7.1,844437
+Leonardo Balerdi,Argentina,DEF,Marseille,1998,26,0,1,,,,,,,,,1.0,7.0,958464
+Gonzalo Montiel,Argentina,DEF,River Plate,1424,16,4,1,,,,,,,,,0.8,7.42375,687008
+Cristian Romero,Argentina,DEF,Tottenham Hotspur,1872,23,4,1,,,,,,,,,1.0,7.06,789066
+Anis Hadj Moussa,Algeria,FWD,Feyenoord,2553,30,11,6,,,,,,,,,1.0,7.57,1576876
+Lisandro Martínez,Argentina,DEF,Manchester United,1231,18,0,0,,,,,,,,,0.72,7.02,847983
+Nicolás Otamendi,Argentina,DEF,Benfica,2605,30,2,0,,,,,,,,,1.0,7.45,174321
+Facundo Medina,Argentina,DEF,Marseille,1366,17,0,1,,,,,,,,,0.8,6.96,812652
+Nahuel Molina,Argentina,DEF,Atletico Madrid,1321,26,2,2,,,,,,,,,1.0,6.98,726345
+Rodrigo De Paul,Argentina,MID,Inter Miami CF,1170,13,4,4,,,,,,,,,0.65,7.81,324578
+Exequiel Palacios,Argentina,MID,Bayer Leverkusen,1097,18,0,1,,,,,,,,,0.72,7.19,693599
+Valentín Barco,Argentina,MID,Strasbourg,2170,27,2,4,,,,,,,,,1.0,7.16,1272440
+Giovani Lo Celso,Argentina,MID,Real Betis,1396,24,2,3,,,,,,,,,0.96,7.02,604126
+Leandro Paredes,Argentina,MID,Boca Juniors,1097,15,2,3,,,,,,,,,0.6,7.568,237606
+Nicolás González,Argentina,DEF,Atletico Madrid,1453,24,5,0,,,,,,,,,0.96,6.96,841672
+Thiago Almada,Argentina,MID,Atletico Madrid,1312,27,3,1,,,,,,,,,1.0,6.73,955271
+Alexis Mac Allister,Argentina,MID,Liverpool,2662,37,2,4,,,,,,,,,1.0,6.89,831489
+Giuliano Simeone,Argentina,FWD,Atletico Madrid,2109,31,4,6,,,,,,,,,1.0,7.14,1226147
+Nico Paz,Argentina,MID,Como,2882,35,12,6,,,,,,,,,1.0,7.67,1347574
+Lautaro Martínez,Argentina,FWD,Inter,2178,30,17,6,,,,,,,,,1.0,7.47,690230
+Enzo Fernández,Argentina,MID,Chelsea,3121,36,10,4,,,,,,,,,1.0,7.3,1137705
+José Manuel López,Argentina,MID,Palmeiras,1312,17,6,3,,,,,,,,,0.85,7.34,1216079
+Julián Álvarez,Argentina,FWD,Atletico Madrid,1902,29,8,4,,,,,,,,,1.0,7.11,974753
+Mathew Ryan,Australia,GK,Levante,3240,36,0,0,,,,,,,,,1.0,7.05,185644
+Paul Izzo,Australia,GK,Randers FC,2340,26,0,0,,,,,,,,,1.0,7.097307692307691,302176
+Lionel Messi,Argentina,MID,Inter Miami CF,1243,14,12,7,,,,,,,,,0.7,8.47,30981
+Milos Degenek,Australia,DEF,APOEL Nicosia,722,10,1,0,,,,,,,,,0.4,,416124
+Patrick Beach,Australia,GK,Melbourne City FC,2160,24,0,0,,,,,,,,,0.96,6.94,1335765
+Nadir Benbouali,Algeria,FWD,Györi ETO,2548,32,15,4,,,,,,,,,1.0,,1210929
+Aziz Behich,Australia,DEF,Melbourne City FC,2160,24,3,1,,,,,,,,,1.0,7.12,192735
+Jason Geria,Australia,DEF,Albirex Niigata,1423,22,0,0,,,,,,,,,0.88,6.69,418799
+Alessandro Circati,Australia,DEF,Parma,2666,31,1,0,,,,,,,,,1.0,6.83,1318686
+Jordan Bos,Australia,DEF,Feyenoord,2058,28,4,7,,,,,,,,,1.0,7.43,1316930
+Harry Souttar,Australia,DEF,Leicester City,178,2,1,0,,,,,,,,,0.1,7.76,671518
+Cameron Burgess,Australia,DEF,Swansea City,4140,46,0,0,,,,,,,,,1.0,7.05,564842
+Matthew Leckie,Australia,MID,Melbourne City FC,237,6,0,1,,,,,,,,,0.24,6.63,185014
+Jacob Italiano,Australia,DEF,Grazer AK,2065,24,4,0,,,,,,,,,1.0,7.265000000000001,889093
+Connor Metcalfe,Australia,MID,St. Pauli,575,25,0,2,,,,,,,,,1.0,6.35,885870
+Lucas Herrington,Australia,DEF,Colorado Rapids,1350,15,1,1,,,,,,,,,0.75,7.01,1686118
+Kai Trewin,Australia,DEF,New York City FC,1256,15,0,0,,,,,,,,,0.7,6.79,1101030
+Nestory Irankunda,Australia,FWD,Watford,2031,40,4,4,,,,,,,,,1.0,6.77,1327214
+Aiden O'Neill,Australia,MID,New York City FC,909,11,0,1,,,,,,,,,0.55,7.06,785377
+Cameron Devlin,Australia,MID,Hearts,2391,28,2,0,,,,,,,,,1.0,7.681481481481482,970544
+Ajdin Hrustic,Australia,MID,Heracles,2222,27,1,6,,,,,,,,,1.0,6.87,675762
+Awer Mabil,Australia,FWD,Castellon,1721,30,3,6,,,,,,,,,1.0,6.85,421328
+Paul Okon-Engstler,Australia,MID,Sydney FC,1935,23,0,2,,,,,,,,,1.0,7.32,1527363
+Jackson Irvine,Australia,MID,St. Pauli,1624,24,0,1,,,,,,,,,0.96,6.76,369742
+Mohamed Touré,Australia,FWD,Norwich City,595,11,9,3,,,,,,,,,0.44,7.54,1132069
+Cristian Volpato,Australia,FWD,Sassuolo,1063,24,2,4,,,,,,,,,0.96,6.78,1308909
+Nishan Velupillay,Australia,FWD,Melbourne Victory,1383,21,4,1,,,,,,,,,0.85,6.96,1250885
+Alexander Schlager,Austria,GK,Salzburg,2790,31,0,0,,,,,,,,,1.0,6.846774193548387,450739
+Tete Yengi,Australia,FWD,Machida Zelvia,959,15,3,1,,,,,,,,,0.6,6.63,1220549
+David Affengruber,Austria,DEF,Elche,2953,36,1,1,,,,,,,,,1.0,7.04,1073980
+Florian Wiegele,Austria,GK,Viktoria Plzen,1785,20,0,0,,,,,,,,,0.8,7.0760000000000005,1514693
+Stefan Posch,Austria,DEF,Mainz 05,1395,16,0,0,,,,,,,,,0.8,7.04,557325
+David Alaba,Austria,DEF,Real Madrid,421,11,0,0,,,,,,,,,0.44,6.58,121633
+Kevin Danso,Austria,DEF,Tottenham Hotspur,1491,24,0,0,,,,,,,,,0.96,6.9,754126
+Patrick Pentz,Austria,GK,Brøndby IF,2685,30,0,0,,,,,,,,,1.0,7.126666666666667,630672
+Konrad Laimer,Austria,DEF,Bayern München,1997,29,3,9,,,,,,,,,1.0,7.34,526827
+Philipp Lienhart,Austria,DEF,Freiburg,1300,20,1,0,,,,,,,,,0.8,6.67,643724
+Marcel Sabitzer,Austria,MID,Borussia Dortmund,1822,26,1,2,,,,,,,,,1.0,6.97,215151
+Florian Grillitsch,Austria,MID,Braga,1129,20,1,1,,,,,,,,,0.8,6.91,617044
+Xaver Schlager,Austria,MID,RB Leipzig,1837,26,3,1,,,,,,,,,1.0,7.12,620027
+Marco Friedl,Austria,DEF,Werder Bremen,2549,30,1,0,,,,,,,,,1.0,6.78,767789
+Michael Svoboda,Austria,DEF,Venezia,2527,29,3,2,,,,,,,,,1.0,7.69,951921
+Nicolas Seiwald,Austria,DEF,RB Leipzig,2703,33,0,2,,,,,,,,,1.0,7.16,1024672
+Carney Chukwuemeka,Austria,MID,Borussia Dortmund,907,28,2,0,,,,,,,,,1.0,6.65,1089685
+Phillipp Mwene,Austria,DEF,Mainz 05,2072,29,1,2,,,,,,,,,1.0,6.73,423812
+Romano Schmid,Austria,MID,Werder Bremen,2988,34,4,8,,,,,,,,,1.0,7.25,749488
+Marko Arnautovic,Austria,FWD,FK Crvena Zvezda,994,16,7,8,,,,,,,,,0.7,7.651250000000001,110148
+Alessandro Schöpf,Austria,MID,Wolfsberger AC,1804,24,5,5,,,,,,,,,1.0,7.1875,461357
+Paul Wanner,Austria,MID,PSV Eindhoven,1641,22,3,3,,,,,,,,,0.95,7.46,1327149
+Alexander Prass,Austria,FWD,Hoffenheim,1297,32,3,2,,,,,,,,,1.0,6.69,1027194
+Patrick Wimmer,Austria,MID,Hoffenheim,1634,25,4,3,,,,,,,,,1.0,6.86,1073498
+Michael Gregoritsch,Austria,MID,Augsburg,918,17,6,2,,,,,,,,,0.68,7.02,198316
+Sasa Kalajdzic,Austria,MID,LASK,1323,23,6,5,,,,,,,,,0.92,7.2434782608695665,858198
+Christoph Baumgartner,Austria,MID,RB Leipzig,2789,33,13,8,,,,,,,,,1.0,7.36,747718
+Thibaut Courtois,Belgium,GK,Real Madrid,2880,32,0,0,,,,,,,,,1.0,7.09,170323
+Senne Lammens,Belgium,GK,Manchester United,2880,32,0,0,,,,,,,,,1.0,7.11,1178602
+Brandon Mechele,Belgium,DEF,Club Brugge,3435,39,5,2,,,,,,,,,1.0,7.381794871794871,445873
+Arthur Theate,Belgium,DEF,Eintracht Frankfurt,2143,24,1,0,,,,,,,,,1.0,6.7,1173250
+Koni De Winter,Belgium,DEF,Milan,1798,26,1,1,,,,,,,,,1.0,6.91,1200630
+Zeno Debast,Belgium,DEF,Sporting CP,1177,17,0,2,,,,,,,,,0.68,6.8,1232172
+Mike Penders,Belgium,GK,Strasbourg,2970,33,0,0,,,,,,,,,1.0,6.86,1319972
+Joaquin Seys,Belgium,DEF,Club Brugge,2976,39,2,5,,,,,,,,,1.0,7.103589743589743,1489449
+Thomas Meunier,Belgium,DEF,Lille,1910,25,1,2,,,,,,,,,1.0,7.11,277771
+Maxim De Cuyper,Belgium,DEF,Brighton & Hove Albion,1414,30,2,3,,,,,,,,,1.0,6.75,1134871
+Nathan Ngoy,Belgium,DEF,Lille,2404,29,1,2,,,,,,,,,1.0,6.95,1252070
+Timothy Castagne,Belgium,DEF,Fulham,1842,30,0,0,,,,,,,,,1.0,6.86,465750
+Youri Tielemans,Belgium,MID,Aston Villa,1862,25,0,4,,,,,,,,,1.0,7.15,465960
+Axel Witsel,Belgium,MID,Girona,2533,32,1,2,,,,,,,,,1.0,6.96,39591
+Kevin De Bruyne,Belgium,MID,Napoli,1169,18,5,2,,,,,,,,,0.72,7.27,169200
+Alexis Saelemaekers,Belgium,MID,Milan,2797,35,3,3,,,,,,,,,1.0,7.37,921341
+Hans Vanaken,Belgium,MID,Club Brugge,3366,39,7,3,,,,,,,,,1.0,7.498205128205129,203666
+Charles De Ketelaere,Belgium,MID,Atalanta,2188,31,3,5,,,,,,,,,1.0,7.12,1095432
+Nicolas Raskin,Belgium,MID,Rangers,2785,33,6,7,,,,,,,,,1.0,7.545151515151516,863869
+Amadou Onana,Belgium,MID,Aston Villa,1764,25,2,0,,,,,,,,,1.0,6.91,1185748
+Diego Moreira,Belgium,DEF,Strasbourg,2041,27,4,6,,,,,,,,,1.0,7.2,1342754
+Romelu Lukaku,Belgium,FWD,Napoli,40,5,1,0,,,,,,,,,0.2,6.52,181276
+Leandro Trossard,Belgium,FWD,Arsenal,2006,31,6,6,,,,,,,,,1.0,7.12,318615
+Dodi Lukébakio,Belgium,FWD,Benfica,745,17,0,3,,,,,,,,,0.68,7.09,688876
+Jérémy Doku,Belgium,MID,Manchester City,1784,30,5,5,,,,,,,,,1.0,7.33,942368
+Osman Hadzikic,Bosnia and Herzegovina,GK,Slaven,2544,29,0,0,,,,,,,,,1.0,6.33,488207
+Matias Fernandez-Pardo,Belgium,FWD,Lille,2379,29,8,5,,,,,,,,,1.0,7.16,1444231
+Nihad Mujakic,Bosnia and Herzegovina,DEF,Gaziantep FK,2202,27,0,1,,,,,,,,,1.0,6.64,857436
+Nikola Vasilj,Bosnia and Herzegovina,GK,St. Pauli,3060,34,0,0,,,,,,,,,1.0,6.79,466867
+Dennis Hadzikadunic,Bosnia and Herzegovina,DEF,Sampdoria,2213,28,0,1,,,,,,,,,1.0,6.86,797797
+Martin Zlomislic,Bosnia and Herzegovina,GK,Rijeka,2970,33,0,0,,,,,,,,,1.0,6.63,857661
+Sead Kolasinac,Bosnia and Herzegovina,DEF,Atalanta,1219,19,0,0,,,,,,,,,0.76,6.78,304345
+Tarik Muharemovic,Bosnia and Herzegovina,DEF,Sassuolo,2835,32,2,2,,,,,,,,,1.0,6.91,1250485
+Stjepan Radeljic,Bosnia and Herzegovina,DEF,Rijeka,1978,25,2,1,,,,,,,,,1.0,7.25,653982
+Nikola Katic,Bosnia and Herzegovina,DEF,Schalke 04,2268,26,1,1,,,,,,,,,1.0,7.22,725655
+Benjamin Tahirovic,Bosnia and Herzegovina,MID,Brøndby IF,1198,25,1,1,,,,,,,,,1.0,6.661666666666666,1415104
+Amar Dedic,Bosnia and Herzegovina,DEF,Benfica,1903,24,1,4,,,,,,,,,1.0,7.12,958010
+Nidal Celik,Bosnia and Herzegovina,DEF,Lens,618,8,0,0,,,,,,,,,0.4,6.51,1657810
+Ivan Basic,Bosnia and Herzegovina,MID,FC Astana,0,0,0,0,,,,,,,,,0.0,,1179875
+Ivan Sunjic,Bosnia and Herzegovina,DEF,Pafos FC,2445,29,4,0,,,,,,,,,1.0,,541551
+Amir Hadziahmetovic,Bosnia and Herzegovina,MID,Hull City,2127,37,0,2,,,,,,,,,1.0,6.73,639558
+Amar Memic,Bosnia and Herzegovina,DEF,Viktoria Plzen,2344,30,3,8,,,,,,,,,1.0,7.114,1300385
+Armin Gigovic,Bosnia and Herzegovina,MID,Young Boys,2116,31,1,5,,,,,,,,,1.0,6.906129032258065,1057426
+Dzenis Burnic,Bosnia and Herzegovina,DEF,Karlsruher SC,2083,32,1,1,,,,,,,,,1.0,6.45,660148
+Samed Bazdar,Bosnia and Herzegovina,MID,Jagiellonia Białystok,396,15,3,0,,,,,,,,,0.6,6.6,1284492
+Ermin Mahmic,Bosnia and Herzegovina,MID,Slovan Liberec,1553,28,7,3,,,,,,,,,1.0,6.95,1528815
+Edin Dzeko,Bosnia and Herzegovina,FWD,Schalke 04,599,11,6,3,,,,,,,,,0.44,7.44,15403
+Kerim Alajbegovic,Bosnia and Herzegovina,MID,Salzburg,1912,28,9,3,,,,,,,,,1.0,7.368571428571428,1684401
+Ermedin Demirovic,Bosnia and Herzegovina,FWD,VfB Stuttgart,1498,25,12,3,,,,,,,,,1.0,7.11,840241
+Alisson Becker,Brazil,GK,Liverpool,2340,26,0,0,,,,,,,,,1.0,6.82,319784
+Esmir Bajraktarevic,Bosnia and Herzegovina,FWD,PSV Eindhoven,1062,28,4,4,,,,,,,,,1.0,6.9,1346860
+Ederson,Brazil,GK,Fenerbahçe,2132,24,0,0,,,,,,,,,0.96,7.0,363364
+Jovo Lukic,Bosnia and Herzegovina,FWD,Universitatea Cluj,2502,32,18,2,,,,,,,,,1.0,7.27,1174844
+Weverton,Brazil,GK,Gremio,1530,17,0,0,,,,,,,,,0.68,7.14,267826
+Haris Tabakovic,Bosnia and Herzegovina,FWD,Borussia Mönchengladbach,2394,32,13,2,,,,,,,,,1.0,6.77,388903
+Gabriel,Brazil,DEF,Arsenal,2751,32,3,4,,,,,,,,,1.0,7.32,795179
+Danilo,Brazil,DEF,Flamengo,204,4,0,0,,,,,,,,,0.16,6.44,208077
+Alex Sandro,Brazil,DEF,Flamengo,1068,13,0,0,,,,,,,,,0.65,6.74,157865
+Marquinhos,Brazil,DEF,Paris Saint-Germain,1049,14,0,0,,,,,,,,,0.56,6.88,267365
+Gleison Bremer,Brazil,DEF,Juventus,2175,26,4,3,,,,,,,,,1.0,7.31,857269
+Léo Pereira,Brazil,DEF,Flamengo,1231,14,1,0,,,,,,,,,0.7,7.21,523801
+Casemiro,Brazil,MID,Manchester United,2588,34,9,2,,,,,,,,,1.0,7.32,208494
+Wesley,Brazil,DEF,Roma,2457,30,5,0,,,,,,,,,1.0,7.16,1320176
+Douglas Santos,Brazil,DEF,Zenit St. Petersburg,1920,23,1,0,,,,,,,,,1.0,7.28,346000
+Danilo Santos,Brazil,MID,Botafogo RJ,1071,12,7,2,,,,,,,,,0.6,7.47,1181700
+Fabinho,Brazil,DEF,Al Ittihad,2642,30,1,3,,,,,,,,,1.0,7.22,359188
+Ibañez,Brazil,DEF,Al Ahli,2426,28,2,2,,,,,,,,,1.0,7.31,862538
+Bruno Guimarães,Brazil,MID,Newcastle United,2455,29,9,5,,,,,,,,,1.0,7.52,850354
+Matheus Cunha,Brazil,MID,Manchester United,2503,33,10,2,,,,,,,,,1.0,7.29,863098
+Neymar,Brazil,MID,Santos FC,686,8,4,2,,,,,,,,,0.4,7.56,19533
+Raphinha,Brazil,MID,Barcelona,1388,22,13,3,,,,,,,,,0.9,7.77,696679
+Lucas Paquetá,Brazil,MID,Flamengo,819,12,3,0,,,,,,,,,0.5,7.35,766435
+Vinícius Júnior,Brazil,FWD,Real Madrid,2825,36,16,5,,,,,,,,,1.0,7.65,846033
+Luiz Henrique,Brazil,MID,Zenit St. Petersburg,2036,28,5,3,,,,,,,,,1.0,7.22,1176214
+Gabriel Martinelli,Brazil,FWD,Arsenal,1073,30,1,4,,,,,,,,,1.0,6.53,1021586
+Igor Thiago,Brazil,FWD,Brentford,3284,38,22,1,,,,,,,,,1.0,7.14,1302005
+Rayan,Brazil,FWD,AFC Bournemouth,1119,15,5,2,,,,,,,,,0.65,7.25,1478295
+Endrick,Brazil,FWD,Lyon,1222,16,5,7,,,,,,,,,0.7,7.39,1406729
+Dayne St. Clair,Canada,GK,Inter Miami CF,1260,14,0,0,,,,,,,,,0.56,6.74,1026105
+Maxime Crépeau,Canada,GK,Orlando City,1186,14,0,0,,,,,,,,,0.56,6.46,464919
+Alfie Jones,Canada,DEF,Middlesbrough,1886,22,1,1,,,,,,,,,1.0,6.95,789598
+Joel Waterman,Canada,DEF,Chicago Fire FC,643,10,0,0,,,,,,,,,0.4,6.84,1100258
+Alistair Johnston,Canada,DEF,Celtic,501,7,0,1,,,,,,,,,0.3,7.535714285714286,1055426
+Owen Goodman,Canada,GK,Barnsley,2826,32,0,0,,,,,,,,,1.0,6.76,1415372
+Luc De Fougerolles,Canada,DEF,FCV Dender EH,1655,27,0,1,,,,,,,,,1.0,6.633333333333334,1399943
+Moïse Bombito,Canada,DEF,Nice,146,2,0,0,,,,,,,,,0.1,6.73,1440009
+Derek Cornelius,Canada,DEF,Rangers,559,7,1,1,,,,,,,,,0.3,7.51,847629
+Niko Sigur,Canada,DEF,Hajduk Split,2225,29,1,2,,,,,,,,,1.0,7.13,1494508
+Richie Laryea,Canada,DEF,Toronto FC,810,9,2,1,,,,,,,,,0.45,7.09,729506
+Alphonso Davies,Canada,DEF,Bayern München,523,13,1,3,,,,,,,,,0.52,7.11,751202
+Tajon Buchanan,Canada,FWD,Villarreal,1821,34,7,1,,,,,,,,,1.0,6.72,1026135
+Mathieu Choinière,Canada,MID,Los Angeles FC,753,15,2,1,,,,,,,,,0.6,6.9,943428
+Ismaël Koné,Canada,MID,Sassuolo,2756,35,6,0,,,,,,,,,1.0,6.91,1288119
+Nathan Saliba,Canada,MID,Anderlecht,2319,34,3,1,,,,,,,,,1.0,6.798484848484849,1216798
+Stephen Eustaquio,Canada,MID,Los Angeles FC,602,10,1,1,,,,,,,,,0.4,6.88,816223
+Jonathan Osorio,Canada,MID,Toronto FC,1260,14,0,3,,,,,,,,,0.7,7.04,432605
+Tani Oluwaseyi,Canada,FWD,Villarreal,892,27,2,2,,,,,,,,,1.0,6.24,1338740
+Liam Millar,Canada,DEF,Hull City,1848,33,3,5,,,,,,,,,1.0,6.91,932308
+Jonathan David,Canada,MID,Juventus,1782,35,6,4,,,,,,,,,1.0,6.7,939569
+Cyle Larin,Canada,MID,Southampton,853,16,8,1,,,,,,,,,0.64,6.96,544312
+Marcelo Flores,Canada,FWD,Tigres,720,14,3,0,,,,,,,,,0.56,6.667333333333334,1186513
+Jacob Shaffelburg,Canada,DEF,Los Angeles FC,223,6,0,2,,,,,,,,,0.24,6.52,1023943
+Ali Ahmed,Canada,FWD,Norwich City,1310,19,4,3,,,,,,,,,0.8,7.18,1359536
+Vozinha,Cape Verde,GK,Chaves,1710,19,0,0,,,,,,,,,0.76,,422149
+Promise David,Canada,MID,Union St.Gilloise,1493,24,9,1,,,,,,,,,0.96,6.92,1252132
+Márcio,Cape Verde,GK,Montana,1710,19,0,0,,,,,,,,,0.76,,865144
+Stopira,Cape Verde,DEF,Torreense,2714,31,2,0,,,,,,,,,1.0,,164062
+Carlos Dos Santos,Cape Verde,GK,San Diego FC,179,2,0,0,,,,,,,,,0.08,6.08,1054027
+Diney Borges,Cape Verde,DEF,Al Bataeh,2250,25,2,0,,,,,,,,,1.0,7.0,496648
+Wagner Pina,Cape Verde,DEF,Trabzonspor,2444,31,0,7,,,,,,,,,1.0,7.15,1460591
+Kelvin Pires,Cape Verde,DEF,SJK,630,7,1,0,,,,,,,,,0.35,6.93,1175733
+Roberto Lopes,Cape Verde,DEF,Shamrock Rovers,1124,13,3,0,,,,,,,,,0.65,7.52,230134
+Kevin Pina,Cape Verde,MID,FC Krasnodar,1195,27,1,0,,,,,,,,,1.0,6.88,890503
+Steven Moreira,Cape Verde,DEF,Columbus Crew,1136,14,0,0,,,,,,,,,0.65,6.58,444000
+Logan Costa,Cape Verde,DEF,Villarreal,28,2,0,0,,,,,,,,,0.08,6.26,922877
+João Paulo,Cape Verde,DEF,FCSB,2803,36,3,3,,,,,,,,,1.0,7.319999999999999,1241301
+Jamiro Monteiro,Cape Verde,MID,PEC Zwolle,1276,21,2,3,,,,,,,,,0.85,7.02,680905
+Yannick Semedo,Cape Verde,MID,Farense,2004,29,0,0,,,,,,,,,1.0,,1205410
+Laros Duarte,Cape Verde,MID,Puskas FC Academy,2470,30,0,6,,,,,,,,,1.0,,665167
+Sidny Lopes Cabral,Cape Verde,DEF,Benfica,1680,23,6,5,,,,,,,,,0.92,7.16,1441786
+Gilson Tavares,Cape Verde,FWD,Akron Togliatti,1062,20,6,0,,,,,,,,,0.8,6.73,1241302
+Garry Rodrigues,Cape Verde,MID,Apollon Limassol,1911,31,6,1,,,,,,,,,1.0,,302912
+Jovane Cabral,Cape Verde,MID,Estrela da Amadora,1678,27,7,1,,,,,,,,,1.0,7.12,785716
+Deroy Duarte,Cape Verde,MID,Ludogorets Razgrad,2342,33,2,1,,,,,,,,,1.0,,798069
+Willy Semedo,Cape Verde,FWD,Omonia Nicosia,2161,27,17,0,,,,,,,,,1.0,,873832
+Ryan Mendes,Cape Verde,MID,Igdir FK,1871,29,5,2,,,,,,,,,1.0,6.8,172615
+Hélio Varela,Cape Verde,FWD,Maccabi Tel Aviv,1978,30,3,2,,,,,,,,,1.0,7.058928571428572,1524518
+Nuno da Costa,Cape Verde,FWD,Başakşehir,899,26,3,1,,,,,,,,,1.0,6.63,671326
+Telmo Arcanjo,Cape Verde,MID,Vitoria de Guimaraes,1243,29,1,0,,,,,,,,,1.0,6.61,1165477
+Dailon Livramento,Cape Verde,FWD,Casa Pia AC,940,24,0,1,,,,,,,,,0.96,6.24,1309634
+Camilo Vargas,Colombia,GK,Atlas,1620,18,0,0,,,,,,,,,0.72,6.914444444444445,50207
+David Ospina,Colombia,GK,Atletico Nacional,1080,12,0,0,,,,,,,,,0.48,7.224999999999999,50065
+Álvaro Montero,Colombia,GK,Velez Sarsfield,1530,17,0,0,,,,,,,,,0.68,7.444117647058824,498457
+Jhon Lucumí,Colombia,DEF,Bologna,2287,29,1,0,,,,,,,,,1.0,6.96,860913
+Willer Ditta,Colombia,DEF,Cruz Azul,1980,22,0,2,,,,,,,,,1.0,7.342727272727274,965205
+Johan Mojica,Colombia,DEF,Mallorca,2725,35,0,4,,,,,,,,,1.0,6.88,474673
+Santiago Arias,Colombia,DEF,Independiente,914,13,0,2,,,,,,,,,0.52,6.975384615384616,207642
+Yerry Mina,Colombia,DEF,Cagliari,2153,26,2,0,,,,,,,,,1.0,6.82,496042
+Richard Ríos,Colombia,MID,Benfica,2279,27,5,4,,,,,,,,,1.0,7.34,1174630
+Daniel Muñoz,Colombia,DEF,Crystal Palace,2403,29,4,3,,,,,,,,,1.0,7.15,859282
+Davinson Sánchez,Colombia,DEF,Galatasaray,2424,30,1,0,,,,,,,,,1.0,7.1,643533
+James Rodríguez,Colombia,MID,Minnesota United,194,6,0,2,,,,,,,,,0.24,7.18,164684
+Kevin Castaño,Colombia,MID,River Plate,92,5,0,0,,,,,,,,,0.2,,1434853
+Juan Fernando Quintero,Colombia,MID,River Plate,639,15,3,3,,,,,,,,,0.6,7.081428571428572,207617
+Deiver Machado,Colombia,DEF,Nantes,1186,19,0,1,,,,,,,,,0.8,6.54,578756
+Juan Portilla,Colombia,MID,Athletico Paranaense,799,15,0,0,,,,,,,,,0.6,6.51,1281230
+Jefferson Lerma,Colombia,DEF,Crystal Palace,1724,31,0,2,,,,,,,,,1.0,6.73,466672
+Gustavo Puerta,Colombia,MID,Racing Santander,2669,32,3,1,,,,,,,,,1.0,7.02,1331597
+Jorge Carrascal,Colombia,MID,Flamengo,616,13,2,1,,,,,,,,,0.52,6.74,784834
+Juan Hernández,Colombia,FWD,Real Betis,2592,32,11,3,,,,,,,,,1.0,7.12,852071
+Jhon Córdoba,Colombia,FWD,FC Krasnodar,2484,28,17,6,,,,,,,,,1.0,7.39,291425
+Jhon Arias,Colombia,MID,Palmeiras,1016,13,3,0,,,,,,,,,0.6,7.25,1023030
+Luis Díaz,Colombia,FWD,Bayern München,2450,32,15,14,,,,,,,,,1.0,7.75,860914
+Andrés Gómez,Colombia,FWD,Vasco da Gama,1322,16,3,1,,,,,,,,,0.75,7.11,1353421
+Dominik Livakovic,Croatia,GK,Dinamo Zagreb,1260,14,0,0,,,,,,,,,0.56,6.92,383971
+Jaminton Campaz,Colombia,MID,Rosario Central,750,12,1,4,,,,,,,,,0.48,7.341666666666666,837870
+Marin Pongracic,Croatia,DEF,Fiorentina,2917,35,0,0,,,,,,,,,1.0,6.82,831474
+Josip Stanisic,Croatia,DEF,Bayern München,1855,26,2,3,,,,,,,,,1.0,7.28,950824
+Luis Suárez,Colombia,FWD,Sporting CP,2698,32,28,6,,,,,,,,,1.0,7.88,792303
+Dominik Kotarski,Croatia,GK,FC København,2700,30,0,0,,,,,,,,,1.0,6.846666666666666,873557
+Josko Gvardiol,Croatia,DEF,Manchester City,1374,18,2,2,,,,,,,,,0.8,7.19,1070712
+Luka Vuskovic,Croatia,DEF,Hamburger SV,2441,28,6,0,,,,,,,,,1.0,7.39,1413996
+Ivor Pandur,Croatia,GK,Hull City,4050,45,0,0,,,,,,,,,1.0,7.07,1077684
+Martin Erlic,Croatia,DEF,FC Midtjylland,1422,18,2,0,,,,,,,,,0.8,6.978888888888889,616170
+Mateo Kovacic,Croatia,MID,Manchester City,126,6,0,1,,,,,,,,,0.24,6.76,239219
+Josip Sutalo,Croatia,DEF,Ajax,1797,24,0,0,,,,,,,,,0.96,6.92,1186228
+Duje Caleta-Car,Croatia,DEF,Real Sociedad,2150,27,1,0,,,,,,,,,1.0,6.72,557799
+Nikola Moro,Croatia,MID,Bologna,1797,30,2,0,,,,,,,,,1.0,6.97,641595
+Luka Modric,Croatia,MID,Milan,2816,34,2,3,,,,,,,,,1.0,7.58,31097
+Mario Pasalic,Croatia,MID,Atalanta,1932,33,3,4,,,,,,,,,1.0,6.82,446266
+Nikola Vlasic,Croatia,MID,Torino,3053,37,8,3,,,,,,,,,1.0,7.18,557677
+Andrej Kramaric,Croatia,MID,Hoffenheim,2222,34,14,6,,,,,,,,,1.0,7.2,173461
+Petar Sucic,Croatia,MID,Inter,1765,34,2,2,,,,,,,,,1.0,6.97,1382000
+Luka Sucic,Croatia,MID,Real Sociedad,1018,22,3,1,,,,,,,,,0.88,6.71,959597
+Toni Fruk,Croatia,MID,Rijeka,2130,31,12,3,,,,,,,,,1.0,7.29,1300358
+Kristijan Jakic,Croatia,DEF,Augsburg,1653,26,2,1,,,,,,,,,1.0,6.77,643448
+Marco Pasalic,Croatia,FWD,Orlando City,644,10,2,0,,,,,,,,,0.4,6.47,1199714
+Igor Matanovic,Croatia,FWD,Freiburg,1561,31,11,2,,,,,,,,,1.0,6.81,1210893
+Martin Baturina,Croatia,MID,Como,1569,29,6,3,,,,,,,,,1.0,7.24,1215064
+Ante Budimir,Croatia,FWD,Osasuna,2953,37,17,0,,,,,,,,,1.0,6.88,251269
+Ivan Perisic,Croatia,DEF,PSV Eindhoven,2218,30,7,12,,,,,,,,,1.0,7.61,163670
+Petar Musa,Croatia,FWD,FC Dallas,1044,13,12,2,,,,,,,,,0.6,7.79,709796
+Eloy Room,Curacao,GK,Miami FC,810,9,0,0,,,,,,,,,0.36,6.77,150242
+Tyrick Bodak,Curacao,GK,Telstar,0,0,0,0,,,,,,,,,0.0,,1240833
+Roshon van Eijma,Curacao,DEF,RKC Waalwijk,2047,27,0,0,,,,,,,,,1.0,6.72,924844
+Joshua Brenet,Curacao,DEF,Kayserispor,797,11,0,2,,,,,,,,,0.45,6.3,389845
+Trevor Doornbusch,Curacao,GK,VVV-Venlo,0,0,0,0,,,,,,,,,0.0,,873856
+Armando Obispo,Curacao,DEF,PSV Eindhoven,807,17,2,0,,,,,,,,,0.68,6.75,794244
+Shurandy Sambo,Curacao,DEF,Sparta Rotterdam,1626,25,0,1,,,,,,,,,1.0,6.59,1125997
+Juriën Gaari,Curacao,DEF,Abha,2789,31,0,0,,,,,,,,,1.0,7.08,708738
+Sherel Floranus,Curacao,DEF,PEC Zwolle,2801,32,1,3,,,,,,,,,1.0,6.66,671327
+Riechedly Bazoer,Curacao,DEF,Konyaspor,927,15,0,0,,,,,,,,,0.6,6.08,467479
+Deveron Fonville,Curacao,DEF,NEC Nijmegen,1459,29,0,2,,,,,,,,,1.0,6.89,1335315
+Godfried Roemeratoe,Curacao,MID,RKC Waalwijk,2285,32,0,1,,,,,,,,,1.0,6.64,938524
+Kevin Felida,Curacao,MID,FC Den Bosch,2928,34,4,3,,,,,,,,,1.0,7.44,875845
+Jürgen Locadia,Curacao,FWD,Miami FC,752,10,4,0,,,,,,,,,0.4,6.79,289441
+Jeremy Antonisse,Curacao,FWD,Kifisia FC,2006,28,1,2,,,,,,,,,1.0,6.948571428571428,1210947
+Leandro Bacuna,Curacao,DEF,Igdir FK,2899,35,9,4,,,,,,,,,1.0,6.92,183500
+Livano Comenencia,Curacao,DEF,FC Zürich,1522,24,0,0,,,,,,,,,0.96,6.634782608695652,1243246
+Tyrese Noslin,Curacao,DEF,Telstar,2306,34,2,3,,,,,,,,,1.0,6.91,1439121
+Sontje Hansen,Curacao,MID,Middlesbrough,491,17,1,0,,,,,,,,,0.68,6.41,1050160
+Juninho Bacuna,Curacao,MID,FC Volendam,709,13,0,2,,,,,,,,,0.52,6.86,614574
+Kenji Gorré,Curacao,FWD,Maccabi Haifa,1605,25,4,6,,,,,,,,,1.0,7.0944,643232
+Jearl Margaritha,Curacao,FWD,SK Beveren,2378,32,7,12,,,,,,,,,1.0,7.52,1180784
+Arjany Martha,Curacao,MID,Rotherham United,2577,41,1,2,,,,,,,,,1.0,6.49,1180735
+Brandley Kuwas,Curacao,MID,FC Volendam,2024,32,5,4,,,,,,,,,1.0,6.58,352358
+Gervane Kastaneer,Curacao,MID,Terengganu,1097,13,4,1,,,,,,,,,0.65,,380942
+Jindrich Stanek,Czechia,GK,Slavia Prague,1710,19,0,0,,,,,,,,,0.76,6.961052631578947,463967
+Lukás Hornícek,Czechia,GK,Braga,2960,33,0,0,,,,,,,,,1.0,7.28,1186978
+Tahith Chong,Curacao,FWD,Sheffield United,669,21,0,1,,,,,,,,,0.84,6.42,751066
+Robin Hranác,Czechia,DEF,Hoffenheim,2251,29,1,0,,,,,,,,,1.0,6.82,1225995
+David Zima,Czechia,DEF,Slavia Prague,1860,24,1,3,,,,,,,,,1.0,7.239565217391304,1085401
+Stepán Chaloupek,Czechia,DEF,Slavia Prague,1859,28,8,2,,,,,,,,,1.0,7.3524,1288146
+Tomás Holes,Czechia,DEF,Slavia Prague,2092,25,2,2,,,,,,,,,1.0,7.534800000000001,306168
+Matej Kovár,Czechia,GK,PSV Eindhoven,2790,31,0,0,,,,,,,,,1.0,6.96,1077903
+Jaroslav Zeleny,Czechia,DEF,Sparta Prague,1761,25,1,3,,,,,,,,,1.0,6.901599999999999,249063
+Vladimír Darida,Czechia,MID,Hradec Kralove,2773,32,11,4,,,,,,,,,1.0,7.6303125000000005,196311
+Ladislav Krejcí,Czechia,DEF,Wolverhampton Wanderers,2361,28,2,1,,,,,,,,,1.0,6.56,798029
+Vladimír Coufal,Czechia,DEF,Hoffenheim,3017,34,1,8,,,,,,,,,1.0,7.35,307317
+Adam Hlozek,Czechia,MID,Hoffenheim,36,5,0,0,,,,,,,,,0.2,5.87,969870
+Lukás Cerv,Czechia,DEF,Viktoria Plzen,2656,32,1,3,,,,,,,,,1.0,7.1540625,1151313
+David Doudera,Czechia,DEF,Slavia Prague,1499,22,1,4,,,,,,,,,0.9,7.215238095238096,883759
+Tomás Soucek,Czechia,MID,West Ham United,2198,35,5,0,,,,,,,,,1.0,6.88,524437
+Michal Sadílek,Czechia,MID,Slavia Prague,2093,29,1,4,,,,,,,,,1.0,7.139310344827586,806551
+Hugo Sochurek,Czechia,MID,Sparta Prague,511,8,0,2,,,,,,,,,0.32,7.195714285714286,1764021
+David Jurásek,Czechia,DEF,Slavia Prague,1346,16,1,6,,,,,,,,,0.75,7.536875,1247323
+Patrik Schick,Czechia,MID,Bayer Leverkusen,1995,28,16,3,,,,,,,,,1.0,7.25,540097
+Alexandr Sojka,Czechia,DEF,Viktoria Plzen,1984,33,3,2,,,,,,,,,1.0,6.858709677419354,1478281
+Pavel Sulc,Czechia,MID,Lyon,1568,27,11,3,,,,,,,,,1.0,7.05,1037539
+Mojmír Chytil,Czechia,MID,Slavia Prague,1500,29,13,1,,,,,,,,,1.0,7.1719230769230755,988769
+Jan Kuchta,Czechia,FWD,Sparta Prague,1683,30,12,6,,,,,,,,,1.0,6.944999999999999,690332
+Denis Visinsky,Czechia,DEF,Viktoria Plzen,1671,27,8,1,,,,,,,,,1.0,7.136296296296296,1202885
+Lukás Provod,Czechia,MID,Slavia Prague,2495,30,7,10,,,,,,,,,1.0,7.6370000000000005,791682
+Lionel Mpasi-Nzau,DR Congo,GK,Le Havre,315,4,0,0,,,,,,,,,0.16,7.64,912286
+Timothy Fayulu,DR Congo,GK,FC Noah,0,0,0,0,,,,,,,,,0.0,,976996
+Tomás Chory,Czechia,FWD,Slavia Prague,1907,24,17,4,,,,,,,,,1.0,7.5666666666666655,523217
+Matthieu Epolo,DR Congo,GK,Standard Liege,2610,29,0,0,,,,,,,,,1.0,7.092413793103448,1257080
+Aaron Wan-Bissaka,DR Congo,DEF,West Ham United,2084,25,0,2,,,,,,,,,1.0,6.8,760320
+Steve Kapuadi,DR Congo,DEF,Widzew Łódź,2310,27,1,0,,,,,,,,,1.0,6.8,1132814
+Dylan Batubinsika,DR Congo,DEF,AE Larissa,1412,16,0,0,,,,,,,,,0.8,6.8100000000000005,751762
+Chancel Mbemba,DR Congo,DEF,Lille,953,13,0,0,,,,,,,,,0.52,6.89,277761
+Axel Tuanzebe,DR Congo,DEF,Burnley,1202,14,1,0,,,,,,,,,0.7,6.4,690149
+Gédéon Kalulu,DR Congo,DEF,Aris Limassol,1200,17,0,0,,,,,,,,,0.68,,1022309
+Arthur Masuaku,DR Congo,DEF,Lens,229,4,0,0,,,,,,,,,0.16,6.84,418137
+Ngal Ayel Mukau,DR Congo,MID,Lille,1539,30,1,0,,,,,,,,,1.0,6.63,1428153
+Joris Kayembe Ditu,DR Congo,DEF,Genk,2105,28,0,1,,,,,,,,,1.0,7.242592592592592,500932
+Samuel Moutoussamy,DR Congo,MID,Atromitos,2337,28,3,0,,,,,,,,,1.0,6.890000000000001,866108
+Noah Sadiki,DR Congo,MID,Sunderland,2894,33,0,1,,,,,,,,,1.0,6.81,1359649
+Charles Pickel,DR Congo,MID,Espanyol,693,24,1,0,,,,,,,,,0.96,6.2,743720
+Brian Cipenga,DR Congo,MID,Castellon,2250,30,6,9,,,,,,,,,1.0,7.27,1302121
+Nathanaël Mbuku,DR Congo,MID,Montpellier,2191,30,4,5,,,,,,,,,1.0,7.05,1049799
+Aaron Tshibola,DR Congo,MID,Kilmarnock,886,14,0,0,,,,,,,,,0.56,7.017857142857143,490122
+Théo Bongonda,DR Congo,FWD,Spartak Moscow,47,4,0,0,,,,,,,,,0.16,6.12,466132
+Meschack Elia,DR Congo,MID,Alanyaspor,812,22,3,0,,,,,,,,,0.88,6.57,694060
+Gaël Kakuta,DR Congo,MID,AE Larissa,474,12,1,2,,,,,,,,,0.48,6.3481818181818195,163205
+Edo Kayembe,DR Congo,MID,Watford,2496,37,4,1,,,,,,,,,1.0,6.89,909803
+Cédric Bakambu,DR Congo,FWD,Real Betis,562,18,3,1,,,,,,,,,0.72,6.48,201939
+Yoane Wissa,DR Congo,FWD,Newcastle United,521,19,1,1,,,,,,,,,0.76,6.24,666857
+Fiston Mayele,DR Congo,FWD,Pyramids FC,1597,24,5,2,,,,,,,,,0.96,6.663478260869565,1116042
+Simon Banza,DR Congo,FWD,Al-Jazira,1142,16,9,1,,,,,,,,,0.64,7.15,696932
+Gonzalo Valle,Ecuador,GK,LDU de Quito,1260,14,0,0,,,,,,,,,0.56,6.92,1614051
+Piero Hincapié,Ecuador,DEF,Arsenal,1792,25,1,2,,,,,,,,,1.0,7.07,1137667
+Moisés Ramirez,Ecuador,GK,Kifisia FC,2520,28,0,0,,,,,,,,,1.0,7.087142857142857,978290
+Joel Ordóñez,Ecuador,DEF,Club Brugge,2668,33,3,0,,,,,,,,,1.0,6.991212121212121,1354085
+Hernán Galíndez,Ecuador,GK,Huracan,1590,17,0,0,,,,,,,,,0.68,7.184705882352941,146801
+Willian Pacho,Ecuador,DEF,Paris Saint-Germain,1915,23,0,0,,,,,,,,,1.0,7.05,1137670
+Félix Torres,Ecuador,DEF,Internacional,948,12,1,0,,,,,,,,,0.5,7.22,825641
+Yaimar Medina,Ecuador,DEF,Genk,1533,27,0,3,,,,,,,,,1.0,6.9125000000000005,1391753
+Pervis Estupinán,Ecuador,DEF,Milan,1036,19,1,1,,,,,,,,,0.76,6.79,688278
+Jackson Porozo,Ecuador,DEF,Tijuana,1409,16,0,0,,,,,,,,,0.8,7.05,1032039
+Anthony Valencia,Ecuador,DEF,Royal Antwerp,1325,23,4,2,,,,,,,,,0.92,7.0457142857142845,1353364
+Jordy Alcívar,Ecuador,MID,Independiente del Valle,421,7,0,1,,,,,,,,,0.28,6.96,950396
+Denil Castillo,Ecuador,MID,FC Midtjylland,1724,26,4,4,,,,,,,,,1.0,7.117692307692308,1477417
+Pedro Vite,Ecuador,MID,Pumas,1945,23,1,1,,,,,,,,,1.0,7.18,1108611
+Ángelo Preciado,Ecuador,DEF,Atletico MG,376,7,0,0,,,,,,,,,0.28,6.74,848593
+Alan Franco,Ecuador,DEF,Atletico MG,1304,15,0,1,,,,,,,,,0.75,6.68,832171
+John Yeboah,Ecuador,MID,Venezia,2614,34,10,9,,,,,,,,,1.0,7.6,845368
+Jordy Caicedo,Ecuador,FWD,Huracan,1490,17,8,0,,,,,,,,,0.85,6.8999999999999995,766159
+Moisés Caicedo,Ecuador,MID,Chelsea,2802,33,3,1,,,,,,,,,1.0,7.1,1137668
+Kevin Rodríguez,Ecuador,MID,Union St.Gilloise,1825,31,10,2,,,,,,,,,1.0,6.856774193548387,1421270
+Enner Valencia,Ecuador,FWD,Pachuca,619,12,4,0,,,,,,,,,0.48,6.59,195927
+Nilson Angulo,Ecuador,DEF,Sunderland,406,8,0,0,,,,,,,,,0.32,6.57,1287010
+Kendry Páez,Ecuador,MID,River Plate,361,10,1,0,,,,,,,,,0.4,6.695555555555555,1443464
+Alan Minda,Ecuador,MID,Atletico MG,351,9,2,0,,,,,,,,,0.36,6.81,1274400
+Jeremy Arévalo,Ecuador,MID,VfB Stuttgart II,331,4,5,1,,,,,,,,,0.2,8.35,1418122
+Gonzalo Plata,Ecuador,MID,Flamengo,561,10,2,2,,,,,,,,,0.4,7.47,980311
+Al Mahdi Soliman,Egypt,GK,Zamalek SC,926,11,0,0,,,,,,,,,0.44,7.005454545454546,653688
+Mohamed El Shenawy,Egypt,GK,Al Ahly SC,1350,15,0,0,,,,,,,,,0.6,,546550
+Mostafa Ahmed Shobeir,Egypt,GK,Al Ahly SC,990,11,0,0,,,,,,,,,0.44,6.862727272727272,1228546
+Mohamed Hany,Egypt,DEF,Al Ahly SC,1963,23,0,5,,,,,,,,,1.0,7.262608695652175,660213
+Hossam Abdelmaguid,Egypt,DEF,Zamalek SC,2211,25,4,0,,,,,,,,,1.0,7.3252,1384425
+Ramy Rabia,Egypt,DEF,Al-Ain,1472,18,2,1,,,,,,,,,0.85,7.2,505872
+Mohamed Abdelmonem,Egypt,DEF,Nice,0,0,0,0,,,,,,,,,0.0,,1179331
+Mohamed Alaa,Egypt,GK,El Gouna FC,2610,29,0,0,,,,,,,,,1.0,7.116896551724137,1689371
+Karim Hafez,Egypt,DEF,Pyramids FC,1213,18,2,1,,,,,,,,,0.72,7.336,560416
+Ahmed Abou El Fotouh,Egypt,DEF,Zamalek SC,888,17,1,3,,,,,,,,,0.68,7.003333333333333,849334
+Tarek Alaa,Egypt,DEF,ZED FC,938,13,0,1,,,,,,,,,0.55,6.6838461538461535,1689101
+Yasser Ibrahim,Egypt,DEF,Al Ahly SC,1566,18,2,0,,,,,,,,,0.9,7.108888888888888,533403
+Hamdi Fathy,Egypt,DEF,Al-Wakrah,1483,18,2,0,,,,,,,,,0.85,7.19,1022128
+Emam Ashour,Egypt,MID,Al Ahly SC,974,13,2,4,,,,,,,,,0.55,7.64,979376
+Nabil Dunga,Egypt,MID,Al Najma,914,12,0,0,,,,,,,,,0.6,6.7,1001335
+Mostafa Ziko,Egypt,FWD,Pyramids FC,1218,22,6,2,,,,,,,,,0.88,6.968000000000001,1426403
+Mohanad Lasheen,Egypt,MID,Pyramids FC,2080,24,0,2,,,,,,,,,1.0,7.5,906944
+Marwan Ateya,Egypt,MID,Al Ahly SC,1728,21,0,0,,,,,,,,,1.0,7.2714285714285705,1418549
+Mohamed Salah,Egypt,MID,Liverpool,2148,27,7,7,,,,,,,,,1.0,7.07,292462
+Trezeguet,Egypt,MID,Al Ahly SC,1688,21,11,0,,,,,,,,,1.0,7.483809523809524,513492
+Mahmoud Saber,Egypt,MID,ZED FC,1850,26,5,6,,,,,,,,,1.0,7.299600000000001,1291391
+Hamza Abdelkarim,Egypt,FWD,Barca Atletic,0,0,0,0,,,,,,,,,0.0,,1927440
+Haissem Hassan,Egypt,MID,Real Oviedo,1943,37,0,3,,,,,,,,,1.0,6.55,971787
+Ibrahim Adel,Egypt,MID,Nordsjælland,629,11,3,1,,,,,,,,,0.44,6.8136363636363635,1272436
+James Trafford,England,GK,Manchester City,360,4,0,0,,,,,,,,,0.16,7.36,1187213
+Jordan Pickford,England,GK,Everton,3420,38,0,0,,,,,,,,,1.0,6.94,303919
+Omar Marmoush,Egypt,FWD,Manchester City,699,21,3,3,,,,,,,,,0.84,6.94,839204
+John Stones,England,DEF,Manchester City,439,9,0,0,,,,,,,,,0.36,6.5,263653
+Ezri Konsa,England,DEF,Aston Villa,3036,34,0,0,,,,,,,,,1.0,6.75,710159
+Zizo,Egypt,MID,Al Ahly SC,1265,20,5,6,,,,,,,,,0.8,7.457777777777778,532766
+Marc Guéhi,England,DEF,Manchester City,3150,35,3,3,,,,,,,,,1.0,7.37,844425
+Nico O'Reilly,England,DEF,Manchester City,2648,34,5,3,,,,,,,,,1.0,7.17,1300526
+Dean Henderson,England,GK,Crystal Palace,3330,37,0,0,,,,,,,,,1.0,7.01,719330
+Valentino Livramento,England,DEF,Newcastle United,1328,17,0,1,,,,,,,,,0.7,7.04,1107910
+Daniel Burn,England,DEF,Newcastle United,2199,29,1,2,,,,,,,,,1.0,6.71,188058
+Jordan Henderson,England,MID,Brentford,1922,32,1,3,,,,,,,,,1.0,6.7,156008
+Jarell Quansah,England,DEF,Bayer Leverkusen,2302,28,4,0,,,,,,,,,1.0,7.13,1107620
+Djed Spence,England,DEF,Tottenham Hotspur,2056,30,0,0,,,,,,,,,1.0,6.63,894803
+Reece James,England,DEF,Chelsea,1961,29,2,4,,,,,,,,,1.0,7.23,807729
+Declan Rice,England,MID,Arsenal,3099,36,4,5,,,,,,,,,1.0,7.56,654096
+Jude Bellingham,England,MID,Real Madrid,1917,28,6,4,,,,,,,,,1.0,7.53,1077894
+Elliot Anderson,England,MID,Nottingham Forest,3334,38,4,4,,,,,,,,,1.0,7.51,1089691
+Morgan Rogers,England,MID,Aston Villa,3285,37,10,6,,,,,,,,,1.0,7.0,883080
+Kobbie Mainoo,England,MID,Manchester United,1653,28,1,2,,,,,,,,,1.0,7.01,1292810
+Marcus Rashford,England,FWD,Barcelona,1761,32,8,7,,,,,,,,,1.0,7.18,696365
+Harry Kane,England,MID,Bayern München,2382,31,36,5,,,,,,,,,1.0,8.14,194165
+Bukayo Saka,England,MID,Arsenal,2225,31,7,5,,,,,,,,,1.0,7.52,961995
+Anthony Gordon,England,FWD,Barcelona,1814,26,6,2,,,,,,,,,1.0,6.96,906937
+Noni Madueke,England,FWD,Arsenal,1217,26,3,1,,,,,,,,,1.0,6.72,1084981
+Eberechi Eze,England,MID,Arsenal,1900,33,7,2,,,,,,,,,1.0,6.97,818975
+Ivan Toney,England,FWD,Al Ahli,2749,32,32,7,,,,,,,,,1.0,7.8,408987
+Ollie Watkins,England,FWD,Aston Villa,2852,37,16,3,,,,,,,,,1.0,6.97,540088
+Brice Samba,France,GK,Rennes,2880,32,0,0,,,,,,,,,1.0,6.94,279714
+Mike Maignan,France,GK,Milan,3296,37,0,0,,,,,,,,,1.0,7.25,466439
+Dayot Upamecano,France,DEF,Bayern München,1797,24,1,1,,,,,,,,,1.0,7.3,658554
+Malo Gusto,France,DEF,Chelsea,2267,34,2,3,,,,,,,,,1.0,6.84,1197250
+Lucas Digne,France,DEF,Aston Villa,1852,31,0,6,,,,,,,,,1.0,6.8,210111
+Jules Koundé,France,DEF,Barcelona,2261,30,1,3,,,,,,,,,1.0,7.26,705450
+Robin Risser,France,GK,Lens,2970,33,0,0,,,,,,,,,1.0,7.02,1390336
+Ibrahima Konaté,France,DEF,Liverpool,3100,36,1,0,,,,,,,,,1.0,7.11,820140
+Maxence Lacroix,France,DEF,Crystal Palace,3087,35,1,2,,,,,,,,,1.0,7.04,950485
+Theo Hernández,France,DEF,Al Hilal,2743,31,5,1,,,,,,,,,1.0,7.47,724371
+Lucas Hernández,France,DEF,Paris Saint-Germain,1746,25,0,3,,,,,,,,,1.0,7.18,504606
+William Saliba,France,DEF,Arsenal,2615,31,1,0,,,,,,,,,1.0,7.16,955406
+Kouadio Koné,France,MID,Roma,2459,29,2,3,,,,,,,,,1.0,7.14,1016132
+Aurélien Tchouaméni,France,DEF,Real Madrid,2622,33,1,0,,,,,,,,,1.0,7.37,914458
+Adrien Rabiot,France,MID,Milan,2550,29,6,4,,,,,,,,,1.0,7.48,352879
+N'Golo Kanté,France,MID,Fenerbahçe,1144,14,2,0,,,,,,,,,0.65,7.36,319300
+Warren Zaïre-Emery,France,DEF,Paris Saint-Germain,2453,32,3,4,,,,,,,,,1.0,7.39,1367615
+Ousmane Dembélé,France,FWD,Paris Saint-Germain,1062,22,10,7,,,,,,,,,0.88,7.41,692984
+Rayan Cherki,France,MID,Manchester City,1786,33,4,12,,,,,,,,,1.0,7.35,1104053
+Marcus Thuram,France,FWD,Inter,1913,29,13,6,,,,,,,,,1.0,7.28,621562
+Michael Olise,France,MID,Bayern München,2317,32,15,19,,,,,,,,,1.0,8.09,1029063
+Kylian Mbappé,France,FWD,Real Madrid,2604,31,25,5,,,,,,,,,1.0,8.02,701154
+Désiré Doué,France,MID,Paris Saint-Germain,1356,23,7,4,,,,,,,,,0.92,7.42,1339208
+Bradley Barcola,France,FWD,Paris Saint-Germain,1750,29,11,1,,,,,,,,,1.0,7.36,1297165
+Jean-Philippe Mateta,France,FWD,Crystal Palace,2222,32,12,0,,,,,,,,,1.0,6.68,706297
+Maghnes Akliouche,France,MID,Monaco,2410,31,6,6,,,,,,,,,1.0,7.26,1305618
+Manuel Neuer,Germany,GK,Bayern München,1860,22,0,0,,,,,,,,,0.88,6.78,27299
+Oliver Baumann,Germany,GK,Hoffenheim,3060,34,0,0,,,,,,,,,1.0,6.81,178778
+Waldemar Anton,Germany,DEF,Borussia Dortmund,2880,32,2,0,,,,,,,,,1.0,7.45,664970
+Alexander Nübel,Germany,GK,VfB Stuttgart,3060,34,0,0,,,,,,,,,1.0,7.33,554534
+David Raum,Germany,DEF,RB Leipzig,2556,30,3,7,,,,,,,,,1.0,7.63,806669
+Jonathan Tah,Germany,DEF,Bayern München,2019,28,2,1,,,,,,,,,1.0,7.27,469700
+Malick Thiaw,Germany,DEF,Newcastle United,2964,35,4,0,,,,,,,,,1.0,7.03,1137407
+Nico Schlotterbeck,Germany,DEF,Borussia Dortmund,2520,28,5,1,,,,,,,,,1.0,7.59,1002058
+Antonio Rüdiger,Germany,DEF,Real Madrid,1492,18,1,0,,,,,,,,,0.8,6.94,276738
+Joshua Kimmich,Germany,DEF,Bayern München,2280,29,2,8,,,,,,,,,1.0,7.67,460632
+Nathaniel Brown,Germany,DEF,Eintracht Frankfurt,2657,33,4,4,,,,,,,,,1.0,7.11,1395447
+Aleksandar Pavlovic,Germany,MID,Bayern München,1460,24,3,1,,,,,,,,,0.96,7.13,1473580
+Leon Goretzka,Germany,MID,Bayern München,1954,31,5,3,,,,,,,,,1.0,7.29,343748
+Jamal Musiala,Germany,MID,Bayern München,679,15,3,4,,,,,,,,,0.6,7.05,1156141
+Felix Nmecha,Germany,MID,Borussia Dortmund,2184,29,2,3,,,,,,,,,1.0,7.22,966019
+Jamie Leweling,Germany,DEF,VfB Stuttgart,2375,32,7,9,,,,,,,,,1.0,7.18,1074968
+Pascal Groß,Germany,MID,Brighton & Hove Albion,1636,19,1,3,,,,,,,,,0.9,7.2,167008
+Maximilian Beier,Germany,DEF,Borussia Dortmund,2036,32,9,6,,,,,,,,,1.0,7.05,1047667
+Nadiem Amiri,Germany,MID,Mainz 05,2090,26,12,2,,,,,,,,,1.0,7.61,614449
+Kai Havertz,Germany,MID,Arsenal,583,12,2,3,,,,,,,,,0.48,6.83,749736
+Nick Woltemade,Germany,MID,Newcastle United,1912,33,8,3,,,,,,,,,1.0,6.66,1106563
+Angelo Stiller,Germany,MID,VfB Stuttgart,2744,34,2,5,,,,,,,,,1.0,7.31,1071186
+Florian Wirtz,Germany,MID,Liverpool,2388,33,5,3,,,,,,,,,1.0,7.16,1152455
+Leroy Sané,Germany,MID,Galatasaray,2286,28,7,5,,,,,,,,,1.0,7.45,530859
+Alidu Seidu,Ghana,DEF,Rennes,1185,21,0,1,,,,,,,,,0.84,6.87,1177779
+Lawrence Ati-Zigi,Ghana,GK,St. Gallen,3150,35,0,0,,,,,,,,,1.0,7.192857142857143,615411
+Deniz Undav,Germany,MID,VfB Stuttgart,2247,29,19,6,,,,,,,,,1.0,7.46,661519
+Jonas Adjetey,Ghana,DEF,Wolfsburg,137,4,0,0,,,,,,,,,0.16,6.43,1432344
+Joseph Anang,Ghana,GK,St. Patrick's Athletic,1710,19,0,0,,,,,,,,,0.76,7.15,963812
+Benjamin Asare,Ghana,GK,Ghana,0,0,0,0,,,,,,,,,0.0,,1806615
+Abdul Mumin,Ghana,DEF,Rayo Vallecano,78,3,0,0,,,,,,,,,0.12,6.66,776591
+Gideon Mensah,Ghana,DEF,Auxerre,2333,30,0,2,,,,,,,,,1.0,7.01,771630
+Lennart Karl,Germany,MID,Bayern München,1282,26,5,5,,,,,,,,,1.0,7.13,1737700
+Abdul Rahman Baba,Ghana,DEF,PAOK Thessaloniki,1915,25,2,2,,,,,,,,,1.0,6.9536,324910
+Derrick Luckassen,Ghana,DEF,Pafos FC,2417,28,5,0,,,,,,,,,1.0,,562801
+Jerome Opoku,Ghana,DEF,Başakşehir,2740,32,0,1,,,,,,,,,1.0,6.88,873227
+Marvin Senaya,Ghana,DEF,Auxerre,1784,25,1,0,,,,,,,,,1.0,6.85,1201760
+Caleb Yirenkyi,Ghana,DEF,Nordsjælland,2614,30,2,6,,,,,,,,,1.0,7.523,1615927
+Kojo Peprah Oppong,Ghana,DEF,Nice,2428,29,1,0,,,,,,,,,1.0,6.91,1429607
+Kwasi Sibo,Ghana,MID,Real Oviedo,1686,26,0,0,,,,,,,,,1.0,6.42,948745
+Elisha Owusu,Ghana,MID,Auxerre,2349,29,0,0,,,,,,,,,1.0,6.89,883823
+Thomas Partey,Ghana,MID,Villarreal,923,25,0,0,,,,,,,,,1.0,6.43,434325
+Christopher Bonsu Baah,Ghana,DEF,Al Qadsiah,2679,32,3,12,,,,,,,,,1.0,7.67,1452385
+Abdul Fatawu,Ghana,FWD,Leicester City,3718,44,9,7,,,,,,,,,1.0,7.18,1265626
+Brandon Thomas-Asante,Ghana,MID,Coventry City,1864,32,13,4,,,,,,,,,1.0,7.09,776184
+Kamaldeen Sulemana,Ghana,MID,Atalanta,1002,25,2,1,,,,,,,,,1.0,6.6,1130691
+Iñaki Williams,Ghana,FWD,Athletic Club,2168,30,3,6,,,,,,,,,1.0,6.65,604105
+Jordan Ayew,Ghana,FWD,Leicester City,2257,42,6,3,,,,,,,,,1.0,6.63,154280
+Augustine Boakye,Ghana,MID,Saint-Etienne,2476,31,5,9,,,,,,,,,1.0,7.38,1211610
+Antoine Semenyo,Ghana,FWD,Manchester City,3200,37,17,4,,,,,,,,,1.0,7.34,933576
+Ernest Nuamah,Ghana,FWD,Lyon,32,3,0,0,,,,,,,,,0.12,6.41,1338390
+Prince Adu,Ghana,MID,Viktoria Plzen,1558,29,7,1,,,,,,,,,1.0,6.757142857142858,1220633
+Alexandre Pierre,Haiti,GK,Sochaux,2295,26,0,0,,,,,,,,,1.0,,1209244
+Carlens Arcus,Haiti,DEF,Angers,2044,26,0,3,,,,,,,,,1.0,6.82,634110
+Johny Placide,Haiti,GK,SC Bastia,2070,23,0,0,,,,,,,,,0.92,6.97,103468
+Josué Duverger,Haiti,GK,FC Cosmos Koblenz,0,0,0,0,,,,,,,,,0.0,,899023
+Ricardo Adé,Haiti,DEF,LDU de Quito,840,11,1,0,,,,,,,,,0.5,6.98,532700
+Carl Sainté,Haiti,DEF,El Paso Locomotive FC,185,5,0,0,,,,,,,,,0.2,6.43,1107287
+Keeto Thermoncy,Haiti,DEF,Young Boys II,0,0,0,0,,,,,,,,,0.0,,1807873
+Hannes Delcroix,Haiti,DEF,Lugano,1155,14,1,0,,,,,,,,,0.7,7.332142857142857,822716
+Leverton Pierre,Haiti,MID,Vizela,181,11,0,0,,,,,,,,,0.44,,899318
+Jean-Kévin Duverne,Haiti,DEF,Gent,1155,22,1,1,,,,,,,,,0.88,6.775,769168
+Martin Expérience,Haiti,DEF,Nancy,1272,20,1,1,,,,,,,,,0.8,6.76,1181438
+Don Deedson Louicius,Haiti,DEF,FC Dallas,253,7,1,0,,,,,,,,,0.28,6.64,1079194
+Josué Casimir,Haiti,DEF,Auxerre,1521,31,1,0,,,,,,,,,1.0,6.41,1199382
+Jean-Ricner Bellegarde,Haiti,MID,Wolverhampton Wanderers,1251,26,1,1,,,,,,,,,1.0,6.4,769166
+Duke Lacroix,Haiti,DEF,Colorado Springs Switchbacks FC,4,1,0,0,,,,,,,,,0.04,,649744
+Danley Jean Jacques,Haiti,MID,Philadelphia Union,1151,14,2,0,,,,,,,,,0.65,6.97,1329461
+Olivier Pierre,Haiti,MID,Real Hope FA,0,0,0,0,,,,,,,,,0.0,,1447452
+Dominique Simon,Haiti,MID,Tatran Presov,979,20,1,1,,,,,,,,,0.8,6.7411111111111115,1356595
+Duckens Nazon,Haiti,FWD,Esteghlal,0,0,0,0,,,,,,,,,0.0,,525445
+Wilguens Paugain,Haiti,DEF,Zulte Waregem,1281,24,1,0,,,,,,,,,0.96,6.850476190476191,1394254
+Yassin Fortuné,Haiti,FWD,Vizela,1253,23,3,0,,,,,,,,,0.92,,759569
+Derrick Etienne,Haiti,FWD,Toronto FC,647,11,2,0,,,,,,,,,0.44,6.54,643482
+Ruben Providence,Haiti,FWD,Almere City FC,1028,25,1,2,,,,,,,,,1.0,6.56,1200016
+Lenny Joseph,Haiti,MID,Ferencvaros,1209,25,7,0,,,,,,,,,1.0,,1242314
+Wilson Isidor,Haiti,FWD,Sunderland,1158,32,6,0,,,,,,,,,1.0,6.31,887703
+Frantzdy Pierrot,Haiti,FWD,Rizespor,115,10,0,0,,,,,,,,,0.4,6.06,833641
+Alireza Beiranvand,Iran,GK,Tractor,0,0,0,0,,,,,,,,,0.0,,505313
+Payam Niazmand,Iran,GK,Persepolis,0,0,0,0,,,,,,,,,0.0,,872590
+Hossein Hosseini,Iran,GK,Sepahan,0,0,0,0,,,,,,,,,0.0,,431418
+Ali Nemati,Iran,DEF,Foolad Khuzestan,0,0,0,0,,,,,,,,,0.0,,872575
+Saleh Hardani,Iran,DEF,Esteghlal,0,0,0,0,,,,,,,,,0.0,,1221526
+Arya Yousefi,Iran,DEF,Sepahan,0,0,0,0,,,,,,,,,0.0,,1350138
+Danial Eiri,Iran,DEF,Malavan,0,0,0,0,,,,,,,,,0.0,,1729681
+Shoja Khalilzadeh,Iran,DEF,Tractor,0,0,0,0,,,,,,,,,0.0,,511397
+Ehsan Hajisafi,Iran,DEF,Sepahan,0,0,0,0,,,,,,,,,0.0,,117222
+Milad Mohammadi,Iran,DEF,Persepolis,0,0,0,0,,,,,,,,,0.0,,630459
+Hossein Kanani,Iran,DEF,Persepolis,0,0,0,0,,,,,,,,,0.0,,500637
+Ramin Rezaeian,Iran,DEF,Foolad Khuzestan,0,0,0,0,,,,,,,,,0.0,,505959
+Saeid Ezatolahi,Iran,DEF,Shabab Al-Ahli Dubai FC,1701,22,5,1,,,,,,,,,1.0,7.32,505281
+Roozbeh Cheshmi,Iran,MID,Esteghlal,0,0,0,0,,,,,,,,,0.0,,505385
+Mehdi Torabi,Iran,FWD,Tractor,0,0,0,0,,,,,,,,,0.0,,621519
+Mehdi Taremi,Iran,MID,Olympiacos,1261,24,10,2,,,,,,,,,0.96,7.319999999999999,619506
+Dennis Eckert,Iran,MID,Standard Liege,1987,35,5,0,,,,,,,,,1.0,6.496571428571428,892709
+Saman Ghoddos,Iran,MID,Al Ittihad Kalba,1806,25,5,3,,,,,,,,,1.0,7.03,532220
+Alireza Jahanbakhsh,Iran,MID,FCV Dender EH,902,21,1,1,,,,,,,,,0.84,6.4494444444444445,466890
+Mohammad Mohebi,Iran,FWD,FC Rostov,1610,28,3,2,,,,,,,,,1.0,6.74,1073012
+Mohammad Ghorbani,Iran,DEF,Al-Wahda,1199,22,1,0,,,,,,,,,0.88,6.71,1420509
+Mehdi Ghayedi,Iran,MID,Al-Nasr SC,1308,20,4,4,,,,,,,,,0.8,6.79,848314
+Amir Mohammad Razzaghinia,Iran,MID,Esteghlal,0,0,0,0,,,,,,,,,0.0,,1583232
+Ali Alipour,Iran,FWD,Persepolis,0,0,0,0,,,,,,,,,0.0,,505960
+Rebin Sulaka,Iraq,DEF,Port FC,1894,24,0,0,,,,,,,,,1.0,6.89,502481
+Fahad Talib,Iraq,GK,Al Talaba,0,0,0,0,,,,,,,,,0.0,,533495
+Ahmed Basil Fadhil,Iraq,GK,Al Shorta,0,0,0,0,,,,,,,,,0.0,,1132570
+Hussein Ali,Iraq,DEF,Pogoń Szczecin,515,16,2,0,,,,,,,,,0.64,6.47,1092563
+Jalal Hassan,Iraq,GK,Al Zawraa,0,0,0,0,,,,,,,,,0.0,,578761
+Amirhossein Hosseinzadeh,Iran,FWD,Tractor,0,0,0,0,,,,,,,,,0.0,,1031319
+Zaid Tahseen,Iraq,DEF,Al Quwa Al Jawiya,0,0,0,0,,,,,,,,,0.0,,1420369
+Shahriyar Moghanloo,Iran,FWD,Al Ittihad Kalba,1920,25,8,2,,,,,,,,,1.0,6.91,641121
+Akam Hashem,Iraq,DEF,Al Zawraa,0,0,0,0,,,,,,,,,0.0,,1606279
+Manaf Younis,Iraq,DEF,Al Shorta,0,0,0,0,,,,,,,,,0.0,,1333336
+Merchas Doski,Iraq,DEF,Viktoria Plzen,2040,30,1,0,,,,,,,,,1.0,6.934137931034483,1199113
+Mustafa Saadoun,Iraq,DEF,Al Shorta,0,0,0,0,,,,,,,,,0.0,,1554123
+Ibrahim Bayesh,Iraq,MID,Al-Dhafra,1026,12,1,0,,,,,,,,,0.55,6.94,942834
+Amir Al-Ammari,Iraq,MID,Cracovia,2505,33,1,4,,,,,,,,,1.0,7.02,858340
+Zaid Ismael,Iraq,MID,Al Talaba,0,0,0,0,,,,,,,,,0.0,,1642820
+Zidane Iqbal,Iraq,MID,Jong FC Utrecht,506,11,0,1,,,,,,,,,0.44,6.88,1138592
+Frans Putros,Iraq,DEF,Persib Bandung,2128,28,1,1,,,,,,,,,1.0,,320139
+Kevin Yakob,Iraq,MID,AGF,1446,26,4,2,,,,,,,,,1.0,6.9799999999999995,941579
+Aimar Sher,Iraq,MID,Sarpsborg 08,807,9,1,0,,,,,,,,,0.45,7.25,1042511
+Ali Yousif,Iraq,FWD,Al Talaba,0,0,0,0,,,,,,,,,0.0,,1132572
+Youssef Amyn,Iraq,FWD,AEK Larnaca,653,13,2,0,,,,,,,,,0.52,,1235623
+Ali Al Hamadi,Iraq,FWD,Luton Town,413,13,1,1,,,,,,,,,0.52,6.24,1113688
+Ahmed Qasem,Iraq,MID,Nashville SC,730,14,1,1,,,,,,,,,0.56,6.76,1224691
+Mohanad Ali,Iraq,FWD,Dibba Al Fujairah,1333,20,6,1,,,,,,,,,0.8,6.84,926484
+Yahia Fofana,Ivory Coast,GK,Rizespor,2430,27,0,0,,,,,,,,,1.0,6.72,873566
+Ayman Hussein,Iraq,FWD,Al-Karma,0,0,0,0,,,,,,,,,0.0,,674332
+Ali Jasim,Iraq,MID,Al Najma,1623,24,4,1,,,,,,,,,0.96,6.79,1478238
+Mohamed Koné,Ivory Coast,GK,Sporting Charleroi,1710,19,0,0,,,,,,,,,0.76,7.177368421052631,1280201
+Marko Lawk Farji,Iraq,FWD,Venezia,21,2,0,0,,,,,,,,,0.08,6.01,1162514
+Wilfried Singo,Ivory Coast,DEF,Galatasaray,948,19,2,1,,,,,,,,,0.76,7.06,1027472
+Alban Lafont,Ivory Coast,GK,Panathinaikos,1935,22,0,0,,,,,,,,,0.88,7.167272727272728,698273
+Odilon Kossounou,Ivory Coast,DEF,Atalanta,985,19,1,0,,,,,,,,,0.76,6.58,1014496
+Ousmane Diomande,Ivory Coast,DEF,Sporting CP,1297,17,0,1,,,,,,,,,0.75,7.25,1425182
+Ghislain Konan,Ivory Coast,DEF,Gil Vicente,2661,30,0,0,,,,,,,,,1.0,7.09,740997
+Guéla Doué,Ivory Coast,DEF,Strasbourg,2063,24,2,6,,,,,,,,,1.0,7.3,1395704
+Emmanuel Agbadou,Ivory Coast,DEF,Beşiktaş,1090,13,1,1,,,,,,,,,0.6,7.32,1114979
+Christopher Opéri,Ivory Coast,DEF,Başakşehir,1824,22,0,4,,,,,,,,,1.0,7.14,802462
+Evan N'Dicka,Ivory Coast,DEF,Roma,2683,31,3,0,,,,,,,,,1.0,7.12,787242
+Seko Fofana,Ivory Coast,MID,FC Porto,276,12,3,0,,,,,,,,,0.48,6.72,602211
+Amad Diallo,Ivory Coast,DEF,Manchester United,2344,32,2,3,,,,,,,,,1.0,7.19,1070052
+Jean Michaël Seri,Ivory Coast,MID,Maribor,0,0,0,0,,,,,,,,,0.0,,470539
+Franck Kessié,Ivory Coast,DEF,Al Ahli,2173,26,5,3,,,,,,,,,1.0,7.28,579747
+Ibrahim Sangaré,Ivory Coast,MID,Nottingham Forest,2080,28,2,2,,,,,,,,,1.0,6.94,795371
+Nicolas Pépé,Ivory Coast,FWD,Villarreal,2396,36,8,8,,,,,,,,,1.0,7.3,575735
+Christ Inao Oulaï,Ivory Coast,MID,Trabzonspor,2077,25,2,4,,,,,,,,,1.0,7.35,1666494
+Elye Wahi,Ivory Coast,FWD,Nice,926,14,5,1,,,,,,,,,0.56,6.72,1213430
+Simon Adingra,Ivory Coast,DEF,Monaco,861,14,3,2,,,,,,,,,0.56,7.16,1227012
+Yan Diomande,Ivory Coast,FWD,RB Leipzig,2476,33,12,8,,,,,,,,,1.0,7.61,1735453
+Ange-Yoan Bonny,Ivory Coast,FWD,Inter,1129,33,5,4,,,,,,,,,1.0,6.51,1199383
+Evann Guessand,Ivory Coast,MID,Crystal Palace,916,21,1,2,,,,,,,,,0.84,6.45,1087966
+Oumar Diakité,Ivory Coast,FWD,Cercle Brugge,1427,25,7,0,,,,,,,,,1.0,6.69,1328540
+Zion Suzuki,Japan,GK,Parma,1800,20,0,0,,,,,,,,,0.8,6.95,1053679
+Tomoki Hayakawa,Japan,GK,Kashima Antlers,1530,17,0,0,,,,,,,,,0.68,7.74,1232143
+Bazoumana Touré,Ivory Coast,DEF,Hoffenheim,2325,30,5,9,,,,,,,,,1.0,7.2,1624586
+Keisuke Osako,Japan,GK,Sanfrecce Hiroshima,1440,16,0,0,,,,,,,,,0.64,6.81,922808
+Shogo Taniguchi,Japan,DEF,St.Truiden,2955,38,1,1,,,,,,,,,1.0,6.952702702702703,523731
+Parfait Guiagon,Ivory Coast,FWD,Sporting Charleroi,2555,33,9,5,,,,,,,,,1.0,7.266060606060606,1186770
+Yukinari Sugawara,Japan,DEF,Werder Bremen,2432,31,0,6,,,,,,,,,1.0,6.8,924610
+Ko Itakura,Japan,DEF,Ajax,1344,18,1,0,,,,,,,,,0.8,7.0,620917
+Yuto Nagatomo,Japan,DEF,FC Tokyo,502,8,0,0,,,,,,,,,0.35,6.5,98254
+Tsuyoshi Watanabe,Japan,DEF,Feyenoord,2637,30,2,0,,,,,,,,,1.0,7.19,1023887
+Hiroki Ito,Japan,DEF,Bayern München,921,16,1,2,,,,,,,,,0.64,7.02,851626
+Ayumu Seko,Japan,DEF,Le Havre,2625,30,0,0,,,,,,,,,1.0,6.8,857120
+Wataru Endo,Japan,DEF,Liverpool,171,8,0,1,,,,,,,,,0.32,7.02,202643
+Takehiro Tomiyasu,Japan,DEF,Ajax,205,7,0,0,,,,,,,,,0.28,6.4,664444
+Ao Tanaka,Japan,MID,Leeds United,1314,28,2,0,,,,,,,,,1.0,6.85,935728
+Junnosuke Suzuki,Japan,DEF,FC København,1771,21,2,0,,,,,,,,,1.0,7.185,1337765
+Daichi Kamada,Japan,MID,Crystal Palace,1908,28,0,0,,,,,,,,,1.0,6.84,621515
+Ritsu Doan,Japan,DEF,Eintracht Frankfurt,2379,31,5,5,,,,,,,,,1.0,6.97,629805
+Yuito Suzuki,Japan,MID,Freiburg,1636,25,4,2,,,,,,,,,1.0,6.76,1134467
+Kaishu Sano,Japan,MID,Mainz 05,3059,34,1,2,,,,,,,,,1.0,7.3,1033111
+Takefusa Kubo,Japan,MID,Real Sociedad,1508,24,2,4,,,,,,,,,0.96,7.05,848289
+Keisuke Goto,Japan,FWD,St.Truiden,2885,38,11,7,,,,,,,,,1.0,7.021052631578947,1436730
+Ayase Ueda,Japan,FWD,Feyenoord,2533,31,25,1,,,,,,,,,1.0,7.46,942393
+Keito Nakamura,Japan,DEF,Reims,2357,29,14,2,,,,,,,,,1.0,7.48,887704
+Daizen Maeda,Japan,DEF,Celtic,2836,36,14,6,,,,,,,,,1.0,7.239166666666667,728765
+Nour Bani Attiah,Jordan,GK,Al-Faisaly,0,0,0,0,,,,,,,,,0.0,,1554110
+Junya Ito,Japan,DEF,Genk,1785,28,6,5,,,,,,,,,1.0,7.167857142857143,604044
+Koki Ogawa,Japan,FWD,NEC Nijmegen,1272,26,8,3,,,,,,,,,1.0,6.82,727837
+Kento Shiogai,Japan,FWD,Wolfsburg,313,12,1,0,,,,,,,,,0.48,6.23,1611223
+Abdallah Nasib,Jordan,DEF,Al Zawraa,0,0,0,0,,,,,,,,,0.0,,1312681
+Abdullah Al Fakhouri,Jordan,GK,Al-Wehdat,0,0,0,0,,,,,,,,,0.0,,915790
+Mohammad Abu Al Nadi,Jordan,DEF,Selangor,0,0,0,0,,,,,,,,,0.0,,1033300
+Yazan Al Arab,Jordan,DEF,FC Seoul,854,12,1,1,,,,,,,,,0.5,7.02,852168
+Husam Abu Dahab,Jordan,DEF,Al-Faisaly,0,0,0,0,,,,,,,,,0.0,,1554109
+Yazeed Abulaila,Jordan,GK,Al-Hussein SC,0,0,0,0,,,,,,,,,0.0,,734654
+Saed Al-Rosan,Jordan,DEF,Ethad All Ramtha,0,0,0,0,,,,,,,,,0.0,,1179369
+Amer Jamous,Jordan,MID,Al Zawraa,0,0,0,0,,,,,,,,,0.0,,1213678
+Noor Al Rawabdeh,Jordan,MID,Selangor,0,0,0,0,,,,,,,,,0.0,,1036253
+Saleem Obaid,Jordan,DEF,Al-Hussein SC,0,0,0,0,,,,,,,,,0.0,,847766
+Mohannad Abu Taha,Jordan,DEF,Al Quwa Al Jawiya,0,0,0,0,,,,,,,,,0.0,,1247001
+Mohammad Hasheesh,Jordan,FWD,Zakho,0,0,0,0,,,,,,,,,0.0,,1350517
+Mousa Tamari,Jordan,FWD,Rennes,2224,33,6,6,,,,,,,,,1.0,7.04,813055
+Rajaei Ayed,Jordan,MID,Al-Hussein SC,0,0,0,0,,,,,,,,,0.0,,546203
+Mahmoud Al Mardi,Jordan,MID,Dibba Al Fujairah,451,8,1,1,,,,,,,,,0.32,6.59,674520
+Ehsan Haddad,Jordan,MID,Al-Hussein SC,0,0,0,0,,,,,,,,,0.0,,546201
+Ibrahim Saadeh,Jordan,MID,Al-Jazeera,0,0,0,0,,,,,,,,,0.0,,1202924
+Shararh,Jordan,FWD,Raja Casablanca,612,11,1,0,,,,,,,,,0.45,,1059129
+Odeh Al-Fakhouri,Jordan,FWD,Pyramids FC,298,10,1,2,,,,,,,,,0.4,6.662857142857143,1823348
+Mohammad Al-Daoud,Jordan,MID,Al-Salt,0,0,0,0,,,,,,,,,0.0,,600844
+Ali Olwan,Jordan,FWD,Al-Sailiya,126,2,0,0,,,,,,,,,0.1,6.28,1028896
+Nizar Al Rashdan,Jordan,MID,Qatar SC,965,11,0,2,,,,,,,,,0.55,7.32,1195369
+Ali Al-Azaizeh,Jordan,FWD,Al Shabab,627,15,2,1,,,,,,,,,0.6,6.78,1642793
+Ibrahim Sabra,Jordan,FWD,NK Lokomotiva,708,13,2,1,,,,,,,,,0.52,6.49,1642791
+Guillermo Ochoa,Mexico,GK,AEL Limassol,1980,22,0,0,,,,,,,,,0.88,,31047
+Raúl Rangel,Mexico,GK,Chivas,1350,15,0,0,,,,,,,,,0.6,7.07,1227878
+Carlos Acevedo,Mexico,GK,Santos Laguna,1330,15,0,0,,,,,,,,,0.6,6.13,751164
+Jorge Sánchez,Mexico,DEF,PAOK Thessaloniki,633,10,0,0,,,,,,,,,0.4,6.67,727586
+César Montes,Mexico,DEF,Lokomotiv Moscow,2208,26,4,0,,,,,,,,,1.0,7.4,664644
+Érik Lira,Mexico,DEF,Cruz Azul,1285,17,0,0,,,,,,,,,0.75,6.97,971628
+Luis Romo,Mexico,DEF,Chivas,850,10,0,1,,,,,,,,,0.5,7.1,921174
+Mateo Chávez,Mexico,DEF,AZ Alkmaar,824,20,1,2,,,,,,,,,0.8,6.95,1432212
+Johan Vásquez,Mexico,DEF,Genoa,3217,36,1,0,,,,,,,,,1.0,6.88,914103
+Álvaro Fidalgo,Mexico,MID,Real Betis,547,9,1,0,,,,,,,,,0.4,6.65,895954
+Orbelín Pineda,Mexico,MID,AEK Athens,2479,31,5,2,,,,,,,,,1.0,7.392903225806452,559986
+Israel Reyes,Mexico,DEF,CF America,1350,15,0,1,,,,,,,,,0.75,7.13,1074586
+Jesús Gallardo,Mexico,DEF,Toluca,986,13,1,4,,,,,,,,,0.52,7.49,597976
+Edson Álvarez,Mexico,DEF,Fenerbahçe,768,12,0,1,,,,,,,,,0.5,7.14,783505
+Obed Vargas,Mexico,MID,Atletico Madrid,739,12,0,1,,,,,,,,,0.48,6.82,1254394
+Gilberto Mora,Mexico,MID,Tijuana,331,6,1,0,,,,,,,,,0.24,6.96,1670377
+Luis Chávez,Mexico,MID,Dinamo Moscow,158,4,0,0,,,,,,,,,0.16,6.6,527616
+Roberto Alvarado,Mexico,DEF,Chivas,1393,17,1,2,,,,,,,,,0.8,7.52,720737
+Raul Jiménez,Mexico,FWD,Fulham,2199,36,9,3,,,,,,,,,1.0,6.74,292313
+Armando González,Mexico,MID,Chivas,1268,17,12,1,,,,,,,,,0.85,7.37,1456983
+Brian Gutiérrez,Mexico,MID,Chivas,918,17,2,1,,,,,,,,,0.68,7.03,1170238
+Julián Quiñones,Mexico,FWD,Al Qadsiah,2724,31,33,4,,,,,,,,,1.0,8.0,720560
+Alexis Vega,Mexico,MID,Toluca,554,8,0,2,,,,,,,,,0.32,7.54,728365
+Santiago Giménez,Mexico,FWD,Milan,896,16,0,1,,,,,,,,,0.64,6.41,954092
+César Huerta,Mexico,MID,Anderlecht,545,11,1,0,,,,,,,,,0.44,6.569090909090909,977404
+Guillermo Martínez,Mexico,FWD,Pumas,493,15,5,0,,,,,,,,,0.6,6.82,558539
+Munir,Morocco,GK,RSB Berkane,450,5,0,0,,,,,,,,,0.2,,573787
+Noussair Mazraoui,Morocco,DEF,Manchester United,984,20,0,0,,,,,,,,,0.8,6.95,775539
+Achraf Hakimi,Morocco,DEF,Paris Saint-Germain,1374,18,2,2,,,,,,,,,0.75,7.18,770881
+Ahmed Tagnaouti,Morocco,GK,FAR Rabat,1433,16,0,0,,,,,,,,,0.64,,885288
+Chadi Riad,Morocco,DEF,Crystal Palace,554,9,0,1,,,,,,,,,0.36,6.7,1187506
+Yassine Bounou,Morocco,GK,Al Hilal,2340,26,0,0,,,,,,,,,1.0,7.0,340020
+Issa Diop,Morocco,DEF,Fulham,814,13,1,0,,,,,,,,,0.52,6.62,696443
+Nayef Aguerd,Morocco,DEF,Marseille,1399,16,1,0,,,,,,,,,0.8,7.28,617310
+Redouane Halhal,Morocco,DEF,KV Mechelen,2849,33,1,2,,,,,,,,,1.0,6.899090909090909,1298186
+Zakaria El Ouahdi,Morocco,DEF,Genk,2996,34,8,4,,,,,,,,,1.0,7.3500000000000005,1287871
+Sofyan Amrabat,Morocco,MID,Real Betis,1296,17,0,0,,,,,,,,,0.7,6.96,593116
+Ayyoub Bouaddi,Morocco,DEF,Lille,2329,30,0,1,,,,,,,,,1.0,7.06,1561552
+Youssef Belammari,Morocco,DEF,Al Ahly SC,715,9,0,0,,,,,,,,,0.4,7.083333333333333,909908
+Azzedine Ounahi,Morocco,MID,Girona,1766,24,5,2,,,,,,,,,1.0,7.28,1073143
+Samir El Mourabet,Morocco,MID,Strasbourg,2135,33,1,2,,,,,,,,,1.0,6.87,1598170
+Ismael Saibari,Morocco,MID,PSV Eindhoven,2145,27,15,8,,,,,,,,,1.0,7.9,1180288
+Bilal El Khannouss,Morocco,MID,VfB Stuttgart,1634,25,4,5,,,,,,,,,1.0,7.23,1340895
+Brahim Díaz,Morocco,FWD,Real Madrid,1252,30,1,6,,,,,,,,,1.0,6.84,750027
+Soufiane Rahimi,Morocco,FWD,Al-Ain,1345,16,7,5,,,,,,,,,0.8,8.01,988749
+Anass Salah-Eddine,Morocco,DEF,PSV Eindhoven,1092,17,0,0,,,,,,,,,0.68,6.93,1050838
+Neil El Aynaoui,Morocco,MID,Roma,991,25,1,2,,,,,,,,,1.0,6.73,1274060
+Abdessamad Ezzalzouli,Morocco,FWD,Real Betis,2255,29,10,8,,,,,,,,,1.0,7.52,1209399
+Gessime Yassine,Morocco,FWD,Strasbourg,509,12,0,1,,,,,,,,,0.48,6.79,1603755
+Ayoub El Kaabi,Morocco,MID,Olympiacos,2108,28,18,2,,,,,,,,,1.0,7.282857142857144,884382
+Ayoube Amaimouni-Echghouyab,Morocco,DEF,Eintracht Frankfurt,580,17,2,3,,,,,,,,,0.68,6.69,1680173
+Mark Flekken,Netherlands,GK,Bayer Leverkusen,2130,24,0,0,,,,,,,,,0.96,6.73,330643
+Robin Roefs,Netherlands,GK,Sunderland,3150,35,0,0,,,,,,,,,1.0,6.95,1125720
+Bart Verbruggen,Netherlands,GK,Brighton & Hove Albion,3420,38,0,0,,,,,,,,,1.0,6.93,1131987
+Virgil van Dijk,Netherlands,DEF,Liverpool,3420,38,6,0,,,,,,,,,1.0,7.26,209405
+Chemsdine Talbi,Morocco,FWD,Sunderland,1561,28,4,1,,,,,,,,,1.0,6.55,1368654
+Nathan Aké,Netherlands,DEF,Manchester City,688,18,0,0,,,,,,,,,0.72,6.76,417068
+Jan Paul van Hecke,Netherlands,DEF,Brighton & Hove Albion,3211,36,3,3,,,,,,,,,1.0,7.1,974618
+Jurriën Timber,Netherlands,DEF,Arsenal,2457,30,3,5,,,,,,,,,1.0,7.26,942381
+Mats Wieffer,Netherlands,DEF,Brighton & Hove Albion,1908,26,2,3,,,,,,,,,1.0,7.02,970243
+Micky van de Ven,Netherlands,DEF,Tottenham Hotspur,3043,35,4,1,,,,,,,,,1.0,6.69,1097466
+Justin Kluivert,Netherlands,MID,AFC Bournemouth,951,20,2,0,,,,,,,,,0.8,6.53,794253
+Tijjani Reijnders,Netherlands,MID,Manchester City,1636,28,5,2,,,,,,,,,1.0,6.96,868344
+Ryan Gravenberch,Netherlands,DEF,Liverpool,2996,36,5,3,,,,,,,,,1.0,7.25,956683
+Teun Koopmeiners,Netherlands,DEF,Juventus,1819,33,0,0,,,,,,,,,1.0,6.69,866516
+Marten de Roon,Netherlands,DEF,Atalanta,2704,34,1,2,,,,,,,,,1.0,7.07,198559
+Denzel Dumfries,Netherlands,DEF,Inter,1327,20,3,1,,,,,,,,,0.8,6.78,593118
+Jorrel Hato,Netherlands,DEF,Chelsea,1142,22,0,0,,,,,,,,,0.88,6.57,1413846
+Frenkie de Jong,Netherlands,MID,Barcelona,1631,25,1,5,,,,,,,,,1.0,7.32,638622
+Wout Weghorst,Netherlands,FWD,Ajax,1782,27,8,4,,,,,,,,,1.0,7.18,351999
+Cody Gakpo,Netherlands,FWD,Liverpool,2747,36,7,5,,,,,,,,,1.0,7.17,806552
+Quinten Timber,Netherlands,MID,Marseille,1111,15,0,0,,,,,,,,,0.7,6.84,970563
+Noa Lang,Netherlands,MID,Galatasaray,704,13,0,3,,,,,,,,,0.52,6.85,837341
+Memphis Depay,Netherlands,FWD,Corinthians,465,8,1,0,,,,,,,,,0.32,6.5,303824
+Crysencio Summerville,Netherlands,MID,West Ham United,2480,31,5,2,,,,,,,,,1.0,7.04,941213
+Brian Brobbey,Netherlands,FWD,Sunderland,1931,31,7,1,,,,,,,,,1.0,6.53,940446
+Donyell Malen,Netherlands,FWD,Roma,1478,18,14,2,,,,,,,,,0.9,7.3,660301
+Guus Til,Netherlands,MID,PSV Eindhoven,2248,29,14,4,,,,,,,,,1.0,7.42,774947
+Max Crocombe,New Zealand,GK,Millwall,2070,23,0,0,,,,,,,,,0.92,7.23,315201
+Alex Paulsen,New Zealand,GK,Lechia Gdańsk,2160,24,0,0,,,,,,,,,0.96,6.61,1272118
+Tim Payne,New Zealand,DEF,Wellington Phoenix,867,14,0,5,,,,,,,,,0.65,6.69,324305
+Francis De Vries,New Zealand,DEF,Auckland FC,1979,22,1,7,,,,,,,,,1.0,7.71,825593
+Tyler Bindon,New Zealand,DEF,Sheffield United,2029,25,1,0,,,,,,,,,1.0,6.99,1524716
+Michael Woud,New Zealand,GK,Auckland FC,2091,24,0,0,,,,,,,,,0.96,7.09,848317
+Michael Boxall,New Zealand,DEF,Minnesota United,397,7,0,0,,,,,,,,,0.28,6.42,128949
+Nando Pijnaker,New Zealand,DEF,Auckland FC,719,13,0,0,,,,,,,,,0.52,6.82,1053731
+Callan Elliot,New Zealand,DEF,Auckland FC,1406,23,0,1,,,,,,,,,0.92,7.09,1013276
+Tommy Smith,New Zealand,DEF,Braintree Town,1173,17,0,1,,,,,,,,,0.7,,115025
+Finn Surman,New Zealand,DEF,Portland Timbers,1215,14,0,1,,,,,,,,,0.7,6.89,1325761
+Benjamin Old,New Zealand,DEF,Saint-Etienne,1880,30,1,2,,,,,,,,,1.0,7.03,1257745
+Joe Bell,New Zealand,MID,Viking,520,6,0,1,,,,,,,,,0.3,7.04,848345
+Matthew Garbett,New Zealand,MID,Peterborough United,2146,30,3,2,,,,,,,,,1.0,6.82,1108605
+Sarpreet Singh,New Zealand,MID,Wellington Phoenix,74,2,0,0,,,,,,,,,0.08,6.62,724531
+Liberato Cacace,New Zealand,DEF,Wrexham,722,12,0,0,,,,,,,,,0.48,6.61,919671
+Marko Stamenic,New Zealand,MID,Swansea City,2499,36,3,2,,,,,,,,,1.0,6.82,1209597
+Callum McCowatt,New Zealand,MID,Silkeborg,2498,32,11,5,,,,,,,,,1.0,7.42125,848352
+Alex Rufer,New Zealand,MID,Wellington Phoenix,2044,23,2,1,,,,,,,,,1.0,7.36,519240
+Lachlan Bayliss,New Zealand,MID,Newcastle Jets,1644,25,5,3,,,,,,,,,1.0,7.18,1565865
+Chris Wood,New Zealand,FWD,Nottingham Forest,906,15,3,0,,,,,,,,,0.6,6.53,169719
+Ryan Thomas,New Zealand,MID,PEC Zwolle,2157,27,1,1,,,,,,,,,1.0,7.11,496356
+Ben Waine,New Zealand,MID,Port Vale,1133,27,3,1,,,,,,,,,1.0,6.39,1034995
+Elijah Just,New Zealand,MID,Motherwell,2699,35,7,7,,,,,,,,,1.0,7.337142857142857,1053736
+Kosta Barbarouses,New Zealand,FWD,Western Sydney Wanderers FC,1332,22,4,1,,,,,,,,,0.88,6.56,96488
+Ørjan Håskjold Nyland,Norway,GK,Sevilla,450,5,0,0,,,,,,,,,0.2,6.06,73409
+Jesse Randall,New Zealand,FWD,Auckland FC,2123,26,9,6,,,,,,,,,1.0,7.42,1460327
+Sander Tangvik,Norway,GK,Hamburger SV,90,1,0,0,,,,,,,,,0.04,8.61,1145714
+Kristoffer Ajer,Norway,DEF,Brentford,1807,27,0,1,,,,,,,,,1.0,6.61,552718
+Egil Selvik,Norway,GK,Watford,3555,40,0,0,,,,,,,,,1.0,6.94,631757
+Leo Østigard,Norway,DEF,Genoa,2623,30,5,1,,,,,,,,,1.0,7.16,740944
+Fredrik André Bjørkan,Norway,DEF,Bodø/Glimt,635,10,1,0,,,,,,,,,0.4,6.71,630228
+David Møller Wolfe,Norway,DEF,Wolverhampton Wanderers,1049,22,0,2,,,,,,,,,0.88,6.5,1049679
+Torbjørn Heggem,Norway,DEF,Bologna,2113,27,0,0,,,,,,,,,1.0,6.66,935550
+Henrik Falchener,Norway,DEF,Viking,855,10,2,1,,,,,,,,,0.5,7.64,1110550
+Martin Ødegaard,Norway,MID,Arsenal,1370,24,1,6,,,,,,,,,0.96,7.0,534670
+Morten Thorsby,Norway,MID,Cremonese,1375,24,3,1,,,,,,,,,0.96,6.64,439148
+Patrick Berg,Norway,MID,Bodø/Glimt,900,10,1,0,,,,,,,,,0.5,7.81,530635
+Sander Berge,Norway,MID,Fulham,2911,35,0,1,,,,,,,,,1.0,6.71,540963
+Sondre Klingen Langås,Norway,DEF,Derby County,1968,24,3,1,,,,,,,,,1.0,7.04,1127585
+Fredrik Aursnes,Norway,DEF,Benfica,2294,28,3,3,,,,,,,,,1.0,7.44,310768
+Kristian Thorstvedt,Norway,MID,Sassuolo,2458,32,4,4,,,,,,,,,1.0,7.09,921921
+Marcus Holmgren Pedersen,Norway,DEF,Torino,2135,29,1,2,,,,,,,,,1.0,6.5,935622
+Thelo Aasgaard,Norway,MID,Rangers,1807,33,7,4,,,,,,,,,1.0,7.196666666666667,1184468
+Julian Ryerson,Norway,DEF,Borussia Dortmund,2272,31,0,15,,,,,,,,,1.0,7.26,659272
+Antonio Nusa,Norway,FWD,RB Leipzig,2035,31,4,3,,,,,,,,,1.0,7.16,1248482
+Andreas Schjelderup,Norway,FWD,Benfica,1733,28,7,5,,,,,,,,,1.0,7.32,1228558
+Alexander Sørloth,Norway,FWD,Atletico Madrid,1981,35,13,0,,,,,,,,,1.0,6.79,440330
+Erling Haaland,Norway,FWD,Manchester City,2958,35,27,8,,,,,,,,,1.0,7.68,737066
+Oscar Bobb,Norway,FWD,Fulham,1037,23,0,1,,,,,,,,,0.92,6.69,1113790
+Jens Petter Hauge,Norway,FWD,Bodø/Glimt,786,10,1,1,,,,,,,,,0.5,7.67,741397
+Jørgen Strand Larsen,Norway,FWD,Crystal Palace,2316,36,4,1,,,,,,,,,1.0,6.23,821100
+Luis Mejía,Panama,GK,Nacional,1080,12,0,0,,,,,,,,,0.48,,206088
+César Samudio,Panama,GK,CD Marathon,0,0,0,0,,,,,,,,,0.0,,1330683
+Orlando Mosquera,Panama,GK,Al-Fayha,2880,32,0,0,,,,,,,,,1.0,6.81,531913
+Edgardo Fariña,Panama,DEF,Nizhny Novgorod,1084,14,0,0,,,,,,,,,0.65,6.94,1454648
+José Córdoba,Panama,DEF,Norwich City,2250,28,1,1,,,,,,,,,1.0,7.19,1223132
+César Blackman,Panama,DEF,Slovan Bratislava,2176,27,2,6,,,,,,,,,1.0,7.420000000000001,888966
+Fidel Escobar,Panama,DEF,Deportivo Saprissa,0,0,0,0,,,,,,,,,0.0,,643638
+Jiovany Ramos,Panama,DEF,Academia Puerto Cabello,630,7,0,0,,,,,,,,,0.35,,688448
+Carlos Harvey,Panama,DEF,Minnesota United,97,4,0,0,,,,,,,,,0.16,5.97,1017520
+Andrés Andrade,Panama,DEF,LASK,2697,30,1,2,,,,,,,,,1.0,7.253333333333333,688449
+Roderick Miller,Panama,DEF,Turan Tovuz,0,0,0,0,,,,,,,,,0.0,,501847
+Cristian Martínez,Panama,MID,Hapoel Ironi Kiryat Shmona,2437,31,4,1,,,,,,,,,1.0,6.996774193548387,727101
+Amir Murillo,Panama,DEF,Beşiktaş,957,12,1,1,,,,,,,,,0.55,6.92,643635
+Alberto Quintero,Panama,FWD,CD Plaza Amador,0,0,0,0,,,,,,,,,0.0,,183088
+Jorge Gutiérrez,Panama,DEF,Deportivo La Guaira,810,9,0,5,,,,,,,,,0.45,,924235
+Éric Davis,Panama,DEF,CD Plaza Amador,0,0,0,0,,,,,,,,,0.0,,503710
+Yoel Bárcenas,Panama,MID,Mazatlan FC,1398,17,3,1,,,,,,,,,0.8,7.25,526710
+César Yanis,Panama,MID,Cobresal,744,11,0,2,,,,,,,,,0.45,6.94,1137803
+José Luis Rodríguez,Panama,DEF,FC Juarez,1336,16,2,4,,,,,,,,,0.8,7.3,940333
+Aníbal Godoy,Panama,MID,San Diego FC,797,14,0,1,,,,,,,,,0.56,6.82,308131
+Adalberto Carrasquilla,Panama,MID,Pumas,1601,21,2,2,,,,,,,,,0.9,6.997142857142857,643682
+Ismael Díaz,Panama,MID,Leon,1161,15,5,5,,,,,,,,,0.65,7.34,574077
+Tomás Rodríguez,Panama,MID,Deportivo Saprissa,606,7,2,0,,,,,,,,,0.35,,1054138
+Cecilio Waterman,Panama,FWD,Universidad de Concepcion,964,11,3,1,,,,,,,,,0.55,6.74,312159
+Azarías Londoño,Panama,MID,Universidad Catolica,461,9,1,1,,,,,,,,,0.36,6.78,1404414
+Orlando Gill,Paraguay,GK,San Lorenzo,1380,15,0,0,,,,,,,,,0.6,7.467333333333333,1683391
+Gastón Olveira,Paraguay,GK,Olimpia,1560,18,0,0,,,,,,,,,0.72,7.26,495193
+José Fajardo,Panama,FWD,Universidad Catolica,927,15,3,1,,,,,,,,,0.6,6.93,940334
+Gustavo Velázquez,Paraguay,DEF,Cerro Porteno,975,12,0,0,,,,,,,,,0.55,6.9,497352
+Roberto Fernández,Paraguay,GK,Cerro Porteno,270,3,0,0,,,,,,,,,0.12,6.51,68422
+Omar Alderete,Paraguay,DEF,Sunderland,2802,33,1,1,,,,,,,,,1.0,6.92,751998
+Juan Cáceres,Paraguay,DEF,Dinamo Moscow,2064,24,1,6,,,,,,,,,1.0,7.16,1133495
+Júnior Alonso,Paraguay,DEF,Atletico MG,900,10,0,0,,,,,,,,,0.5,6.83,466214
+José Canale,Paraguay,DEF,Lanus,1170,13,0,0,,,,,,,,,0.65,6.898461538461538,860890
+Diego Gómez,Paraguay,MID,Brighton & Hove Albion,2136,32,5,1,,,,,,,,,1.0,6.91,1354561
+Alexandro Maidana,Paraguay,DEF,Talleres,723,9,2,0,,,,,,,,,0.4,7.254444444444443,1736527
+Gustavo Gómez,Paraguay,DEF,Palmeiras,1430,16,3,0,,,,,,,,,0.8,7.1,274392
+Fabián Balbuena,Paraguay,DEF,Gremio,585,7,0,0,,,,,,,,,0.35,6.81,307438
+Andrés Cubas,Paraguay,MID,Vancouver Whitecaps,864,11,0,1,,,,,,,,,0.5,7.64,529625
+Mauricio Magalhães Prado,Paraguay,MID,Palmeiras,943,15,1,1,,,,,,,,,0.6,6.9,1059490
+Alejandro Romero,Paraguay,MID,Al-Ain,1835,22,4,7,,,,,,,,,1.0,7.66,600850
+Damián Bobadilla,Paraguay,MID,Sao Paulo,1065,14,0,2,,,,,,,,,0.65,6.99,1252913
+Julio Enciso,Paraguay,MID,Strasbourg,1892,27,3,6,,,,,,,,,1.0,6.99,1073742
+Ramón Sosa,Paraguay,MID,Palmeiras,686,15,2,1,,,,,,,,,0.6,6.71,1132960
+Braian Ojeda,Paraguay,MID,Orlando City,1337,15,0,1,,,,,,,,,0.75,6.61,1075065
+Matías Galarza,Paraguay,MID,Atlanta United,666,10,0,0,,,,,,,,,0.4,6.86,1241957
+Antonio Sanabria,Paraguay,FWD,Cremonese,941,25,1,1,,,,,,,,,1.0,6.19,474448
+Miguel Almirón,Paraguay,MID,Atlanta United,658,8,0,3,,,,,,,,,0.35,7.16,442277
+Gabriel Ávalos,Paraguay,FWD,Independiente,1509,17,10,5,,,,,,,,,0.85,7.474117647058824,425711
+Álex Arce,Paraguay,FWD,Independiente Rivadavia,475,10,2,0,,,,,,,,,0.4,6.626666666666667,1320444
+Gustavo Caballero,Paraguay,FWD,Portsmouth,761,12,1,0,,,,,,,,,0.48,6.52,1347933
+Isidro Pitta,Paraguay,FWD,Red Bull Bragantino,1144,17,5,2,,,,,,,,,0.68,6.81,1033279
+Diogo Dalot,Portugal,DEF,Manchester United,2616,34,1,3,,,,,,,,,1.0,7.13,751550
+José Sá,Portugal,GK,Wolverhampton Wanderers,2070,23,0,0,,,,,,,,,0.92,6.76,416175
+Rúben Dias,Portugal,DEF,Manchester City,2140,26,2,0,,,,,,,,,1.0,7.18,614006
+Rui Silva,Portugal,GK,Sporting CP,2880,32,0,0,,,,,,,,,1.0,7.27,361717
+Matheus Nunes,Portugal,DEF,Manchester City,2865,34,1,5,,,,,,,,,1.0,7.45,955529
+Diogo Costa,Portugal,GK,FC Porto,2907,33,0,0,,,,,,,,,1.0,7.32,795630
+Nélson Semedo,Portugal,DEF,Fenerbahçe,1942,26,1,3,,,,,,,,,1.0,7.29,470834
+Tomás Araújo,Portugal,DEF,Benfica,1684,23,1,2,,,,,,,,,0.95,7.16,1187283
+Renato Veiga,Portugal,DEF,Villarreal,2478,32,0,0,,,,,,,,,1.0,6.67,1343750
+Bruno Fernandes,Portugal,MID,Manchester United,3066,35,9,21,,,,,,,,,1.0,8.03,422685
+Trincão,Portugal,MID,Sporting CP,2851,34,7,11,,,,,,,,,1.0,7.65,732282
+Bernardo Silva,Portugal,MID,Manchester City,2886,38,2,4,,,,,,,,,1.0,7.16,488139
+João Cancelo,Portugal,DEF,Barcelona,952,16,2,2,,,,,,,,,0.64,7.41,361757
+Nuno Mendes,Portugal,DEF,Paris Saint-Germain,1251,20,4,5,,,,,,,,,0.8,7.53,1158945
+Gonçalo Inácio,Portugal,DEF,Sporting CP,2506,29,2,3,,,,,,,,,1.0,7.53,1165710
+João Neves,Portugal,DEF,Paris Saint-Germain,1287,21,5,1,,,,,,,,,0.84,7.18,1342757
+Rúben Neves,Portugal,DEF,Al Hilal,2749,31,11,6,,,,,,,,,1.0,7.93,534684
+Vitinha,Portugal,MID,Paris Saint-Germain,2121,29,1,7,,,,,,,,,1.0,7.55,1061249
+Cristiano Ronaldo,Portugal,FWD,Al Nassr FC,2610,30,28,2,,,,,,,,,1.0,7.88,30893
+Samú,Portugal,MID,Mallorca,2705,34,7,2,,,,,,,,,1.0,7.01,1130583
+Gonçalo Ramos,Portugal,FWD,Paris Saint-Germain,1309,30,6,1,,,,,,,,,1.0,6.7,940087
+Rafael Leão,Portugal,FWD,Milan,1859,29,9,3,,,,,,,,,1.0,7.05,848844
+Francisco Conceição,Portugal,MID,Juventus,2098,31,3,5,,,,,,,,,1.0,7.21,1185336
+Joao Félix,Portugal,MID,Al Nassr FC,2908,33,20,13,,,,,,,,,1.0,8.08,794427
+Mahmoud Abunada,Qatar,GK,Al-Rayyan,1800,20,0,0,,,,,,,,,0.8,6.86,1213141
+Salah Zakaria,Qatar,GK,Al-Duhail SC,1204,14,0,0,,,,,,,,,0.56,6.76,1053982
+Pedro Neto,Portugal,MID,Chelsea,2643,34,5,6,,,,,,,,,1.0,7.04,843040
+Gonçalo Guedes,Portugal,FWD,Real Sociedad,1832,32,8,4,,,,,,,,,1.0,6.86,536455
+Pedro Miguel,Qatar,DEF,Al-Sadd,1476,18,2,3,,,,,,,,,0.85,7.12,734637
+Issa Laye,Qatar,DEF,Al-Arabi,19,1,0,0,,,,,,,,,0.04,,1839745
+Meshaal Barsham,Qatar,GK,Al-Sadd,1800,20,0,0,,,,,,,,,0.8,7.16,922387
+Lucas Mendes,Qatar,DEF,Al-Wakrah,1472,17,1,1,,,,,,,,,0.85,6.92,149583
+Ayoub Al Oui,Qatar,DEF,Al-Gharafa,1681,19,1,0,,,,,,,,,0.95,6.79,1432180
+Al Hashmi Al Hussain,Qatar,DEF,Al-Arabi,71,1,0,0,,,,,,,,,0.05,,1642780
+Abdulaziz Hatem,Qatar,MID,Al-Rayyan,922,18,0,1,,,,,,,,,0.72,6.5,308909
+Boualem Khoukhi,Qatar,DEF,Al-Sadd,1451,18,1,0,,,,,,,,,0.8,6.91,308921
+Sultan Al Brake,Qatar,DEF,Al-Duhail SC,1435,18,1,2,,,,,,,,,0.85,7.23,644014
+Homam Elamin,Qatar,DEF,Cultural Leonesa,682,14,0,0,,,,,,,,,0.56,6.61,937414
+Mohammad Al Mannai,Qatar,MID,Al-Shamal,1480,19,5,1,,,,,,,,,0.9,6.96,1553870
+Ahmed Fathy,Qatar,MID,Al-Arabi,1577,19,0,1,,,,,,,,,0.85,6.93,898424
+Karim Boudiaf,Qatar,MID,Al-Duhail SC,737,12,1,0,,,,,,,,,0.48,7.11,309153
+Jassem Gaber,Qatar,DEF,Al-Rayyan,701,15,0,0,,,,,,,,,0.6,6.71,1195865
+Assim Madibo,Qatar,MID,Al-Wakrah,1089,13,0,0,,,,,,,,,0.65,6.83,615414
+Ahmed Alaa,Qatar,FWD,Al-Rayyan,918,20,3,2,,,,,,,,,0.8,6.51,264096
+Mohammed Muntari,Qatar,FWD,Al-Gharafa,336,7,0,0,,,,,,,,,0.28,6.32,431151
+Edmílson Junior,Qatar,FWD,Al-Duhail SC,1521,19,5,1,,,,,,,,,0.95,7.27,365245
+Hassan Al Haydos,Qatar,FWD,Al-Sadd,238,12,0,2,,,,,,,,,0.48,6.31,117539
+Ahmed Al Ganehi,Qatar,MID,Al-Gharafa,900,11,2,2,,,,,,,,,0.5,7.32,1210913
+Akram Afif,Qatar,FWD,Al-Sadd,1935,22,15,12,,,,,,,,,1.0,8.3,613792
+Nawaf Alaqidi,Saudi Arabia,GK,Al Nassr FC,960,11,0,0,,,,,,,,,0.44,6.83,1125083
+Mohammed Al Owais,Saudi Arabia,GK,Al-Ula FC,3210,35,0,0,,,,,,,,,1.0,,535669
+Almoez Ali,Qatar,FWD,Al-Duhail SC,168,4,1,0,,,,,,,,,0.16,6.66,644017
+Ahmed Ali Al Kassar,Saudi Arabia,GK,Al Qadsiah,205,3,0,0,,,,,,,,,0.12,6.85,544589
+Tahsin Mohammed,Qatar,FWD,Al-Duhail SC,372,14,1,0,,,,,,,,,0.56,6.47,1648351
+Ali Lajami,Saudi Arabia,DEF,Al Hilal,627,25,0,0,,,,,,,,,1.0,6.6,640284
+Yusuf Abdurisag,Qatar,FWD,Al-Wakrah,1029,18,4,2,,,,,,,,,0.72,6.9,1053987
+Hasan Kadesh,Saudi Arabia,DEF,Al Ittihad,2272,27,1,0,,,,,,,,,1.0,6.97,431215
+Abdulelah Al Amri,Saudi Arabia,DEF,Al Nassr FC,1788,25,2,2,,,,,,,,,1.0,7.26,848600
+Hassan Al Tambakti,Saudi Arabia,DEF,Al Hilal,2349,29,1,0,,,,,,,,,1.0,7.26,848607
+Nawaf Al-Boushail,Saudi Arabia,DEF,Al Nassr FC,1870,32,0,6,,,,,,,,,1.0,7.22,1401228
+Jehad Thakri,Saudi Arabia,DEF,Al Qadsiah,1513,24,0,0,,,,,,,,,0.96,6.76,1232530
+Mohammed Abu Al Shamat,Saudi Arabia,DEF,Al Qadsiah,2494,31,2,8,,,,,,,,,1.0,7.56,1543647
+Ayman Yahya,Saudi Arabia,DEF,Al Nassr FC,1248,27,2,2,,,,,,,,,1.0,6.82,1095207
+Moteb Al-Harbi,Saudi Arabia,DEF,Al Hilal,1832,30,2,2,,,,,,,,,1.0,7.13,1138003
+Ali Majrashi,Saudi Arabia,DEF,Al Ahli,2169,27,1,3,,,,,,,,,1.0,7.2,910986
+Musab Al-Juwayr,Saudi Arabia,MID,Al Qadsiah,2537,31,6,11,,,,,,,,,1.0,7.81,1235341
+Saud Abdulhamid,Saudi Arabia,DEF,Lens,1345,25,2,4,,,,,,,,,1.0,6.9,1002617
+Nasser Al-Dawsari,Saudi Arabia,DEF,Al Hilal,1621,27,0,1,,,,,,,,,1.0,6.97,848612
+Mohamed Kanno,Saudi Arabia,MID,Al Hilal,2084,32,5,3,,,,,,,,,1.0,7.38,866373
+Abdullah Alkhaibari,Saudi Arabia,DEF,Al Nassr FC,1676,32,0,1,,,,,,,,,1.0,6.62,823457
+Ziyad Aljohani,Saudi Arabia,MID,Al Ahli,1500,26,0,1,,,,,,,,,1.0,6.85,1174962
+Firas Al-Buraikan,Saudi Arabia,MID,Al Ahli,1730,34,5,1,,,,,,,,,1.0,6.8,844226
+Alaa Hajji,Saudi Arabia,MID,Neom SC,1342,24,3,1,,,,,,,,,0.96,6.97,697618
+Saleh Al-Shehri,Saudi Arabia,FWD,Al Ittihad,422,18,3,2,,,,,,,,,0.72,6.88,384407
+Salem Al-Dawsari,Saudi Arabia,FWD,Al Hilal,1885,26,8,8,,,,,,,,,1.0,7.55,307753
+Abdullah Al-Hamdan,Saudi Arabia,FWD,Al Nassr FC,317,25,3,1,,,,,,,,,1.0,7.05,909198
+Sultan Mandash,Saudi Arabia,MID,Al Hilal,1329,28,6,5,,,,,,,,,1.0,7.3,619824
+Khalid Al Ghannam,Saudi Arabia,MID,Al-Ettifaq,2172,32,13,6,,,,,,,,,1.0,7.26,1024928
+Aaron Hickey,Scotland,DEF,Brentford,685,21,0,0,,,,,,,,,0.84,6.46,1002039
+Liam Kelly,Scotland,GK,Rangers,0,0,0,0,,,,,,,,,0.0,,445522
+Angus Gunn,Scotland,GK,Nottingham Forest,45,1,0,0,,,,,,,,,0.04,6.36,760746
+Craig Gordon,Scotland,GK,Hearts,226,3,0,0,,,,,,,,,0.12,7.01,32562
+Andrew Robertson,Scotland,DEF,Liverpool,1172,24,1,0,,,,,,,,,0.96,6.75,357880
+Grant Hanley,Scotland,DEF,Hibernian,1931,24,0,0,,,,,,,,,1.0,6.7775,202180
+Dominic Hyam,Scotland,DEF,Wrexham,3950,44,0,0,,,,,,,,,1.0,6.9,694558
+Kieran Tierney,Scotland,DEF,Celtic,2515,35,6,8,,,,,,,,,1.0,7.425714285714285,582499
+Anthony Ralston,Scotland,DEF,Celtic,1300,24,0,0,,,,,,,,,0.96,6.822857142857143,668422
+Jack Hendry,Scotland,DEF,Al-Ettifaq,2558,30,1,0,,,,,,,,,1.0,6.55,640642
+Scott McKenna,Scotland,DEF,Dinamo Zagreb,2627,30,2,3,,,,,,,,,1.0,7.33,551805
+Tyler Fletcher,Scotland,MID,Manchester United U21,1462,18,0,1,,,,,,,,,0.8,6.8966666666666665,1676985
+John Souttar,Scotland,DEF,Rangers,2014,24,0,0,,,,,,,,,1.0,7.207391304347826,419207
+Nathan Patterson,Scotland,DEF,Everton,240,7,0,0,,,,,,,,,0.28,7.18,1112684
+Scott McTominay,Scotland,MID,Napoli,2793,33,10,3,,,,,,,,,1.0,7.3,843099
+Ryan Christie,Scotland,MID,AFC Bournemouth,986,26,2,0,,,,,,,,,1.0,6.64,439369
+John McGinn,Scotland,MID,Aston Villa,2157,30,5,4,,,,,,,,,1.0,7.0,356406
+Kenny McLean,Scotland,DEF,Norwich City,3619,42,3,4,,,,,,,,,1.0,7.21,190851
+Lyndon Dykes,Scotland,FWD,Charlton Athletic,1936,41,5,3,,,,,,,,,1.0,6.45,768635
+Lewis Ferguson,Scotland,MID,Bologna,1596,27,1,0,,,,,,,,,1.0,6.55,888921
+Findlay Curtis,Scotland,DEF,Rangers,1268,24,6,1,,,,,,,,,0.96,7.2505263157894735,1558461
+Ben Gannon-Doak,Scotland,FWD,AFC Bournemouth,105,8,0,1,,,,,,,,,0.32,6.37,1324871
+Ché Adams,Scotland,MID,Torino,1896,33,6,2,,,,,,,,,1.0,6.69,599353
+Ross Stewart,Scotland,FWD,Southampton,980,25,8,2,,,,,,,,,1.0,6.87,776159
+George Hirst,Scotland,FWD,Ipswich Town,2111,42,11,3,,,,,,,,,1.0,6.64,750033
+Yehvann Diouf,Senegal,GK,Nice,2340,26,0,0,,,,,,,,,1.0,6.93,766574
+Édouard Mendy,Senegal,GK,Al Ahli,2340,26,0,0,,,,,,,,,1.0,7.19,773229
+Lawrence Shankland,Scotland,FWD,Hearts,2495,29,16,3,,,,,,,,,1.0,7.494827586206896,317544
+Mamadou Sarr,Senegal,DEF,Chelsea,100,3,0,0,,,,,,,,,0.12,5.85,1426170
+Mory Diaw,Senegal,GK,Le Havre,2655,30,0,0,,,,,,,,,1.0,6.98,466436
+Kalidou Koulibaly,Senegal,DEF,Al Hilal,1596,18,1,2,,,,,,,,,0.9,7.5,210428
+Abdoulaye Seck,Senegal,DEF,Maccabi Haifa,2173,26,2,0,,,,,,,,,1.0,7.0430769230769235,588626
+Ismail Jakobs,Senegal,DEF,Galatasaray,1299,25,0,1,,,,,,,,,1.0,6.77,906945
+Krépin Diatta,Senegal,DEF,Monaco,1011,18,0,1,,,,,,,,,0.72,7.03,837061
+Malick Diouf,Senegal,DEF,West Ham United,2711,32,0,5,,,,,,,,,1.0,6.91,1451265
+Antoine Mendy,Senegal,DEF,Nice,2098,25,1,0,,,,,,,,,1.0,6.81,1254147
+Moussa Niakhaté,Senegal,DEF,Lyon,2758,32,0,2,,,,,,,,,1.0,7.16,592102
+Idrissa Gana Gueye,Senegal,MID,Everton,2101,25,2,3,,,,,,,,,1.0,7.03,179410
+Lamine Camara,Senegal,MID,Monaco,1851,24,3,4,,,,,,,,,1.0,7.54,1436305
+Pathé Ciss,Senegal,DEF,Rayo Vallecano,1995,29,2,1,,,,,,,,,1.0,6.97,872396
+Pape Sarr,Senegal,MID,Tottenham Hotspur,1391,26,2,4,,,,,,,,,1.0,6.79,1107280
+Habib Diarra,Senegal,MID,Sunderland,1407,20,2,2,,,,,,,,,0.8,6.65,1285866
+Ismaïla Sarr,Senegal,MID,Crystal Palace,2176,28,9,1,,,,,,,,,1.0,6.91,771294
+Bara Ndiaye,Senegal,MID,Bayern München,142,4,0,0,,,,,,,,,0.16,6.41,1798782
+Sadio Mané,Senegal,FWD,Al Nassr FC,2132,25,10,6,,,,,,,,,1.0,7.9,303339
+Pape Gueye,Senegal,MID,Villarreal,2143,30,5,2,,,,,,,,,1.0,7.11,844544
+Bamba Dieng,Senegal,FWD,Lorient,1220,22,10,1,,,,,,,,,0.88,6.84,1230848
+Ibrahim Mbaye,Senegal,FWD,Paris Saint-Germain,997,24,3,2,,,,,,,,,0.96,6.83,1593857
+Nicolas Jackson,Senegal,FWD,Bayern München,1004,23,8,1,,,,,,,,,0.92,6.96,1197347
+Assane Diao,Senegal,FWD,Como,1084,17,2,1,,,,,,,,,0.68,6.7,1434889
+Ronwen Williams,South Africa,GK,Mamelodi Sundowns FC,2610,29,0,0,,,,,,,,,1.0,7.14,253991
+Iliman Ndiaye,Senegal,MID,Everton,2786,32,6,3,,,,,,,,,1.0,7.22,965764
+Cherif Ndiaye,Senegal,FWD,Samsunspor,1421,23,7,1,,,,,,,,,0.92,6.77,819972
+Sipho Chaine,South Africa,GK,Orlando Pirates,2700,30,0,0,,,,,,,,,1.0,7.19,787099
+Ricardo Goss,South Africa,GK,Siwelele,2610,29,0,0,,,,,,,,,1.0,7.25,428006
+Khulumani Ndamane,South Africa,DEF,Mamelodi Sundowns FC,2270,26,0,1,,,,,,,,,1.0,7.32,1680696
+Ime Okon,South Africa,DEF,Hannover 96,1716,25,2,0,,,,,,,,,1.0,6.79,1600334
+Aubrey Modiba,South Africa,DEF,Mamelodi Sundowns FC,2017,27,0,3,,,,,,,,,1.0,7.31,616179
+Mbekezeli Mbokazi,South Africa,DEF,Chicago Fire FC,1050,12,0,0,,,,,,,,,0.6,7.3,1719066
+Samukelo Kabini,South Africa,DEF,Molde,617,7,0,1,,,,,,,,,0.35,6.95,1680659
+Nkosinathi Sibisi,South Africa,DEF,Orlando Pirates,1962,23,0,0,,,,,,,,,1.0,7.27,716819
+Khuliso Mudau,South Africa,DEF,Mamelodi Sundowns FC,1527,21,0,1,,,,,,,,,0.85,7.1,940010
+Kamogelo Sebelebele,South Africa,DEF,Orlando Pirates,1776,24,4,1,,,,,,,,,1.0,7.53,1451566
+Bradley Cross,South Africa,DEF,Kaizer Chiefs,1722,22,0,1,,,,,,,,,0.95,7.32,1202481
+Teboho Mokoena,South Africa,MID,Mamelodi Sundowns FC,1618,23,4,2,,,,,,,,,0.92,7.29,848361
+Olwethu Makhanya,South Africa,DEF,Philadelphia Union,1170,13,0,0,,,,,,,,,0.65,6.78,1469826
+Sphephelo Sithole,South Africa,MID,Tondela,1541,26,1,0,,,,,,,,,1.0,6.48,1107735
+Thalente Mbatha,South Africa,MID,Orlando Pirates,1607,22,0,1,,,,,,,,,1.0,7.38,1124424
+Jayden Adams,South Africa,DEF,Mamelodi Sundowns FC,1422,23,1,0,,,,,,,,,0.92,6.86,1178629
+Themba Zwane,South Africa,MID,Mamelodi Sundowns FC,532,15,0,1,,,,,,,,,0.6,6.56,303609
+Thabang Matuludi,South Africa,DEF,Polokwane City,1950,23,2,0,,,,,,,,,1.0,7.47,1579341
+Tshepang Moremi,South Africa,FWD,Orlando Pirates,1539,28,5,4,,,,,,,,,1.0,7.11,1289611
+Thapelo Maseko,South Africa,FWD,AEL Limassol,643,12,1,0,,,,,,,,,0.48,,1394951
+Lyle Foster,South Africa,FWD,Burnley,1372,26,3,2,,,,,,,,,1.0,6.24,881500
+Evidence Makgopa,South Africa,FWD,Orlando Pirates,1067,24,6,4,,,,,,,,,0.96,6.95,1137059
+Relebohile Mofokeng,South Africa,MID,Orlando Pirates,2131,27,10,8,,,,,,,,,1.0,7.84,1471333
+Oswin Appollis,South Africa,MID,Orlando Pirates,2170,30,9,6,,,,,,,,,1.0,7.46,1054166
+Iqraam Rayners,South Africa,FWD,Mamelodi Sundowns FC,1439,26,12,3,,,,,,,,,1.0,6.93,1076668
+Song Bum-Keun,South Korea,GK,Jeonbuk Hyundai Motors FC,1350,15,0,0,,,,,,,,,0.6,7.37,848068
+Jo Hyeon-Woo,South Korea,GK,Ulsan HD FC,1350,15,0,0,,,,,,,,,0.6,6.75,433265
+Min-Jae Kim,South Korea,DEF,Bayern München,1605,25,1,1,,,,,,,,,1.0,7.39,828159
+Kim Moon-Hwan,South Korea,DEF,Daejeon Hana Citizen,1107,15,0,1,,,,,,,,,0.6,7.1,828273
+Tae-Hyeon Kim,South Korea,DEF,Kashima Antlers,1350,15,1,1,,,,,,,,,0.75,7.12,1053477
+Lee Gi-Hyuk,South Korea,DEF,Gangwon FC,1258,14,0,0,,,,,,,,,0.7,7.26,1232264
+Seung-Gyu Kim,South Korea,GK,FC Tokyo,1440,16,0,0,,,,,,,,,0.64,6.99,167247
+Han-Beom Lee,South Korea,DEF,FC Midtjylland,2339,29,0,1,,,,,,,,,1.0,6.976428571428571,1232253
+Seol Young-Woo,South Korea,DEF,FK Crvena Zvezda,2674,31,2,5,,,,,,,,,1.0,7.5767741935483865,1132818
+Cho Wi-Je,South Korea,DEF,Jeonbuk Hyundai Motors FC,3204,36,1,0,,,,,,,,,1.0,7.07,1326507
+Tae-Seok Lee,South Korea,DEF,Austria Wien,2577,30,3,4,,,,,,,,,1.0,7.327,1107251
+Jin-Seob Park,South Korea,DEF,Zhejiang Professional,1124,13,0,0,,,,,,,,,0.65,6.55,925647
+Jun-Ho Bae,South Korea,MID,Stoke City,2930,42,2,3,,,,,,,,,1.0,6.8,1386482
+Kang-In Lee,South Korea,MID,Paris Saint-Germain,1522,27,3,4,,,,,,,,,1.0,7.22,940976
+Heung-Min Son,South Korea,MID,Los Angeles FC,1045,13,0,8,,,,,,,,,0.6,7.28,212867
+Jae-Sung Lee,South Korea,MID,Mainz 05,2198,28,4,2,,,,,,,,,1.0,6.81,523749
+Kim Jin-Gyu,South Korea,MID,Jeonbuk Hyundai Motors FC,1104,15,1,1,,,,,,,,,0.7,7.4,622980
+Jens Castrop,South Korea,DEF,Borussia Mönchengladbach,1592,26,3,1,,,,,,,,,1.0,6.87,1185902
+Seung-Ho Paik,South Korea,MID,Birmingham City,3374,43,4,1,,,,,,,,,1.0,7.02,848102
+Hee-Chan Hwang,South Korea,MID,Wolverhampton Wanderers,1452,26,2,2,,,,,,,,,1.0,6.41,620026
+Hyun-Gyu Oh,South Korea,FWD,Beşiktaş,1085,13,6,1,,,,,,,,,0.6,7.09,1044299
+In-Beom Hwang,South Korea,MID,Feyenoord,983,17,1,3,,,,,,,,,0.68,7.15,623698
+Gue-Sung Cho,South Korea,MID,FC Midtjylland,1350,26,3,1,,,,,,,,,1.0,6.505,1026781
+Hyun-Jun Yang,South Korea,DEF,Celtic,2070,31,8,1,,,,,,,,,1.0,7.183333333333334,1232560
+Ji-Sung Eom,South Korea,FWD,Swansea City,2458,44,2,2,,,,,,,,,1.0,6.76,1107283
+Lee Dong-Gyeong,South Korea,MID,Ulsan HD FC,1015,14,5,3,,,,,,,,,0.56,7.39,954131
+David Raya,Spain,GK,Arsenal,3330,37,0,0,,,,,,,,,1.0,7.21,562727
+Marc Pubill,Spain,DEF,Atletico Madrid,1382,19,1,1,,,,,,,,,0.76,7.17,1323897
+Aymeric Laporte,Spain,DEF,Athletic Club,2060,25,0,1,,,,,,,,,1.0,6.93,411617
+Marcos Llorente,Spain,DEF,Atletico Madrid,2184,29,0,4,,,,,,,,,1.0,7.05,602563
+Unai Simón,Spain,GK,Athletic Club,3330,37,0,0,,,,,,,,,1.0,6.97,660625
+Pau Cubarsí,Spain,DEF,Barcelona,2708,31,1,0,,,,,,,,,1.0,7.28,1532137
+Pedro Porro,Spain,DEF,Tottenham Hotspur,2798,34,1,2,,,,,,,,,1.0,7.14,941573
+Joan García,Spain,GK,Barcelona,2700,30,0,0,,,,,,,,,1.0,7.73,1167220
+Eric García,Spain,DEF,Barcelona,2730,34,1,2,,,,,,,,,1.0,7.41,940573
+Marc Cucurella,Spain,DEF,Chelsea,2710,34,1,4,,,,,,,,,1.0,6.96,873289
+Fabián Ruiz,Spain,MID,Paris Saint-Germain,1129,20,1,4,,,,,,,,,0.8,7.02,605654
+Mikel Merino,Spain,MID,Arsenal,1027,22,4,3,,,,,,,,,0.88,6.93,574645
+Gavi,Spain,MID,Barcelona,574,11,0,1,,,,,,,,,0.44,6.88,1279040
+Yéremi Pino,Spain,MID,Crystal Palace,2091,34,2,2,,,,,,,,,1.0,6.71,1047676
+Dani Olmo,Spain,MID,Barcelona,2077,33,7,8,,,,,,,,,1.0,7.34,614834
+Álex Baena,Spain,MID,Atletico Madrid,1572,27,2,3,,,,,,,,,1.0,6.89,942372
+Pedri,Spain,MID,Barcelona,2107,29,2,9,,,,,,,,,1.0,7.8,1083323
+Rodri,Spain,MID,Manchester City,1513,21,1,0,,,,,,,,,0.85,7.51,675088
+Alejandro Grimaldo,Spain,DEF,Bayer Leverkusen,2524,29,8,8,,,,,,,,,1.0,7.68,288406
+Martín Zubimendi,Spain,MID,Arsenal,3001,38,5,1,,,,,,,,,1.0,7.2,1031325
+Ferran Torres,Spain,FWD,Barcelona,1976,33,16,2,,,,,,,,,1.0,7.1,881771
+Lamine Yamal,Spain,FWD,Barcelona,2268,28,16,11,,,,,,,,,1.0,8.33,1467236
+Nico Williams,Spain,FWD,Athletic Club,1687,25,6,3,,,,,,,,,1.0,7.02,1202110
+Borja Iglesias,Spain,FWD,Celta Vigo,1902,35,14,2,,,,,,,,,1.0,6.79,609505
+Mikel Oyarzabal,Spain,FWD,Real Sociedad,2714,34,15,4,,,,,,,,,1.0,7.29,678234
+Viktor Johansson,Sweden,GK,Stoke City,2250,25,0,0,,,,,,,,,1.0,7.3,546252
+Kristoffer Nordfeldt,Sweden,GK,AIK,810,9,0,0,,,,,,,,,0.36,7.23,73462
+Víctor Muñoz,Spain,MID,Osasuna,2668,34,6,2,,,,,,,,,1.0,6.9,1553105
+Jacob Widell Zetterström,Sweden,GK,Derby County,2880,32,0,0,,,,,,,,,1.0,7.09,1014602
+Victor Nilsson Lindelöf,Sweden,DEF,Aston Villa,944,17,0,1,,,,,,,,,0.68,6.52,258269
+Gustaf Lagerbielke,Sweden,DEF,Braga,2391,28,2,0,,,,,,,,,1.0,7.11,919848
+Isak Hien,Sweden,DEF,Atalanta,1965,28,1,0,,,,,,,,,1.0,6.81,939780
+Herman Johansson,Sweden,DEF,FC Dallas,998,14,0,2,,,,,,,,,0.56,6.76,946703
+Gabriel Gudmundsson,Sweden,DEF,Leeds United,2637,32,0,0,,,,,,,,,1.0,6.78,744494
+Carl Starfelt,Sweden,DEF,Celta Vigo,1492,19,0,0,,,,,,,,,0.85,6.76,497662
+Hjalmar Ekdal,Sweden,DEF,Burnley,1539,19,0,0,,,,,,,,,0.85,6.44,831044
+Eric Smith,Sweden,DEF,St. Pauli,2314,27,2,2,,,,,,,,,1.0,6.83,531327
+Lucas Bergvall,Sweden,MID,Tottenham Hotspur,966,23,1,3,,,,,,,,,0.92,6.56,1386775
+Daniel Svensson,Sweden,DEF,Borussia Dortmund,2452,33,2,2,,,,,,,,,1.0,7.0,1209228
+Jesper Karlström,Sweden,MID,Udinese,3152,36,1,0,,,,,,,,,1.0,6.87,322003
+Mattias Svanberg,Sweden,MID,Wolfsburg,854,24,3,1,,,,,,,,,0.96,6.38,647900
+Besfort Zeneli,Sweden,MID,Union St.Gilloise,765,15,3,6,,,,,,,,,0.6,7.145714285714285,1338361
+Sebastian Nanasi,Sweden,MID,Strasbourg,1046,19,7,2,,,,,,,,,0.76,7.03,1156569
+Alexander Bernhardsson,Sweden,DEF,Holstein Kiel,1401,20,2,9,,,,,,,,,0.8,7.32,1014688
+Elliot Stroud,Sweden,FWD,Mjällby,630,8,2,1,,,,,,,,,0.35,7.87,1272349
+Yasin Ayari,Sweden,MID,Brighton & Hove Albion,1924,29,3,3,,,,,,,,,1.0,7.05,1168311
+Ken Sema,Sweden,DEF,Pafos FC,1096,23,0,0,,,,,,,,,0.92,,520670
+Taha Abdi Ali,Sweden,FWD,Malmö FF,451,6,1,1,,,,,,,,,0.25,7.33,1135782
+Benjamin Nygren,Sweden,MID,Celtic,2541,38,16,5,,,,,,,,,1.0,7.493055555555555,931605
+Alexander Isak,Sweden,FWD,Liverpool,703,14,3,1,,,,,,,,,0.56,6.49,690107
+Anthony Elanga,Sweden,MID,Newcastle United,1313,32,0,1,,,,,,,,,1.0,6.39,1050166
+Gustaf Nilsson,Sweden,FWD,Club Brugge,40,7,0,0,,,,,,,,,0.28,,118241
+Nico Elvedi,Switzerland,DEF,Borussia Mönchengladbach,2967,33,0,2,,,,,,,,,1.0,6.96,517346
+Gregor Kobel,Switzerland,GK,Borussia Dortmund,3060,34,0,0,,,,,,,,,1.0,7.19,764018
+Ricardo Rodríguez,Switzerland,DEF,Real Betis,1546,23,0,1,,,,,,,,,0.92,6.72,115591
+Viktor Gyökeres,Sweden,FWD,Arsenal,2230,36,14,1,,,,,,,,,1.0,6.82,664500
+Eray Cömert,Switzerland,DEF,Valencia,1339,17,2,1,,,,,,,,,0.75,7.01,705484
+Manuel Akanji,Switzerland,DEF,Inter,2820,33,2,0,,,,,,,,,1.0,7.19,521318
+Marvin Keller,Switzerland,GK,Young Boys,3420,38,0,0,,,,,,,,,1.0,6.748157894736842,1107298
+Yvon Mvogo,Switzerland,GK,Lorient,2790,31,0,0,,,,,,,,,1.0,6.79,274787
+Luca Jaquez,Switzerland,DEF,VfB Stuttgart,900,14,0,1,,,,,,,,,0.56,6.93,1270002
+Denis Zakaria,Switzerland,DEF,Monaco,2033,24,2,1,,,,,,,,,1.0,7.03,598355
+Aurèle Amenda,Switzerland,DEF,Eintracht Frankfurt,1676,24,0,0,,,,,,,,,0.96,6.69,1257648
+Granit Xhaka,Switzerland,MID,Sunderland,2903,34,1,6,,,,,,,,,1.0,7.24,207236
+Johan Manzambi,Switzerland,MID,Freiburg,2094,27,5,4,,,,,,,,,1.0,7.07,1520063
+Remo Freuler,Switzerland,MID,Bologna,2217,29,1,2,,,,,,,,,1.0,6.9,201704
+Michel Aebischer,Switzerland,MID,Pisa,2900,35,1,2,,,,,,,,,1.0,6.9,792756
+Silvan Widmer,Switzerland,DEF,Mainz 05,1819,27,2,1,,,,,,,,,1.0,6.73,275034
+Ardon Jashari,Switzerland,MID,Milan,700,14,0,1,,,,,,,,,0.56,6.65,1163219
+Djibril Sow,Switzerland,MID,Sevilla,2195,33,5,4,,,,,,,,,1.0,6.74,707970
+Breel Embolo,Switzerland,FWD,Rennes,1872,31,8,3,,,,,,,,,1.0,6.81,527103
+Dan Ndoye,Switzerland,MID,Nottingham Forest,1176,24,1,1,,,,,,,,,0.96,6.55,1022649
+Christian Fassnacht,Switzerland,MID,Young Boys,2361,33,18,7,,,,,,,,,1.0,7.234545454545454,618774
+Lucas Blondel,Switzerland,DEF,Huracan,870,10,1,0,,,,,,,,,0.45,7.064,823206
+Fabian Rieder,Switzerland,DEF,Augsburg,2352,32,6,3,,,,,,,,,1.0,7.0,1161211
+Rubén Vargas,Switzerland,MID,Sevilla,1608,24,3,6,,,,,,,,,1.0,7.0,860752
+Zeki Amdouni,Switzerland,FWD,Burnley,69,4,0,0,,,,,,,,,0.16,6.05,1067168
+Aymen Dahmen,Tunisia,GK,CS Sfaxien,0,0,0,0,,,,,,,,,0.0,,982855
+Sabri Ben Hessen,Tunisia,GK,CS Sfaxien,0,0,0,0,,,,,,,,,0.0,,543363
+Cedric Itten,Switzerland,FWD,Fortuna Düsseldorf,2625,30,15,3,,,,,,,,,1.0,7.08,726956
+Ali Abdi,Tunisia,DEF,Nice,1165,22,3,0,,,,,,,,,0.88,6.68,566187
+Noah Okafor,Switzerland,MID,Leeds United,1568,28,8,1,,,,,,,,,1.0,6.94,915797
+Montassar Talbi,Tunisia,DEF,Lorient,2610,29,0,1,,,,,,,,,1.0,6.9,846392
+Amine Ben Hamida,Tunisia,DEF,Espérance,0,0,0,0,,,,,,,,,0.0,,1131928
+Adem Arous,Tunisia,DEF,Kasımpaşa,1672,21,1,0,,,,,,,,,0.95,6.92,1797902
+Moutaz Neffati,Tunisia,DEF,IFK Norrköping,608,7,1,0,,,,,,,,,0.35,,1413151
+Yan Valery,Tunisia,DEF,Young Boys,942,14,0,3,,,,,,,,,0.56,6.925714285714285,789596
+Elias Achouri,Tunisia,FWD,FC København,1303,20,3,3,,,,,,,,,0.8,6.995,1015128
+Hannibal Mejbri,Tunisia,MID,Burnley,1231,27,1,4,,,,,,,,,1.0,6.64,1113785
+Ismaël Gharbi,Tunisia,MID,Augsburg,88,6,0,0,,,,,,,,,0.24,6.16,1244924
+Rani Khedira,Tunisia,MID,Union Berlin,2835,32,5,1,,,,,,,,,1.0,6.85,304348
+Hadj Mahmoud,Tunisia,MID,Lugano,1526,30,2,1,,,,,,,,,1.0,6.606206896551724,1131896
+Anis Ben Slimane,Tunisia,MID,Norwich City,1235,22,5,2,,,,,,,,,0.88,6.84,1055316
+Elias Saad,Tunisia,MID,Hannover 96,707,13,0,3,,,,,,,,,0.52,7.01,1285773
+Hazem Mastouri,Tunisia,FWD,Dynamo Makhachkala,1091,21,2,0,,,,,,,,,0.84,6.41,1311408
+Ellyes Skhiri,Tunisia,DEF,Eintracht Frankfurt,1442,25,0,0,,,,,,,,,1.0,6.49,574642
+Rayan Elloumi,Tunisia,FWD,Vancouver Whitecaps,75,10,0,0,,,,,,,,,0.4,6.15,1685596
+Omar Rekik,Tunisia,DEF,Maribor,0,0,0,0,,,,,,,,,0.0,,1160097
+Dylan Bronn,Tunisia,DEF,Servette,1215,14,0,1,,,,,,,,,0.7,6.71,771686
+Firas Chaouat,Tunisia,FWD,Club Africain,0,0,0,0,,,,,,,,,0.0,,845336
+Mortadha Ben Ouanes,Tunisia,DEF,Kasımpaşa,2277,28,2,6,,,,,,,,,1.0,6.93,712132
+Sebastian Tounekti,Tunisia,FWD,Celtic,1510,27,2,2,,,,,,,,,1.0,6.961153846153847,921919
+Mert Günok,Turkiye,GK,Fenerbahçe,1105,13,0,0,,,,,,,,,0.52,6.39,150372
+Merih Demiral,Turkiye,DEF,Al Ahli,1646,20,2,0,,,,,,,,,1.0,7.1,823078
+Eren Elmali,Turkiye,DEF,Galatasaray,1524,25,3,0,,,,,,,,,1.0,7.16,1041660
+Caglar Söyüncü,Turkiye,DEF,Fenerbahçe,772,11,0,1,,,,,,,,,0.5,7.05,602261
+Altay Bayindir,Turkiye,GK,Manchester United,540,6,0,0,,,,,,,,,0.24,6.38,866967
+Ugurcan Çakir,Turkiye,GK,Galatasaray,2610,29,0,0,,,,,,,,,1.0,7.37,603669
+Ferdi Kadioglu,Turkiye,DEF,Brighton & Hove Albion,3134,37,1,0,,,,,,,,,1.0,6.93,774448
+Abdülkerim Bardakci,Turkiye,DEF,Galatasaray,2546,30,0,1,,,,,,,,,1.0,7.17,291399
+Ozan Kabak,Turkiye,DEF,Hoffenheim,1745,25,4,0,,,,,,,,,1.0,7.06,845990
+Mert Müldür,Turkiye,DEF,Fenerbahçe,1214,24,1,2,,,,,,,,,0.96,6.91,904098
+Kaan Ayhan,Turkiye,DEF,Galatasaray,381,19,1,0,,,,,,,,,0.76,6.51,441164
+Zeki Çelik,Turkiye,DEF,Roma,2730,34,1,2,,,,,,,,,1.0,7.04,867225
+Salih Özcan,Turkiye,MID,Borussia Dortmund,73,11,0,0,,,,,,,,,0.44,6.48,738064
+Samet Akaydin,Turkiye,DEF,Rizespor,2571,29,3,1,,,,,,,,,1.0,7.07,424380
+Orkun Kökcü,Turkiye,MID,Beşiktaş,2481,30,8,8,,,,,,,,,1.0,7.73,935409
+Arda Güler,Turkiye,MID,Real Madrid,2026,33,4,9,,,,,,,,,1.0,7.43,1253890
+Ismail Yüksek,Turkiye,MID,Fenerbahçe,1764,30,1,2,,,,,,,,,1.0,7.09,1183589
+Yunus Akgün,Turkiye,MID,Galatasaray,1825,28,7,9,,,,,,,,,1.0,7.42,845991
+Hakan Çalhanoglu,Turkiye,MID,Inter,1649,22,9,4,,,,,,,,,1.0,7.8,304733
+Kenan Yildiz,Turkiye,MID,Juventus,2838,36,10,6,,,,,,,,,1.0,7.5,1412132
+Can Uzun,Turkiye,MID,Eintracht Frankfurt,1164,21,8,4,,,,,,,,,0.84,7.13,1367924
+Deniz Gül,Turkiye,FWD,FC Porto,1170,29,5,1,,,,,,,,,1.0,6.46,1406300
+Irfan Kahveci,Turkiye,MID,Kasımpaşa,1653,24,2,3,,,,,,,,,0.96,7.03,316544
+Kerem Aktürkoglu,Turkiye,MID,Fenerbahçe,1959,29,8,7,,,,,,,,,1.0,7.34,1117570
+Baris Alper Yilmaz,Turkiye,MID,Galatasaray,2318,30,8,11,,,,,,,,,1.0,7.39,890232
+Oguz Aydin,Turkiye,DEF,Fenerbahçe,640,21,0,2,,,,,,,,,0.84,6.7,1092015
+Matt Freese,USA,GK,New York City FC,1350,15,0,0,,,,,,,,,0.6,6.79,1026065
+Matt Turner,USA,GK,New England Revolution,1260,14,0,0,,,,,,,,,0.56,7.42,729988
+Chris Brady,USA,GK,Chicago Fire FC,1260,14,0,0,,,,,,,,,0.56,7.24,1245998
+Sergiño Dest,USA,DEF,PSV Eindhoven,2204,27,1,5,,,,,,,,,1.0,7.42,892816
+Antonee Robinson,USA,DEF,Fulham,1492,22,1,0,,,,,,,,,0.88,7.16,662428
+Alex Freeman,USA,DEF,Villarreal,340,9,0,0,,,,,,,,,0.36,6.66,1338696
+Chris Richards,USA,DEF,Crystal Palace,2826,33,1,0,,,,,,,,,1.0,6.87,950829
+Miles Robinson,USA,DEF,FC Cincinnati,606,9,0,0,,,,,,,,,0.4,6.36,825623
+Tim Ream,USA,DEF,Charlotte FC,945,11,0,1,,,,,,,,,0.55,6.85,198444
+Auston Trusty,USA,DEF,Celtic,2162,26,0,0,,,,,,,,,1.0,7.197307692307692,688271
+Joseph Scally,USA,DEF,Borussia Mönchengladbach,2611,32,2,3,,,,,,,,,1.0,6.82,959696
+Mark McKenzie,USA,DEF,Toulouse,2427,30,0,2,,,,,,,,,1.0,6.88,924485
+Tyler Adams,USA,MID,AFC Bournemouth,1778,25,2,2,,,,,,,,,1.0,6.94,729769
+Giovanni Reyna,USA,MID,Borussia Mönchengladbach,510,19,1,0,,,,,,,,,0.76,6.56,1071179
+Weston McKennie,USA,DEF,Juventus,2841,36,5,5,,,,,,,,,1.0,7.22,848266
+Brenden Aaronson,USA,MID,Leeds United,2465,37,4,5,,,,,,,,,1.0,6.69,952322
+Sebastian Berhalter,USA,MID,Vancouver Whitecaps,1124,14,6,4,,,,,,,,,0.65,8.01,1136096
+Cristian Roldan,USA,MID,Seattle Sounders FC,954,12,3,1,,,,,,,,,0.5,7.36,621946
+Ricardo Pepi,USA,FWD,PSV Eindhoven,1415,26,16,1,,,,,,,,,1.0,7.39,1036401
+Max Arfsten,USA,DEF,Columbus Crew,1287,15,4,4,,,,,,,,,0.75,7.6,1348329
+Malik Tillman,USA,MID,Bayer Leverkusen,1677,29,6,0,,,,,,,,,1.0,7.07,1126058
+Timothy Weah,USA,DEF,Marseille,2263,29,2,2,,,,,,,,,1.0,6.97,889536
+Folarin Balogun,USA,FWD,Monaco,2245,30,13,4,,,,,,,,,1.0,7.03,982677
+Haji Wright,USA,FWD,Coventry City,2593,40,17,1,,,,,,,,,1.0,6.87,848268
+Álex Zendejas,USA,MID,CF America,923,12,6,4,,,,,,,,,0.55,7.668333333333333,621882
+Christian Pulisic,USA,FWD,Milan,1611,30,8,4,,,,,,,,,1.0,7.11,688295
+Fernando Muslera,Uruguay,GK,Estudiantes,1035,12,0,0,,,,,,,,,0.48,7.264166666666665,56829
+Santiago Mele,Uruguay,GK,Monterrey,180,2,0,0,,,,,,,,,0.08,6.3,848027
+José Giménez,Uruguay,DEF,Atletico Madrid,1177,16,0,1,,,,,,,,,0.65,6.9,474589
+Sebastián Cáceres,Uruguay,DEF,CF America,1092,13,0,0,,,,,,,,,0.6,6.7807692307692315,1020026
+Ronald Araujo,Uruguay,DEF,Barcelona,1061,24,3,0,,,,,,,,,0.96,6.9,921253
+Guillermo Varela,Uruguay,DEF,Flamengo,1069,14,0,3,,,,,,,,,0.56,7.13,465614
+Sergio Rochet,Uruguay,GK,Internacional,990,11,0,0,,,,,,,,,0.44,6.62,553476
+Joaquín Piquerez,Uruguay,DEF,Palmeiras,462,6,0,1,,,,,,,,,0.25,7.31,861661
+Manuel Ugarte,Uruguay,MID,Manchester United,881,22,0,0,,,,,,,,,0.88,6.69,1035614
+Juan Sanabria,Uruguay,DEF,Real Salt Lake,907,11,0,4,,,,,,,,,0.5,7.43,1053963
+Maxi Araújo,Uruguay,DEF,Sporting CP,2215,29,5,4,,,,,,,,,1.0,7.4,1031656
+Nicolás de la Cruz,Uruguay,MID,Flamengo,224,10,0,0,,,,,,,,,0.4,6.59,751198
+Federico Valverde,Uruguay,DEF,Real Madrid,2746,33,5,8,,,,,,,,,1.0,7.6,743533
+Mathías Olivera,Uruguay,DEF,Napoli,1369,25,0,0,,,,,,,,,1.0,6.84,729093
+Santiago Bueno,Uruguay,DEF,Wolverhampton Wanderers,2553,29,3,1,,,,,,,,,1.0,6.63,848034
+Rodrigo Bentancur,Uruguay,MID,Tottenham Hotspur,1892,26,1,1,,,,,,,,,1.0,7.11,620618
+Matías Viña,Uruguay,DEF,River Plate,541,10,0,0,,,,,,,,,0.4,6.592222222222222,840184
+Facundo Pellistri,Uruguay,FWD,Panathinaikos,320,8,0,2,,,,,,,,,0.32,6.58,1073402
+Agustín Canobbio,Uruguay,FWD,Fluminense,863,11,4,1,,,,,,,,,0.55,7.33,840212
+Emiliano Martínez,Uruguay,DEF,Palmeiras,231,6,0,0,,,,,,,,,0.24,6.89,1137909
+Federico Viñas,Uruguay,FWD,Real Oviedo,2451,33,9,1,,,,,,,,,1.0,6.98,1032811
+Giorgian de Arrascaeta,Uruguay,MID,Flamengo,747,10,3,1,,,,,,,,,0.45,7.49,438647
+Rodrigo Zalazar,Uruguay,MID,Braga,1944,28,16,5,,,,,,,,,1.0,7.49,1070776
+Darwin Núñez,Uruguay,MID,Al Hilal,1251,16,6,4,,,,,,,,,0.7,7.38,950561
+Rodrigo Aguirre,Uruguay,FWD,Tigres,1012,15,1,2,,,,,,,,,0.65,6.298666666666666,401095
+Brian Rodríguez,Uruguay,MID,CF America,1315,18,6,3,,,,,,,,,0.75,7.514117647058824,941660
+Utkir Yusupov,Uzbekistan,GK,Foolad Khuzestan,0,0,0,0,,,,,,,,,0.0,,619700
+Abduvohid Nematov,Uzbekistan,GK,Nasaf Qarshi,0,0,0,0,,,,,,,,,0.0,,1259187
+Abdukodir Khusanov,Uzbekistan,DEF,Manchester City,1429,21,0,0,,,,,,,,,0.84,7.12,1362998
+Khoziakbar Alidzhanov,Uzbekistan,DEF,Pakhtakor Tashkent,0,0,0,0,,,,,,,,,0.0,,940778
+Rustam Ashurmatov,Uzbekistan,DEF,Esteghlal,0,0,0,0,,,,,,,,,0.0,,643624
+Botirali Ergashev,Uzbekistan,GK,AGMK,0,0,0,0,,,,,,,,,0.0,,643639
+Avazbek Ulasmaliev,Uzbekistan,DEF,AGMK,0,0,0,0,,,,,,,,,0.0,,1029597
+Bekhruz Karimov,Uzbekistan,DEF,PFC Surkhon Termez,0,0,0,0,,,,,,,,,0.0,,1898281
+Umar Eshmuradov,Uzbekistan,DEF,Nasaf Qarshi,0,0,0,0,,,,,,,,,0.0,,922298
+Sherzod Nasrulloev,Uzbekistan,DEF,Nasaf Qarshi,0,0,0,0,,,,,,,,,0.0,,1258316
+Akmal Mozgovoy,Uzbekistan,MID,Pakhtakor Tashkent,521,11,0,0,,,,,,,,,0.44,6.4,929168
+Jakhongir Urozov,Uzbekistan,DEF,Uzbekistan,0,0,0,0,,,,,,,,,0.0,,1477513
+Farrukh Sayfiev,Uzbekistan,DEF,Navbahor Namangan,0,0,0,0,,,,,,,,,0.0,,589585
+Otabek Shukurov,Uzbekistan,MID,Baniyas,1178,19,0,3,,,,,,,,,0.76,6.7,624405
+Odiljon Khamrobekov,Uzbekistan,MID,Tractor,0,0,0,0,,,,,,,,,0.0,,619697
+Dostonbek Khamdamov,Uzbekistan,FWD,Pakhtakor Tashkent,0,0,0,0,,,,,,,,,0.0,,619508
+Oston Urunov,Uzbekistan,MID,Persepolis,0,0,0,0,,,,,,,,,0.0,,1057486
+Eldor Shomurodov,Uzbekistan,MID,Başakşehir,2928,34,22,5,,,,,,,,,1.0,7.43,619513
+Abdulla Abdullaev,Uzbekistan,DEF,Dibba Al Fujairah,750,9,0,0,,,,,,,,,0.4,6.61,1294120
+Jamshid Iskandarov,Uzbekistan,FWD,Neftchi Fargona,0,0,0,0,,,,,,,,,0.0,,431169
+Azizbek Amonov,Uzbekistan,MID,Dinamo Samarkand,0,0,0,0,,,,,,,,,0.0,,933051
+Sherzod Esanov,Uzbekistan,FWD,Buxoro,0,0,0,0,,,,,,,,,0.0,,1477517
+Aziz G'aniev,Uzbekistan,MID,Al Bataeh,2150,25,2,3,,,,,,,,,1.0,7.05,629823
+Jaloliddin Masharipov,Uzbekistan,FWD,Esteghlal,0,0,0,0,,,,,,,,,0.0,,533382
+Igor Sergeev,Uzbekistan,FWD,Persepolis,0,0,0,0,,,,,,,,,0.0,,251915
+Abbosbek Fayzullayev,Uzbekistan,MID,Başakşehir,1108,20,3,3,,,,,,,,,0.8,7.16,1249993

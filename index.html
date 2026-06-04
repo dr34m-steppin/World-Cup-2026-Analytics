@@ -10,26 +10,26 @@
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <body>
+  <body data-page="home">
     <header class="site-header">
       <nav class="nav">
-        <a class="brand" href="#top" aria-label="World Cup 2026 Analytics home">
+        <a class="brand" href="index.html" aria-label="World Cup 2026 Analytics home">
           <span class="brand-mark">26</span>
           <span>World Cup Analytics</span>
         </a>
         <div class="nav-links">
-          <a href="#predictions">Predictions</a>
-          <a href="#leaderboard">Impact</a>
-          <a href="#matches">Matches</a>
-          <a href="#teams">Teams</a>
+          <a href="predictions.html" data-nav="predictions">Predictions</a>
+          <a href="impact.html" data-nav="impact">Impact</a>
+          <a href="matches.html" data-nav="matches">Matches</a>
+          <a href="teams.html" data-nav="teams">Teams</a>
         </div>
       </nav>
     </header>
 
-    <main id="top">
+    <main>
       <section class="hero">
         <div class="hero-copy">
-          <p class="eyebrow">USA · Canada · Mexico 2026</p>
+          <p class="eyebrow">USA - Canada - Mexico 2026</p>
           <h1>Predictions, player impact, and post-match intelligence in one living dashboard.</h1>
           <p>
             A public analytics surface for tournament probabilities, matchup forecasts,
@@ -37,8 +37,8 @@
             after every completed fixture.
           </p>
           <div class="hero-actions">
-            <a class="button primary" href="#predictions">View model</a>
-            <a class="button secondary" href="#leaderboard">Player impact</a>
+            <a class="button primary" href="predictions.html">View model</a>
+            <a class="button secondary" href="impact.html">Player impact</a>
           </div>
         </div>
         <div class="hero-panel" aria-label="Model snapshot">
@@ -73,82 +73,33 @@
         </div>
       </section>
 
-      <section class="section" id="predictions">
+      <section class="section">
         <div class="section-heading">
-          <p class="eyebrow">Tournament forecast</p>
-          <h2>Title probabilities and bracket path</h2>
+          <p class="eyebrow">Explore the model</p>
+          <h2>Choose a room</h2>
         </div>
-        <div class="prediction-layout">
-          <div class="table-shell">
-            <table>
-              <thead>
-                <tr>
-                  <th>Rank</th>
-                  <th>Country</th>
-                  <th>Rating</th>
-                  <th>Win</th>
-                  <th>Final</th>
-                  <th>Semi</th>
-                </tr>
-              </thead>
-              <tbody id="predictionTable"></tbody>
-            </table>
-          </div>
-          <div class="bracket" id="bracket"></div>
+        <div class="page-card-grid">
+          <a class="page-card" href="predictions.html">
+            <span>01</span>
+            <h3>Predictions</h3>
+            <p>Title probabilities, knockout paths, and projected matchups.</p>
+          </a>
+          <a class="page-card" href="impact.html">
+            <span>02</span>
+            <h3>Player Impact</h3>
+            <p>Leaderboard for attacking, defensive, and availability value.</p>
+          </a>
+          <a class="page-card" href="matches.html">
+            <span>03</span>
+            <h3>Matches</h3>
+            <p>Individual matchup probabilities and analysis notes.</p>
+          </a>
+          <a class="page-card" href="teams.html">
+            <span>04</span>
+            <h3>Teams</h3>
+            <p>All 48 nations ranked and profiled through the model.</p>
+          </a>
         </div>
-      </section>
-
-      <section class="section" id="leaderboard">
-        <div class="section-heading inline-heading">
-          <div>
-            <p class="eyebrow">Player impact model</p>
-            <h2>Impact leaderboard</h2>
-          </div>
-          <label class="filter-label">
-            Role
-            <select id="roleFilter">
-              <option value="all">All roles</option>
-              <option value="GK">Goalkeepers</option>
-              <option value="DEF">Defenders</option>
-              <option value="MID">Midfielders</option>
-              <option value="FWD">Forwards</option>
-            </select>
-          </label>
-        </div>
-        <div class="table-shell">
-          <table>
-            <thead>
-              <tr>
-                <th>Rank</th>
-                <th>Player</th>
-                <th>Country</th>
-                <th>Role</th>
-                <th>Impact</th>
-                <th>Attack</th>
-                <th>Defense</th>
-                <th>Availability</th>
-                <th>Source</th>
-              </tr>
-            </thead>
-            <tbody id="leaderboardTable"></tbody>
-          </table>
-        </div>
-      </section>
-
-      <section class="section" id="matches">
-        <div class="section-heading">
-          <p class="eyebrow">Match center</p>
-          <h2>Upcoming predictions and analysis</h2>
-        </div>
-        <div class="match-grid" id="matchGrid"></div>
-      </section>
-
-      <section class="section" id="teams">
-        <div class="section-heading">
-          <p class="eyebrow">Scouting room</p>
-          <h2>Team profiles</h2>
-        </div>
-        <div class="team-grid" id="teamGrid"></div>
       </section>
     </main>
 
@@ -162,3 +113,4 @@
     <script src="app.js"></script>
   </body>
 </html>
+

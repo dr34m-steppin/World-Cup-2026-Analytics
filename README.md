@@ -37,6 +37,23 @@ python scripts/fotmob_sync.py
 python scripts/model.py
 ```
 
+## Build The 410-Player Pool
+
+Export FotMob-derived World Cup squad and club-season player data:
+
+```powershell
+python scripts/export_fotmob_player_pool.py --delay 0.05 --workers 10
+```
+
+Then build the leaderboard:
+
+```powershell
+python scripts/build_player_pool.py --limit 410 --min-minutes 900 --min-apps 12
+```
+
+This filters for World Cup teams, keeps regular club players, ranks them by the
+impact model, and writes the top 410 players to `data/world-cup-2026.json`.
+
 ## GitHub Pages
 
 The site is ready for GitHub Pages. Push this repository to:
