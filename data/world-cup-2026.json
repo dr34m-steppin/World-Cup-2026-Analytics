@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-05",
+    "last_updated": "2026-07-06",
     "source": "FotMob-derived player export plus current team model",
     "team_list_source": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/world-cup-2026-who-has-qualified",
     "squad_source_note": "FIFA published final 48 squad lists on 2026-06-01. FotMob player-level ingestion still requires approved API access, a FotMob export, or verified player IDs.",
